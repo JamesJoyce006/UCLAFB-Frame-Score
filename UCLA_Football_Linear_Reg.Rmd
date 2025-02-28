@@ -1,0 +1,399 @@
+---
+title: "Random_forest_UCLA_FB"
+author: "James Joyce - 205765421"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+## Read In The Libraries
+```{r}
+library(tidyverse)
+library(tibble)
+library(tidymodels)
+library(brms)
+library(dplyr)
+```
+
+
+
+## Read in the Dataset
+```{r}
+total_combine <- read_csv("total_combine.csv")
+```
+
+Exploratory Data Analysis
+```{r}
+ggplot(total_combine, aes(x = Weight)) + 
+  geom_histogram(bins = 50, col= "white") 
+
+
+ggplot(total_combine, aes(x = Pos))+
+  geom_bar()
+
+
+ggplot(total_combine, aes(x = Height)) + 
+  geom_histogram(bins = 50, col= "white") 
+
+
+
+library(ggridges)
+
+ggplot(total_combine, aes(x = Weight, y = Pos, fill = Pos)) +
+  geom_density_ridges(alpha = 0.8) +
+  labs(
+    title = "Ridgeline Plot of Weight by Position Group",
+    x = "Weight (Pounds)",
+    y = "Position Group"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "none")
+
+
+
+ggplot(total_combine, aes(x = Height, y = Pos, fill = Pos)) +
+  geom_density_ridges(alpha = 0.8) +
+  labs(
+    title = "Ridgeline Plot of Height by Position Group",
+    x = "Height (inches)",
+    y = "Position Group"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "none")
+
+
+ggplot(total_combine, aes(x = Arm, y = Pos, fill = Pos)) +
+  geom_density_ridges(alpha = 0.8) +
+  labs(
+    title = "Ridgeline Plot of Arm Length by Position Group",
+    x = "Length (inches)",
+    y = "Position Group"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "none")
+
+ggplot(total_combine, aes(x = Hand, y = Pos, fill = Pos)) +
+  geom_density_ridges(alpha = 0.8) +
+  labs(
+    title = "Ridgeline Plot of Hand Size by Position Group",
+    x = "Length (inches)",
+    y = "Position Group"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "none")
+
+
+```
+
+
+
+
+
+### Split Dataset
+```{r}
+set.seed(1501)
+
+reduced_combine <- total_combine %>% mutate(arm_to_wingspan = Arm / Wing)
+
+reduced_combine <- reduced_combine[,c(-1,-2,-6,-7)]
+
+reduced_combine$Pos <- factor(reduced_combine$Pos, levels = c("OL","IOL","DL","EDGE","TE","LB","QB","RB","WR","CB","S"))
+
+
+
+nfl_split <- initial_split(reduced_combine, strata = Pos)
+nfl_train <- training(nfl_split)
+nfl_test  <- testing(nfl_split)
+
+
+```
+
+
+
+```{r}
+
+ridge_recipe <- recipe(Weight ~ ., data = nfl_train) %>%
+    step_naomit(all_predictors(), all_outcomes()) %>% 
+  step_normalize(all_numeric_predictors()) %>%
+  step_dummy(all_nominal_predictors(), one_hot = FALSE)
+
+# Linear Regression
+
+
+
+
+
+folds <- vfold_cv(nfl_train, v = 5, strata = Weight)
+
+
+
+```
+
+
+### Random Forest
+
+```{r}
+
+rf_model <- rand_forest(
+    trees = tune(),  # Number of trees (to be tuned)
+  mtry = tune(),   # Number of variables tried at each split
+  min_n = tune()  
+  ) %>% 
+  set_engine("ranger") %>% 
+  set_mode("regression")
+
+
+rf_workflow <- workflow() %>%
+  add_model(rf_model) %>%
+     add_recipe(ridge_recipe)
+
+rf_grid <- grid_random(
+  trees(range = c(100, 200)),  # Number of trees (from 500 to 2000)
+  mtry(range = c(1, 10)),  # Select from 1 to max features
+  min_n(range = c(2, 10)),  # Minimum node size from 2 to 10
+  size = 20  # 20 random combinations
+)
+
+rf_results <- tune_grid(
+  rf_workflow,
+  resamples = folds,
+  grid = rf_grid,
+  metrics = metric_set(rmse, rsq)  # Evaluate using RMSE and R²
+)
+
+best_rf <- rf_results %>%
+  select_best(metric = "rmse")  # Select best hyperparameters based on RMSE
+
+print(best_rf)
+
+rf_results$.metrics
+```
+
+
+### Linear Regression
+
+```{r}
+lm_model <- linear_reg() %>%
+  set_engine("lm")
+
+lm_workflow <- workflow() %>%
+  add_model(lm_model) %>%
+   add_recipe(ridge_recipe)
+
+set.seed(123)
+cv_results <- lm_workflow %>% 
+  fit_resamples(
+    resamples = folds,
+    metrics = metric_set(rmse, rsq, mae) # Metrics to evaluate
+  )
+
+# Select best parameters based on RMSE
+best_linear <- select_best(cv_results, metric = "rmse")
+
+best_model <- cv_results %>%
+  collect_metrics() %>%
+  filter(.metric == "rmse") %>%
+  arrange(mean) #%>%
+  #slice(1)  # 
+
+```
+
+
+### Ridge Regression
+
+```{r}
+ridge_model <- linear_reg(penalty = tune(), mixture = 0) %>%  # Mixture = 0 for Ridge
+  set_engine("glmnet") %>%
+  set_mode("regression")
+
+# Ridge Regression Workflow
+ridge_workflow <- workflow() %>%
+  add_model(ridge_model) %>%
+     add_recipe(ridge_recipe)
+
+ridge_grid <- grid_regular(penalty(range = c(0.0001, 1)), levels = 20)  # Tune lambda
+
+ridge_results <- tune_grid(
+  ridge_workflow,
+  resamples = folds,
+  grid = ridge_grid,
+  metrics = metric_set(rmse, rsq)  # Evaluate using RMSE and R²
+)
+```
+
+
+### Gradient Boosting
+
+```{r}
+xgb_model <-  boost_tree(mtry = tune(), 
+                         trees = tune(),
+                         tree_depth = tune(), 
+                         loss_reduction = tune(),
+                         learn_rate = tune()) %>%
+    set_engine("xgboost") %>%
+    set_mode("regression")
+
+xgb_workflow <- workflow() %>%
+  add_model(xgb_model) %>%
+  add_recipe(ridge_recipe)
+
+xgb_grid <- grid_random(
+  trees(range = c(50, 200)),
+  tree_depth(range = c(2, 10)),
+  learn_rate(range = c(0.001, 0.3)),
+  loss_reduction(range = c(0, 10)),
+  mtry(range = c(1, ncol(nfl_train) - 1)),
+  size = 20  # 20 random samples
+)
+
+xgb_results <- tune_grid(
+  xgb_workflow,
+  resamples = folds,
+  grid = xgb_grid,
+  metrics = metric_set(rmse, rsq)
+)
+
+# Select best parameters based on RMSE
+best_xgb <- select_best(xgb_results, metric = "rmse")
+
+print(best_xgb)
+
+```
+## Fitting Linear Regression Model
+
+```{r}
+library(car)
+final_linear <- finalize_model(lm_model, best_linear)
+
+final_linear_workflow <- workflow() %>%
+  add_model(final_linear) %>%
+  add_recipe(ridge_recipe)
+
+
+lm_fit <- final_linear_workflow %>% fit(nfl_train)
+
+lm_predictions <- predict(lm_fit, nfl_test) %>%
+  bind_cols(nfl_test)
+
+fitted_lm <- lm_fit %>%
+  extract_fit_parsnip() %>%
+  pluck("fit")
+
+vif_values <- vif(fitted_lm)
+
+# Print VIF values
+print(vif_values)
+
+glance(lm_fit)
+
+lm_fit %>% extract_fit_engine()
+
+predictions_summary <- lm_predictions %>%
+  summarize(
+    mean_pred = mean(.pred, na.rm = TRUE),
+    sd_pred = sd(.pred, na.rm = TRUE),
+    min_pred = min(.pred, na.rm = TRUE),
+    max_pred = max(.pred, na.rm = TRUE),
+    mean_residual = mean(Weight - .pred, na.rm = TRUE),
+    sd_residual = sd(Weight - .pred, na.rm = TRUE)
+  )
+```
+
+```{r}
+ggplot(lm_predictions, aes(x = .pred, y = Weight, color = Pos)) +
+  geom_point(alpha = 0.6) +  # Scatter points
+  geom_abline(intercept = 0, slope = 1, color = "red", linetype = "dashed") +  # Perfect prediction line
+  labs(
+    title = "Estimate vs. Truth",
+    x = "Truth (Actual Values)",
+    y = "Estimate (Predicted Values)"
+  ) +
+  theme_minimal()
+```
+
+
+```{r}
+ggplot(lm_predictions, aes(x = .pred, y = (.pred - Weight), colour = Pos)) +
+  geom_point(alpha = 0.5) +
+  geom_hline(yintercept = 0, linetype = "dashed", color = "red") +
+  labs(title = "Residual Plot", x = "Fitted Values (Predicted mpg)", y = "Residuals") +
+  theme_minimal()
+
+```
+
+
+```{r}
+ggplot(lm_predictions, aes(x = (.pred - Weight), y = Pos, fill = Pos)) +
+  geom_density_ridges(alpha = 0.8) +
+  labs(
+    title = "Ridgeline Plot of Residuals by Position Group",
+    x = "Weight (Pounds)",
+    y = "Position Group"
+  ) +
+  theme_minimal() +
+  theme(legend.position = "none")
+```
+
+### Fitting XGBoost Model
+
+```{r}
+final_xgb <- finalize_model(xgb_model, best_xgb)
+
+final_xgb_workflow <- workflow() %>%
+  add_model(final_xgb) %>%
+  add_recipe(ridge_recipe)
+
+
+xgb_fit <- final_xgb_workflow %>% fit(nfl_train)
+
+xgb_predictions <- predict(xgb_fit, nfl_test) %>%
+  bind_cols(nfl_test)
+
+
+#glance(xgb_fit)
+
+
+
+predictions_summary <- xgb_predictions %>%
+  summarize(
+    mean_pred = mean(.pred, na.rm = TRUE),
+    sd_pred = sd(.pred, na.rm = TRUE),
+    min_pred = min(.pred, na.rm = TRUE),
+    max_pred = max(.pred, na.rm = TRUE),
+    mean_residual = mean(Weight - .pred, na.rm = TRUE),
+    sd_residual = sd(Weight - .pred, na.rm = TRUE)
+  )
+```
+
+```{r}
+ggplot(xgb_predictions, aes(x = .pred, y = Weight, color = Pos)) +
+  geom_point(alpha = 0.6) +  # Scatter points
+  geom_abline(intercept = 0, slope = 1, color = "red", linetype = "dashed") +  # Perfect prediction line
+  labs(
+    title = "Estimate vs. Truth",
+    x = "Truth (Actual Values)",
+    y = "Estimate (Predicted Values)"
+  ) +
+  theme_minimal()
+```
+
+
+
+### Blending
+
+```{r}
+library(stacks)
+cv_control <- control_resamples(save_pred = TRUE, save_workflow = TRUE)
+folds <- vfold_cv(nfl_train, v = 5, strata = Pos)
+
+lm_results <- fit_resamples(
+  lm_workflow,
+  resamples = folds,
+  metrics = metric_set(rmse, rsq)
+)
+
+model_stack <- stacks() %>%
+  add_candidates(lm_results) %>%
+  add_candidates(xgb_results)
+
+```
+
