@@ -1,1313 +1,1313 @@
-#,Name,Height,Weight,Arm,Hand,Vertical,Broad,Position_Group
-QB,"Bryant, Kelly",6031,229,32 1/4,9 1/2,35,"10'5""",Quarterback
-QB,"Burrow, Joe",6034,221,30 7/8,9,NA,NA,Quarterback
-QB,"Davidson, Kevin",6041,224,30 7/8,8 1/4,NA,NA,Quarterback
-QB,"Eason, Jacob",6057,231,32 7/8,9 1/2,27.5,"9'2""",Quarterback
-QB,"Fromm, Jake",6017,219,31 1/8,8 7/8,30.0,"9'3""",Quarterback
-QB,"Gordon, Anthony",6023,205,31,9 3/4,NA,NA,Quarterback
-QB,"Herbert, Justin",6062,236,32 7/8,10,35.5,"10'3""",Quarterback
-QB,"Hurts, Jalen",6010,222,31 3/4,9 3/4,35.0,"10'5""",Quarterback
-QB,"Lewerke, Brian",6024,213,32 1/8,10 5/8,NA,NA,Quarterback
-QB,"Love, Jordan",6036,224,32 5/8,10 1/2,35.5,"9'10""",Quarterback
-QB,"Luton, Jake",6061,224,31 3/4,10 3/8,NA,NA,Quarterback
-QB,"McDonald, Cole",6031,215,32 1/4,9 3/4,36.0,"10'1""",Quarterback
-QB,"Montez, Steven",6040,231,32 3/4,9 3/8,33.0,"9'9""",Quarterback
-QB,"Morgan, James",6040,229,33 3/8,9 3/4,29.0,"9'4""",Quarterback
-QB,"Patterson, Shea",6007,212,30 1/2,9 3/8,31.0,"9'8""",Quarterback
-QB,"Stanley, Nate",6036,235,32 5/8,10,28.5,"9'0""",Quarterback
-QB,"Tagovailoa, Tua",6000,217,30 1/2,9 7/8,NA,NA,Quarterback
-WR,"Aiyuk, Brandon",5115,205,33 1/2,9 3/4,40,"10'8""",Wide_Receiver
-WR,"Bayless, Omar",6006,212,31 7/8,9,36,"10'3""",Wide_Receiver
-WR,"Bowden, Lynn",5105,204,30 7/8,9 3/4,NA,NA,Wide_Receiver
-WR,"Brown, Tony",6006,198,31 1/2,9 1/4,33.5,"9'11""",Wide_Receiver
-WR,"Cager, Lawrence",6046,220,33 3/8,8 7/8,NA,NA,Wide_Receiver
-WR,"Callaway, Marquez",6012,205,32 3/8,9 3/8,38,"10'6""",Wide_Receiver
-WR,"Cephus, Quintez",6007,202,32 1/8,8 3/4,38.5,"10'4""",Wide_Receiver
-WR,"Claypool, Chase",6042,238,32 1/2,9 7/8,40.5,"10'6""",Wide_Receiver
-WR,"Cleveland, Tyrie",6023,209,32 7/8,9 1/8,39.5,"10'6""",Wide_Receiver
-WR,"Coulter, Isaiah",6017,198,31 3/4,9,36,"10'1""",Wide_Receiver
-WR,"Davis, Gabriel",6020,216,31 1/4,9 1/4,35,"10'4""",Wide_Receiver
-WR,"Davis, Quartney",6012,201,31 3/8,9 1/2,35.5,NA,Wide_Receiver
-WR,"Duvernay, Devin",5104,200,30 5/8,9 1/2,35.5,"10'3""",Wide_Receiver
-WR,"Edwards, Bryan",6026,212,32 1/4,9 1/2,NA,NA,Wide_Receiver
-WR,"Finke, Chris",5094,186,29,9,40,NA,Wide_Receiver
-WR,"Fuller, Aaron",5106,188,29 3/4,8 7/8,34,"9'10""",Wide_Receiver
-WR,"Gandy-Golden, Antonio",6040,223,31 3/4,9 5/8,36,"10'7""",Wide_Receiver
-WR,"Gibson, Antonio",6003,228,31 1/8,8 5/8,35,"9'10""",Wide_Receiver
-WR,"Guidry, Stephen",6030,201,32 3/4,9 1/8,34,"10'5""",Wide_Receiver
-WR,"Hamler, KJ",5085,178,30 3/4,9 3/8,NA,NA,Wide_Receiver
-WR,"Higgins, Tee",6035,216,34 1/8,9 1/4,NA,NA,Wide_Receiver
-WR,"Hightower, John",6014,189,31 1/2,9 3/4,38.5,"10'2""",Wide_Receiver
-WR,"Hill, K.J.",5117,196,29 1/8,9 1/4,32.5,"9'6""",Wide_Receiver
-WR,"Hodgins, Isaiah",6035,210,33 1/8,9 7/8,36.5,"10'4""",Wide_Receiver
-WR,"Jackson, Trishton",6006,197,32 3/8,9 3/4,36,"9'9""",Wide_Receiver
-WR,"Jefferson, Justin",6012,202,33,9 1/8,37.5,"10'6""",Wide_Receiver
-WR,"Jefferson, Van",6014,200,32 3/4,9 1/8,NA,NA,Wide_Receiver
-WR,"Jennings, Jauan",6031,215,31 5/8,9,29,"9'11""",Wide_Receiver
-WR,"Jeudy, Jerry",6010,193,32 1/8,9 1/2,35,"10'0""",Wide_Receiver
-WR,"Johnson, Collin",6055,222,31 3/4,9,NA,NA,Wide_Receiver
-WR,"Johnson, Juwan",6040,230,34 1/4,10 1/2,33,"10'4""",Wide_Receiver
-WR,"Johnson, Tyler",6013,206,30 7/8,9,NA,NA,Wide_Receiver
-WR,"Lamb, CeeDee",6015,198,32 1/4,9 1/4,34.5,"10'4""",Wide_Receiver
-WR,"Lipscomb, Kalija",5117,207,32 7/8,9 3/8,32,"10'7""",Wide_Receiver
-WR,"Mack, Austin",6014,208,33 5/8,10,31.5,"9'9""",Wide_Receiver
-WR,"Mims, Denzel",6027,207,33 7/8,9 3/8,38.5,"10'11""",Wide_Receiver
-WR,"Mooney, Darnell",5101,176,30 7/8,9 5/8,37,"10'4""",Wide_Receiver
-WR,"Osborn, K.J.",5114,203,31 1/4,9 1/8,37.5,"10'3""",Wide_Receiver
-WR,"Parker, Aaron",6015,209,31 1/8,9 1/8,26.5,"9'4""",Wide_Receiver
-WR,"Patmon, Dezmon",6036,225,32 3/4,10 1/4,36,"11'0""",Wide_Receiver
-WR,"Peoples-Jones, Donovan",6015,212,33 1/2,10 1/8,44.5,"11'7""",Wide_Receiver
-WR,"Perry, Malcolm",5094,186,29 5/8,8 1/2,36,"10'2""",Wide_Receiver
-WR,"Pittman, Michael",6040,223,32 1/2,9 1/4,36.5,"10'1""",Wide_Receiver
-WR,"Proche, James",5105,201,29 3/4,9 5/8,34.5,NA,Wide_Receiver
-WR,"Reagor, Jalen",5105,206,31 3/8,9 1/2,42,"11'6""",Wide_Receiver
-WR,"Reed, Joe",6004,224,31 1/8,9 3/4,38,"10'3""",Wide_Receiver
-WR,"Rogers, Kendrick",6042,208,33 1/8,9 1/8,35.5,"10'4""",Wide_Receiver
-WR,"Ruggs III, Henry",5110,188,30 1/2,10 1/8,42,"10'11""",Wide_Receiver
-WR,"Shenault Jr., Laviska",6005,227,31 7/8,9,NA,NA,Wide_Receiver
-WR,"Stewart, Darrell",6002,212,32,9 5/8,35,"9'9""",Wide_Receiver
-WR,"Swain, Freddie",6002,197,30 5/8,9,36.5,"10'4""",Wide_Receiver
-WR,"Thomas, Jeff",5087,170,30 3/8,8 3/8,36.5,"10'5""",Wide_Receiver
-WR,"Victor, Ben",6036,198,34 1/8,9 5/8,35,"10'8""",Wide_Receiver
-WR,"Watkins, Quez",6001,185,32 7/8,9,36.5,"10'5""",Wide_Receiver
-WR,"White, Cody",6033,217,32 1/2,10,35.5,"10'0""",Wide_Receiver
-TE,"Asiasi, Devin",6030,257,33 1/4,9 3/4,30.5,"9'7""",Tight_End
-TE,"Breeland, Jacob",6047,252,32 5/8,9 7/8,NA,NA,Tight_End
-TE,"Bryant, Harrison",6046,243,30 5/8,9 1/2,32.5,"9'2""",Tight_End
-TE,"Bryant, Hunter",6022,248,32,10,32.5,"9'7""",Tight_End
-TE,"Deguara, Josiah",6023,242,31 5/8,9,35.5,"9'7""",Tight_End
-TE,"Hopkins, Brycen",6037,245,32 1/8,10 1/8,33.5,"9'8""",Tight_End
-TE,"Keene, Dalton",6041,253,32 1/4,9 6/8,34,"10'5""",Tight_End
-TE,"Kmet, Cole",6056,262,33,10 1/2,37,"10'3""",Tight_End
-TE,"McKeon, Sean",6050,242,33 1/2,9 1/8,NA,NA,Tight_End
-TE,"Moss, Thaddeus",6017,250,31 7/8,9 7/8,NA,NA,Tight_End
-TE,"O’Grady, C.J.",6036,253,33 5/8,10 1/8,34,"9'11""",Tight_End
-TE,"Okwuegbunam, Albert",6054,258,34 1/8,10 1/4,NA,NA,Tight_End
-TE,"Parkinson, Colby",6072,252,33 1/4,9 5/8,32.5,"9'1""",Tight_End
-TE,"Pinkney, Jared",6040,257,32 7/8,10 1/2,NA,NA,Tight_End
-TE,"Sullivan, Stephen",6047,248,35 3/8,10 1/8,36.5,"10'3""",Tight_End
-TE,"Taumoepeau, Charlie",6022,240,32 1/4,9 1/2,36.5,"10'1""",Tight_End
-TE,"Trautman, Adam",6050,255,32 5/8,9 1/2,34.5,"9'6""",Tight_End
-TE,"Wilcox, Mitchell",6034,247,32 1/4,9 1/8,31,"9'4""",Tight_End
-TE,"Woerner, Charlie",6045,244,31 1/8,9 1/2,34.5,"10'0""",Tight_End
-TE,"Wood-Anderson, Dom",6035,261,33 1/8,9 3/4,35,"9'11""",Tight_End
-RB,"Ahmed, Salvon",5107,197,29 1/4,8 3/4,34.5,"10'0""",Running_Back
-RB,"Akers, Cam",5103,217,30 5/8,9,35.5,"10'2""",Running_Back
-RB,"Anderson, Jet",5104,208,30 1/2,9 5/8,36,"10'8""",Running_Back
-RB,"Bellamy, LeVante",5087,192,30 1/4,8 3/4,39.5,"10'5""",Running_Back
-RB,"Benjamin, Eno",5087,207,31 1/4,8 5/8,39,"10'2""",Running_Back
-RB,"Calais, Raymond",5077,188,30,9 1/4,37.5,"10'0""",Running_Back
-RB,"Dallas, DeeJay",5101,217,30 5/8,9 1/4,33.5,"9'11""",Running_Back
-RB,"Dillon, AJ",6003,247,31 5/8,9 5/8,41,"10'11""",Running_Back
-RB,"Dobbins, J.K.",5094,209,29 3/4,9 1/2,NA,NA,Running_Back
-RB,"Dowdle, Rico",5112,209,31 3/8,9,38,"10'7""",Running_Back
-RB,"Edwards-Helaire, Clyde",5072,207,29,9 5/8,39.5,"10'3""",Running_Back
-RB,"Evans, Darrynton",5101,203,31 5/8,9 1/4,37,"10'5""",Running_Back
-RB,"Hasty, JaMycal",5080,205,31 1/8,9 1/8,39,"10'3""",Running_Back
-RB,"Herrien, Brian",5111,209,29 3/4,9,38.5,"10'6""",Running_Back
-RB,"Jones, Tony",5104,220,30 5/8,9 1/2,32.5,"9'11""",Running_Back
-RB,"Kelley, Joshua",5105,212,31 5/8,9 5/8,31,"10'1""",Running_Back
-RB,"Leake, Javon",6001,215,31 1/2,9 5/8,28.5,"9'4""",Running_Back
-RB,"LeMay, Benny",5081,221,29 7/8,9,34,"10'5""",Running_Back
-RB,"McFarland, Anthony",5081,208,30 3/8,8 7/8,29.5,"9'8""",Running_Back
-RB,"Moss, Zack",5093,223,31 1/4,9 1/4,33,NA,Running_Back
-RB,"Olonilua, Sewo",6025,232,32 1/8,10,36,"10'3""",Running_Back
-RB,"Perine, La’Mical",5106,216,31 5/8,10 1/4,35,"9'10""",Running_Back
-RB,"Phillips, Scottie",5080,209,29 3/8,8 1/2,30,"9'6""",Running_Back
-RB,"Robinson, James",5090,219,29 5/8,8 3/4,40,"10'5""",Running_Back
-RB,"Swift, D’Andre",5082,212,29 7/8,9,35.5,"10'1""",Running_Back
-RB,"Taylor, J.J.",5052,185,28 3/4,8 1/2,35.5,9'10,Running_Back
-RB,"Taylor, Jonathan",5102,226,31 1/8,9 1/2,36,"10'3""",Running_Back
-RB,"Taylor, Patrick",6014,217,32 1/4,9 3/8,34,"10'3""",Running_Back
-RB,"Vaughn, Ke’Shawn",5095,214,30 7/8,8 7/8,32,"9'9""",Running_Back
-RB,"Warren, Mike",5091,226,29 1/2,9 1/8,NA,NA,Running_Back
-OT,"Adams, Trey",6080,318,34 3/8,9 7/8,24.5,"7'8""",Offensive_Line
-OT,"Adeniji, Hakeem",6043,302,33 3/4,10,34.0,"9'7""",Offensive_Line
-OT,"Anchrum, Tremayne",6017,314,33 5/8,9 5/8,24.5,"8'8""",Offensive_Line
-OT,"Bartch, Ben",6056,309,32 7/8,9,NA,NA,Offensive_Line
-OT,"Becton, Mekhi",6073,364,35 5/8,10 3/4,NA,NA,Offensive_Line
-OC,"Biadasz, Tyler",6035,314,32 1/4,10,NA,NA,Offensive_Line
-OG,"Bredeson, Ben",6045,315,31 1/8,10 1/8,NA,NA,Offensive_Line
-OC,"Cabral, Cohl",6047,300,32 1/4,10,NA,NA,Offensive_Line
-OT,"Charles, Saahdiq",6041,321,33,10,NA,NA,Offensive_Line
-OT,"Clark, Cameron",6044,308,34 1/8,10 3/8,25.0,"8'5""",Offensive_Line
-OT,"Cleveland, Ezra",6060,311,33 3/8,9,30.0,"9'3""",Offensive_Line
-OC,"Colon-Castillo, Trystan",6030,313,30 1/2,9 1/4,NA,NA,Offensive_Line
-OC,"Cushenberry, Lloyd",6031,312,34 1/8,10 3/8,NA,NA,Offensive_Line
-OT,"Driscoll, Jack",6045,306,33,9 7/8,29.5,"9'6""",Offensive_Line
-OT,"Durant, Yasir",6060,331,34 3/4,9 1/2,25.0,NA,Offensive_Line
-OC,"Hanson, Jake",6043,303,32 3/4,9 1/4,NA,NA,Offensive_Line
-OC,"Harris, Nick",6007,302,32 1/8,9 3/4,29.5,"8'7""",Offensive_Line
-OT,"Heck, Charlie",6075,311,34 1/8,10 1/4,28.0,"9'4""",Offensive_Line
-OC,"Hennessy, Matt",6037,307,32 1/4,10,30.0,"9'2""",Offensive_Line
-OT,"Herron, Justin",6035,308,33 1/2,8 7/8,33.0,"8'9""",Offensive_Line
-OT,"Hunt, Robert",6051,323,33 1/2,10,NA,NA,Offensive_Line
-OC,"Ismael, Keith",6027,309,32 1/4,10,32.0,"9'0""",Offensive_Line
-OG,"Iwuagwu, Cordel",6027,309,33 3/4,9 5/8,27.0,"7'10""",Offensive_Line
-OT,"Jackson, Austin",6047,322,34 1/8,10 1/4,31.0,"9'7""",Offensive_Line
-OG,"Jackson, Jonah",6034,306,33 1/2,10 1/2,26.0,"8'2""",Offensive_Line
-OT,"Jones, Joshua",6050,319,33 7/8,10 1/8,28.5,"9'1""",Offensive_Line
-OG,"Kindley, Solomon",6032,337,32 1/4,9 1/2,NA,NA,Offensive_Line
-OG,"Lemieux, Shane",6037,310,32 1/4,9 1/2,25.5,"8'11""",Offensive_Line
-OG,"Lewis, Damien",6020,327,33,10 1/4,30.0,"9'0""",Offensive_Line
-OT,"McKivitz, Colton",6061,306,33 3/4,10,26.0,"8'10""",Offensive_Line
-OT,"Molchon, John",6052,309,31 1/8,9 1/2,34.0,"9'1""",Offensive_Line
-OT,"Murphy, Kyle",6032,316,33 7/8,10,28.0,"8'8""",Offensive_Line
-OG,"Muti, Netane",6027,315,31 3/4,10 5/8,NA,NA,Offensive_Line
-OT,"Niang, Lucas",6060,315,34 1/4,10 1/2,NA,NA,Offensive_Line
-OG,"Onwenu, Mike",6025,344,34 3/8,10 1/2,NA,NA,Offensive_Line
-OT,"Peart, Matt",6065,318,36 5/8,9 1/2,30.0,"9'5""",Offensive_Line
-OT,"Phillips, Tyre",6050,331,35 1/8,10 3/8,25.0,"7'9""",Offensive_Line
-OT,"Pinter, Danny",6042,306,31 7/8,9 1/2,29.5,"9'2""",Offensive_Line
-OC,"Ruiz, Cesar",6026,307,33 1/8,11,33.0,"9'5""",Offensive_Line
-OT,"Runyan, Jon",6042,306,33 1/4,9 1/8,30.5,"8'11""",Offensive_Line
-OG,"Simpson, John",6041,321,34 1/8,11 1/4,30.0,"8'11""",Offensive_Line
-OT,"Steele, Terence",6057,312,35 1/8,9 1/2,27.5,"8'10""",Offensive_Line
-OG,"Stenberg, Logan",6060,317,32 1/2,10 1/4,26.0,"8'8""",Offensive_Line
-OG,"Stepaniak, Simon",6041,313,32,9 1/2,NA,NA,Offensive_Line
-OT,"Taylor, Alex",6083,308,36 1/8,11 1/4,25.0,"9'8""",Offensive_Line
-OT,"Thomas, Andrew",6051,315,36 1/8,10 1/4,30.5,"9'1""",Offensive_Line
-OT,"Throckmorton, Calvin",6050,317,32 1/2,9 1/2,27.0,"8'1""",Offensive_Line
-OT,"Wanogho, Prince Tega",6050,308,33 1/2,10 3/8,NA,NA,Offensive_Line
-OC,"Williams, Darryl",6023,304,32 1/8,9 3/4,25.5,"8'6""",Offensive_Line
-OT,"Wills, Jedrick",6042,312,34 1/4,10,34.5,"9'5""",Offensive_Line
-OT,"Wilson, Isaiah",6064,350,35 1/2,10 1/4,29.0,"9'2""",Offensive_Line
-OT,"Wirfs, Tristan",6047,320,34,10 1/4,36.5,"10'1""",Offensive_Line
-DT,"Agim, McTelvin",6025,309,33 1/2,10 1/8,NA,NA,Defensive_Line
-DE,"Anae, Bradlee",6033,257,32 1/8,10 1/8,31,"9'7""",Defensive_Line
-DT,"Blacklock, Ross",6031,290,32 3/8,9 3/4,29,"8'11""",Defensive_Line
-DT,"Brown, Derrick",6045,326,34 1/4,9,27,"9'0""",Defensive_Line
-DT,"Coatney, Josiah",6033,308,32 3/4,10,27,"8'3""",Defensive_Line
-DE,"Coleman, Kendall",6026,257,31 3/4,10,32,"9'6""",Defensive_Line
-DT,"Daniels, Darrion",6032,311,33 3/4,9 1/8,27,"9'1""",Defensive_Line
-DE,"Davidson, Marlon",6033,303,33,10,NA,NA,Defensive_Line
-DT,"Davis, Carlos",6020,313,32,9 5/8,NA,NA,Defensive_Line
-DT,"Davis, Khalil",6010,308,31 1/2,9 3/4,NA,NA,Defensive_Line
-DE,"Davis, Raekwon",6061,311,33 7/8,11,28,"9'3""",Defensive_Line
-DT,"Elliott, Jordan",6037,302,32 3/8,10 1/4,27.5,NA,Defensive_Line
-DE,"Epenesa, A.J.",6051,275,34 1/2,10 1/8,32.5,"9'9""",Defensive_Line
-DT,"Fotu, Leki",6053,330,34 1/4,10 5/8,NA,NA,Defensive_Line
-DT,"Gallimore, Neville",6020,304,32 3/4,9 5/8,NA,NA,Defensive_Line
-DE,"Garvin, Jonathan",6041,263,34,9 5/8,36,"10'5""",Defensive_Line
-DE,"Gipson, Trevis",6033,261,33 7/8,9 5/8,NA,NA,Defensive_Line
-DE,"Greenard, Jonathan",6033,263,34 7/8,9 1/4,30.5,"9'5""",Defensive_Line
-DE,"Gross-Matos, Yetur",6050,266,34 7/8,9 3/4,34,"10'0""",Defensive_Line
-NT,"Hamilton, DaVon",6034,320,33,9 3/4,29.5,"8'6""",Defensive_Line
-DE,"Hamilton, LaDarius",6020,262,32 1/8,9 1/4,30,"9'6""",Defensive_Line
-DE,"Highsmith, Alex",6031,248,33 1/8,9 1/8,33,"10'5""",Defensive_Line
-DE,"Hill, Trevon",6027,248,32 3/8,9 1/4,28,"9'5""",Defensive_Line
-DT,"Jones, Benito",6010,316,32 7/8,9 3/4,26.5,NA,Defensive_Line
-DE,"Kareem, Khalid",6036,268,34 3/8,10 7/8,NA,NA,Defensive_Line
-DT,"Kinlaw, Javon",6051,324,34 7/8,10 1/4,NA,NA,Defensive_Line
-DT,"Lawrence II, Rashard",6020,308,34 1/8,11,NA,NA,Defensive_Line
-DE,"Lynch, James",6035,289,31 7/8,9 7/8,29,"9'3""",Defensive_Line
-DT,"Madubuike, Justin",6025,293,33 1/2,8 3/4,NA,NA,Defensive_Line
-DT,"Murchison, Larrell",6024,297,32 5/8,10,29,"9'10""",Defensive_Line
-DE,"Okwara, Julian",6042,252,34 3/8,10 1/4,NA,NA,Defensive_Line
-DT,"Penisini, John",6013,318,32 7/8,10 1/2,25.5,NA,Defensive_Line
-DE,"Rivers, Chauncey",6020,262,32 7/8,9 3/4,30.5,"8'10""",Defensive_Line
-DE,"Roach, Malcolm",6021,297,31 7/8,9 5/8,30,"9'6""",Defensive_Line
-DE,"Robinson, Alton",6026,264,32 3/8,9 1/4,35.5,"9'11""",Defensive_Line
-DE,"Sheppard, Qaadir",6027,261,32 3/4,10,31.5,"9'7""",Defensive_Line
-DE,"Smith-Williams, James",6035,265,33 3/4,9 1/4,32,"10'3""",Defensive_Line
-DT,"Strowbridge, Jason",6042,275,32 3/8,10 1/8,31,"9'5""",Defensive_Line
-DE,"Tuszka, Derrek",6044,251,31 3/8,9 7/8,33.5,"10'0""",Defensive_Line
-DT,"Washington, Broderick",6022,305,32 1/2,10 3/8,NA,NA,Defensive_Line
-DE,"Willekes, Kenny",6034,264,31 1/4,9 1/2,32.5,"9'11""",Defensive_Line
-DT,"Williams, Raequan",6040,308,33 3/8,9 3/8,25.5,"8'5""",Defensive_Line
-DT,"Windsor, Rob",6044,290,33 1/8,9 7/8,28.5,"9'3""",Defensive_Line
-DE,"Wonnum, D.J.",6045,258,34 1/8,10 1/2,34.5,"10'3""",Defensive_Line
-DE,"Young, Chase",6047,264,33 3/4,10,NA,NA,Defensive_Line
-DE,"Zuniga, Jabari",6033,264,32 7/8,10 3/8,33,"10'7""",Defensive_Line
-ILB,"Bachie, Joe",6010,230,31 5/8,10 1/4,33.5,"9'11""",Linebacker
-ILB,"Bailey, Markus",6001,235,31 1/2,9 3/8,NA,NA,Linebacker
-OLB,"Baun, Zack",6023,238,32 3/4,9 5/8,32.5,"9'7""",Linebacker
-ILB,"Bernard, Francis",6003,234,31 7/8,9 7/8,32.5,"10'0""",Linebacker
-ILB,"Bituli, Daniel",6020,246,34 3/8,9 1/4,32,"10'1""",Linebacker
-ILB,"Bradley, Shaun",6005,235,31 3/4,9 1/2,32.5,"10'1""",Linebacker
-ILB,"Brooks, Jordan",6000,240,32 7/8,9 1/8,NA,NA,Linebacker
-OLB,"Brown, Cameron",6052,233,34,9 1/2,35.5,"10'3""",Linebacker
-OLB,"Chaisson, K’Lavon",6030,254,32 1/4,9 7/8,NA,NA,Linebacker
-OLB,"Coe, Nick",6045,280,33 3/4,10 1/4,29,"9'8""",Linebacker
-OLB,"Coughlin, Carter",6031,236,31 3/8,9 1/2,36,"10'6""",Linebacker
-OLB,"Davis-Gaither, Akeem",6014,224,31 1/8,9 1/2,NA,NA,Linebacker
-OLB,"Divinity, Michael",6015,242,33 5/8,9 1/2,31,"9'7""",Linebacker
-ILB,"Dye, Troy",6032,231,32 1/4,9 3/8,NA,NA,Linebacker
-OLB,"Galeai, Tipa",6045,235,33 5/8,9 1/2,NA,NA,Linebacker
-ILB,"Garrett, Cale",6016,234,31 1/4,9 1/2,32,"10'4""",Linebacker
-OLB,"Gay Jr., Willie",6011,243,32 5/8,10 1/2,39.5,"11'4""",Linebacker
-ILB,"Harris, Scoota",5115,234,31 3/8,9 3/8,33,"9'3""",Linebacker
-ILB,"Harrison, Malik",6025,247,32 3/4,10 1/4,36,"10'2""",Linebacker
-OLB,"Hudson, Khaleke",5110,224,29 3/8,10,33,"10'0""",Linebacker
-OLB,"Jennings, Anfernee",6021,256,32 7/8,9 1/8,NA,NA,Linebacker
-ILB,"Johnston, Clay",6010,227,30 1/2,8 3/4,NA,NA,Linebacker
-OLB,"Kamara, Azur",6032,245,35 1/4,10,28,"10'1""",Linebacker
-OLB,"Lewis, Terrell",6052,262,33 7/8,9 7/8,37,"10'4""",Linebacker
-ILB,"Mack, Jordan",6026,241,31 2/8,8 6/8,NA,NA,Linebacker
-ILB,"Martin, Kamal",6027,240,34,10 1/8,NA,NA,Linebacker
-ILB,"Murray, Kenneth",6024,241,32 3/4,9 1/2,38,"10'9""",Linebacker
-ILB,"Olson, Dante",6023,237,32 3/8,9 1/8,42,"10'4""",Linebacker
-ILB,"Phillips, Jacob",6030,229,32 3/8,10,39,"10'6""",Linebacker
-ILB,"Pinckney, Michael",5111,235,32 3/8,10,NA,NA,Linebacker
-ILB,"Quarterman, Shaquille",6004,234,31 5/8,9 1/8,31,"10'0""",Linebacker
-ILB,"Queen, Patrick",6002,229,31 5/8,10,35,"10'5""",Linebacker
-OLB,"Russell, Chapelle",6020,236,32 3/8,10,35,"10'1""",Linebacker
-LB/SS,"Simmons, Isaiah",6035,238,33 3/8,9 5/8,39,"11'0""",Linebacker
-OLB,"Strnad, Justin",6033,238,31 3/4,9 1/8,29,"9'5""",Linebacker
-OLB,"Taylor, Darrell",6035,267,33,9 3/4,NA,NA,Linebacker
-OLB,"Taylor, Davion",6004,228,32 1/8,9 5/8,35,"10'7""",Linebacker
-OLB,"Toohill, Casey",6043,250,33 1/2,9 1/2,39,"10'6""",Linebacker
-OLB,"Uche, Josh",6012,245,33 5/8,9 1/2,NA,NA,Linebacker
-ILB,"Walker, Mykal",6030,230,32 1/2,10,33,"10'2""",Linebacker
-OLB,"Weaver, Curtis",6023,265,32 3/8,10,32.5,"9'8""",Linebacker
-ILB,"Weaver, Evan",6021,237,31 5/8,9 5/8,32,"9'9""",Linebacker
-ILB,"Wilson, Logan",6021,241,32 3/8,9 1/2,32,"10'1""",Linebacker
-OLB,"Woodward, David",6016,230,31 5/8,9 1/4,33.5,"9'6""",Linebacker
-CB,"Arnette, Damon",5115,195,30,9 1/8,NA,NA,Defensive_Back
-FS,"Arnold, Grayland",5091,186,29,9 1/8,33,"10'0""",Defensive_Back
-CB,"Bandy, Trajan",5076,180,29 7/8,9,NA,NA,Defensive_Back
-CB,"Bassey, Essang",5093,191,31,7 7/8,39.5,"10'8""",Defensive_Back
-FS,"Bryant, Myles",5077,183,29 1/2,9 1/8,31.5,"9'7""",Defensive_Back
-CB,"Clarke, Nevelle",6007,190,31 5/8,9 1/8,35,"10'6""",Defensive_Back
-CB,"Dantzler, Cameron",6022,188,30 5/8,9,34.5,NA,Defensive_Back
-CB,"Davis, Javaris",5084,183,30 5/8,8 7/8,35.5,"10'4""",Defensive_Back
-CB,"Diggs, Trevon",6013,205,32 3/4,9 3/8,NA,NA,Defensive_Back
-CB,"Fulton, Kristian",5115,197,30 5/8,9 1/8,35.5,"10'3""",Defensive_Back
-CB,"Gladney, Jeff",5102,191,31 7/8,9,37.5,"10'4""",Defensive_Back
-CB,"Green, A.J.",6014,202,30 7/8,9,NA,NA,Defensive_Back
-CB,"Guidry, Javelin K.",5090,191,31 1/4,9,NA,NA,Defensive_Back
-CB,"Hall, Bryce",6012,202,32 1/4,9 5/8,NA,NA,Defensive_Back
-CB,"Hand, Harrison",5111,197,31 3/4,9 1/8,41,"11'1""",Defensive_Back
-CB,"Henderson, C.J.",6006,204,31 5/8,9,37.5,"10'7""",Defensive_Back
-CB,"Hill, Lavert",5100,190,30 7/8,9 1/8,NA,NA,Defensive_Back
-CB,"Holmes, Darnay",5096,195,29 1/2,9 1/4,NA,NA,Defensive_Back
-CB,"Igbinoghene, Noah",5103,198,31 3/4,9 3/8,37,"10'8""",Defensive_Back
-CB,"Jackson, Dane",5115,187,30 3/8,8 3/4,35,"10'2""",Defensive_Back
-CB,"Jackson, Lamar",6020,208,32 1/4,9 1/2,36.5,"10'2""",Defensive_Back
-CB,"Johnson, Jaylon",5117,193,31 3/8,9 3/8,36.5,"10'4""",Defensive_Back
-CB,"Keyes, BoPete",6007,202,32 5/8,8 3/4,36,"10'6""",Defensive_Back
-CB,"Ojemudia, Michael",6005,200,32 1/4,8 7/8,36,"10'2""",Defensive_Back
-CB,"Okudah, Jeff",6011,205,32 5/8,8 1/2,41,"11'3""",Defensive_Back
-CB,"Pierre, James",6000,183,31 1/4,8 1/2,33.5,"10'3""",Defensive_Back
-CB,"Pride, Troy",5114,193,30 5/8,9,35.5,"9'11""",Defensive_Back
-CB,"Reid, John",5103,187,30 1/8,9 1/8,36.5,"10'9""",Defensive_Back
-CB,"Robertson, Amik",5083,187,30 1/4,9,NA,NA,Defensive_Back
-CB,"Robinson II, Reggie",6007,205,31 1/2,8 3/8,36,"11'0""",Defensive_Back
-CB,"Samuels, Stanford",6010,187,31 3/4,10 1/8,NA,NA,Defensive_Back
-CB,"Scott, Josiah",5092,185,29 3/8,8 3/4,NA,NA,Defensive_Back
-CB,"Terrell, A.J.",6011,195,31 1/4,9,34.5,"10'9""",Defensive_Back
-CB,"Thomas-Oliver, Stantley",6003,192,31 1/8,9 5/8,34,"10'7""",Defensive_Back
-CB,"Vildor, Kindle",5097,191,32 1/4,9 5/8,39.5,"11'1""",Defensive_Back
-FS,"Blackmon, Julian",5116,187,31,9,NA,NA,Defensive_Back
-SS,"Brooks Jr., Antoine",5105,220,31 1/8,9 1/4,34.5,NA,Defensive_Back
-SS,"Burgess, Terrell",5113,202,29 1/2,9 1/4,33.5,"10'2""",Defensive_Back
-CB,"Carter, Shyheim",5104,194,29 5/8,9 1/2,NA,NA,Defensive_Back
-FS,"Chinn, Jeremy",6030,221,32 1/8,9 5/8,41,"11'6""",Defensive_Back
-FS,"Clemons, Rodney",5115,209,31 1/4,9 1/4,33.5,"9'10""",Defensive_Back
-FS,"Cole II, Brian",6016,213,31 3/8,10,NA,NA,Defensive_Back
-FS,"Curl, Kamren",6013,206,32 5/8,8 1/2,34.5,"10'5""",Defensive_Back
-FS,"Davis, Ashtyn",6007,202,30 1/2,9 3/8,NA,NA,Defensive_Back
-FS,"Delpit, Grant",6024,213,30 3/8,9 1/8,NA,NA,Defensive_Back
-FS,"Dugger, Kyle",6007,217,32 7/8,10 3/8,42,"11'2""",Defensive_Back
-FS,"Elliott, Jalen",6003,205,31 3/4,9 1/8,34,"10'5""",Defensive_Back
-FS,"Fuller, Jordan",6017,203,31,9,35.5,"10'2""",Defensive_Back
-SS,"Gilman, Alohi",5104,201,30 7/8,9 1/4,32,"9'11""",Defensive_Back
-SS,"Hawkins, Jaylinn",6005,208,31 3/4,9 1/2,35.5,"9'9""",Defensive_Back
-SS,"Jones, Brandon",5111,198,30 1/8,8 3/4,NA,NA,Defensive_Back
-SS,"McKinney, Xavier",6003,201,30 7/8,8 5/8,36,"10'2""",Defensive_Back
-SS,"Metellus, Josh",5110,209,32 1/4,10 1/4,36.5,"10'4""",Defensive_Back
-FS,"Miller, Chris",5112,190,29 7/8,9,35.5,"11'1""",Defensive_Back
-FS,"Muse, Tanner",6020,227,31 1/2,9,34.5,"10'4""",Defensive_Back
-FS,"Reed, J.R.",6006,202,32 1/2,9 7/8,34,"10'10""",Defensive_Back
-FS,"Sneed, L'Jarius",6004,192,31 3/8,8 7/8,41,"10'11""",Defensive_Back
-SS,"Stone, Geno",5103,207,29 1/4,9 1/8,33.5,"9'8""",Defensive_Back
-SS,"Thomas, Daniel",5100,215,31 5/8,9 1/4,37,"10'5""",Defensive_Back
-SS,"Wallace, K'Von",5110,206,31,9 1/8,38,"11'1""",Defensive_Back
-SS,"Winfield Jr., Antoine",5091,203,30 1/8,9 1/2,36,"10'4""",Defensive_Back
-LS,"Ferguson, Blake",6025,229,31 3/8,9 3/4,31,"9'4""",Special_Teams
-LS,"Wirtel, Steve",6036,235,31 3/8,9 3/4,26,"10'0""",Special_Teams
-K,"Bass, Tyler",5104,185,29 1/2,8 3/4,NA,NA,Special_Teams
-K,"Blankenship, Rodrigo",6010,190,30 5/8,9,NA,NA,Special_Teams
-K,"Molson, JJ",5112,182,30 3/4,9 1/2,NA,NA,Special_Teams
-P,"Charlton, Joseph",6044,195,32 3/8,8 1/2,NA,NA,Special_Teams
-P,"Hofrichter, Sterling",5095,196,29 3/8,8 5/8,NA,NA,Special_Teams
-P,"Mann, Braden",5113,198,30,9 1/4,31,"9'3""",Special_Teams
-P,"Pechin, Alex",6005,213,29 5/8,9 3/8,34,NA,Special_Teams
-P,"Siposs, Arryn",6024,213,32,9 1/4,NA,NA,Special_Teams
-P,"Townsend, Tommy",6013,191,32 1/8,9 1/8,NA,NA,Special_Teams
-P,"Turk, Michael",6004,226,31 1/8,9 7/8,34.5,"9'0""",Special_Teams
-QB,"Book, Ian",6000,211,31 1/4,9 7/8,32 1/2,"09'07""",Quarterback
-QB,"Buechele, Shane",6002,210,30 1/4,9 3/8,30,"09'06""",Quarterback
-QB,"Ehlinger, Sam",6011,220,30 3/8,9 3/4,36 1/2,"09'06""",Quarterback
-QB,"Fields, Justin",6026,227,32 1/2,9 1/8,NA,NA,Quarterback
-QB,"Franks, Feleipe",6065,234,34,10,32 1/2,"09'09""",Quarterback
-QB,"Jones, Mac",6025,217,32 5/8,9 3/4,32,"09'08""",Quarterback
-QB,"Lance, Trey",6037,224,31 1/2,9 1/8,NA,NA,Quarterback
-QB,"Lawrence, Trevor",6055,213,31 1/2,10,NA,NA,Quarterback
-QB,"Mills, Davis",6036,217,31 3/8,9 1/2,32,"09'02""",Quarterback
-QB,"Mond, Kellen",6025,211,33 1/2,9 3/8,NA,NA,Quarterback
-QB,"Newman, Jamie",6027,234,30 1/2,9 3/4,NA,NA,Quarterback
-QB,"Trask, Kyle",6052,236,33,10 1/8,31 1/2,"09'05""",Quarterback
-QB,"Wilson, Zach",6021,214,30 5/8,9 1/2,NA,NA,Quarterback
-WR,"Adams Jr., Jonathan",6020,210,32 1/8,9 7/8,39,"11'00""",Wide_Receiver
-WR,"Atwell, Tutu",5087,155,29 1/4,8 7/8,33,"09'09""",Wide_Receiver
-WR,"Ausbon, Jhamon",6023,217,32 3/8,9 7/8,33,"09'10""",Wide_Receiver
-WR,"Bateman, Rashod",6003,190,33,9 1/2,36,"10'03""",Wide_Receiver
-WR,"Brown, Dyami",6005,189,32 3/4,9 5/8,35 1/2,"10'08""",Wide_Receiver
-WR,"Bussey, Rico",6003,186,33,10 1/8,38 1/2,"10'04""",Wide_Receiver
-WR,"Chase, JaMarr",6003,201,30 3/4,9 5/8,41,"11'00""",Wide_Receiver
-WR,"Collins, Nico",6041,215,34 1/8,9 3/8,37 1/2,"10'05""",Wide_Receiver
-WR,"Darby, Frank",6000,201,31 3/8,9 5/8,34 1/2,"09'09""",Wide_Receiver
-WR,"Darden, Jaelon",5075,174,30 5/8,8 3/4,35 1/2,"10'02""",Wide_Receiver
-WR,"Dixon, DaiJean",6025,200,NA,NA,NA,NA,Wide_Receiver
-WR,"Eagles, Brennan",6035,225,33 1/2,10,36 1/2,"10'05""",Wide_Receiver
-WR,"Eskridge, DWayne",5086,190,30 1/8,9,35,"10'04""",Wide_Receiver
-WR,"Fehoko, Simi",6037,222,31 5/8,10 1/4,34 1/2,"10'00""",Wide_Receiver
-WR,"Fitzpatrick, Dez",6016,208,32 3/4,9 5/8,35,NA,Wide_Receiver
-WR,"Grimes, Trevon",6040,220,31 3/8,9 5/8,35,"09'10""",Wide_Receiver
-WR,"Jackson, Warren",6060,219,33 1/2,9 3/8,33 1/2,"10'03""",Wide_Receiver
-WR,"Johnson, Cade",5105,184,29 1/4,9 3/8,35,"09'06""",Wide_Receiver
-WR,"Jones, Tim",6006,203,31 3/8,9 1/2,40,"10'04""",Wide_Receiver
-WR,"Marshall Jr., Terrace",6024,205,32 3/4,9 1/2,39,"10'05""",Wide_Receiver
-WR,"McKinley, Javon",6016,215,33,9 3/4,32 1/2,NA,Wide_Receiver
-WR,"McKoy, Isaiah",6020,200,31 5/8,9 1/8,29 1/2,"09'06""",Wide_Receiver
-WR,"McMath, Racey",6024,211,32,8 7/8,34,"10'05""",Wide_Receiver
-WR,"Milne, Dax",6005,193,29 3/8,9 3/8,31,"09'06""",Wide_Receiver
-WR,"Moore, Elijah",5094,178,30 1/8,9 3/8,36,"10'01""",Wide_Receiver
-WR,"Moore, Rondale",5070,181,28 1/4,8 3/4,42 1/2,"10'06""",Wide_Receiver
-WR,"Newsome, Dazz",5101,190,29 7/8,9,34,"10'01""",Wide_Receiver
-WR,"Nixon, Tre",6001,187,31 3/4,9 1/8,35 1/2,"10'05""",Wide_Receiver
-WR,"Palmer, Josh",6012,210,33,9 5/8,34,"10'04""",Wide_Receiver
-WR,"Philyor, Whop",5095,184,30 5/8,9 1/4,31,"10'00""",Wide_Receiver
-WR,"Powell, Cornell",6002,204,32 3/4,10,36 1/2,"10'08""",Wide_Receiver
-WR,"Rodgers, Amari",5094,212,30 3/8,9 1/2,33,"10'01""",Wide_Receiver
-WR,"Schwartz, Anthony",6000,186,31 1/2,9 3/8,32,"10'03""",Wide_Receiver
-WR,"Skowronek, Bennett",6027,220,33 1/4,10 1/8,NA,NA,Wide_Receiver
-WR,"Smith-Marsette, Ihmir",6006,181,30 3/4,9 3/4,37,"10'04""",Wide_Receiver
-WR,"Smith, Brandon",6013,218,34 1/4,9 3/8,39,"10'10""",Wide_Receiver
-WR,"Smith, DeVonta",6002,170,31 7/8,9 1/4,NA,NA,Wide_Receiver
-WR,"Smith, Shi",5094,186,31 7/8,9 3/4,36,"10'03""",Wide_Receiver
-WR,"St. Brown, Amon-Ra",5114,197,30 3/8,9 1/8,38 1/2,"10'07""",Wide_Receiver
-WR,"Stevenson, Marquez",5010,182,31,8 1/2,NA,NA,Wide_Receiver
-WR,"Strachan, Mike",6053,226,34 1/4,10,35,"10'07""",Wide_Receiver
-WR,"Surratt, Sage",6024,209,32 1/4,9,NA,NA,Wide_Receiver
-WR,"Terry, Tamorrion",6026,207,33 3/8,9 1/2,32 1/2,"10'06""",Wide_Receiver
-WR,"Toney, Kadarius",5115,193,31 1/4,9 1/4,39 1/2,"11'04""",Wide_Receiver
-WR,"Vasher, T.J.",6052,185,35 5/8,10 1/4,NA,NA,Wide_Receiver
-WR,"Vaughns, Tyler",6020,184,32 7/8,9 1/2,31 1/2,"10'00""",Wide_Receiver
-WR,"Waddle, Jaylen",5094,180,30 3/8,9 1/8,NA,NA,Wide_Receiver
-WR,"Wallace, Tylan",5113,194,30 3/8,9 3/4,33,"09'04""",Wide_Receiver
-WR,"Watkins Jr., Austin",6010,207,31,9 1/2,NA,NA,Wide_Receiver
-WR,"Williams, Seth",6030,211,33 1/2,9 7/8,37,"10'04""",Wide_Receiver
-TE,"Bates, John",6053,250,32 1/2,9 5/8,31 1/2,"10'00""",Tight_End
-TE,"Bushman, Matt",6045,245,32 5/8,9 3/8,32 1/2,NA,Tight_End
-TE,"Davidson, Zach",6065,245,32,9 1/2,37 1/2,"09'09""",Tight_End
-TE,"Eubanks, Nick",6044,245,33 1/4,9 3/4,34,"10'00""",Tight_End
-TE,"Farrell, Luke",6054,251,33,9 1/4,36 1/2,"09'10""",Tight_End
-TE,"Freiermuth, Pat",6050,251,32 1/2,9 7/8,NA,NA,Tight_End
-TE,"Gray, Noah",6030,240,31 5/8,9 3/8,35,"09'07""",Tight_End
-TE,"Jordan, Brevin",6025,247,32 7/8,9 3/4,34,"09'08""",Tight_End
-TE,"Long, Hunter",6050,254,33 3/4,9 3/4,32 1/2,"10'02""",Tight_End
-TE,"McKitty, Tre",6042,246,32 3/4,11,NA,NA,Tight_End
-TE,"Moore, Briley",6042,240,31,9 7/8,37 1/2,"10'03""",Tight_End
-TE,"Pitts, Kyle",6055,245,33 1/2,10 5/8,33 1/2,"10'09""",Tight_End
-TE,"Poljan, Tony",6066,251,33 1/2,9 3/8,33 1/2,"09'05""",Tight_End
-TE,"Soehner, Dylan",6065,268,33 1/2,9 5/8,30 1/2,"09'04""",Tight_End
-TE,"Tremble, Tommy",6033,241,31 7/8,9 1/4,36 1/2,"10'02""",Tight_End
-TE,"Wells, Pro",6033,249,33,9 3/8,28 1/2,"09'06""",Tight_End
-TE,"Yeboah, Kenny",6037,250,33 1/4,9 3/8,34,"09'08""",Tight_End
-RB,"Boyd, Rakeem",5113,213,32 1/2,8 5/8,32 1/2,"08'02""",Running_Back
-RB,"Brightwell, Gary",5106,218,31,9 3/8,34 1/2,"09'10""",Running_Back
-RB,"Carter, Michael",5077,201,29 1/8,8 3/4,34,"09'11""",Running_Back
-FB,"Carter, Tory",6003,229,30 5/8,9 5/8,35 1/2,"09'04""",Running_Back
-RB,"Etienne, Travis",5101,215,30 1/8,9 3/8,33 1/2,"10'08""",Running_Back
-RB,"Evans, Chris",5110,211,32 1/2,10,40 1/2,"10'07""",Running_Back
-RB,"Felton, Demetric",5085,189,31 3/8,9 3/8,31 1/2,"09'06""",Running_Back
-RB,"Gainwell, Kenneth",5083,201,30 5/8,9 7/8,35,"10'01""",Running_Back
-FB,"Granson, Kylen",6014,241,32 5/8,9 3/8,36 1/2,"10'00""",Running_Back
-RB,"Harris, Najee",6013,232,33 3/8,10 1/4,NA,NA,Running_Back
-RB,"Hawkins, Javian",5081,183,29 1/4,7 7/8,36,"09'08""",Running_Back
-RB,"Herbert, Khalil",5087,210,31 1/4,8 5/8,33,"09'07""",Running_Back
-RB,"Hill, Kylin",5104,214,30 1/2,9 5/8,36,"10'02""",Running_Back
-RB,"Hubbard, Chuba",6000,210,32,9,36,"10'00""",Running_Back
-RB,"Jefferson, Jermar",5101,206,30 1/2,9 5/8,31,"09'07""",Running_Back
-RB,"Johnson, Josh",5087,209,29 5/8,8 3/4,35 1/2,"09'07""",Running_Back
-RB,"Knox, Brenden",5106,215,31 1/4,10,35,"09'04""",Running_Back
-FB,"Mason, Ben",6026,246,32 5/8,9 3/8,37 1/2,"09'09""",Running_Back
-RB,"Mitchell, Elijah",5102,201,31,9 3/4,37 1/2,"10'08""",Running_Back
-RB,"Patterson, Jaret",5064,195,28 3/4,9 1/4,30,"09'09""",Running_Back
-RB,"Ragas, Trey",5101,218,29 3/4,8 7/8,33 1/2,"09'09""",Running_Back
-RB,"Rountree III, Larry",5105,211,30 3/4,9 1/8,30,"09'00""",Running_Back
-RB,"Scott III, Stevie",6003,225,33 1/4,9 3/4,31,"09'11""",Running_Back
-RB,"Sermon, Trey",6003,215,33 3/8,9 3/8,37,"10'05""",Running_Back
-RB,"Stevenson, Rhamondre",5115,231,30 1/4,9,31 1/2,"09'04""",Running_Back
-RB,"Williams Jr., Pooka",5095,170,30 7/8,9 3/4,31 1/2,"09'10""",Running_Back
-RB,"Williams, Javonte",5095,212,30 7/8,9 3/8,36,"10'03""",Running_Back
-OG,"Anderson, Jack",6041,309,31 5/8,10,NA,NA,Offensive_Line
-OG,"Awosika, Kayode",6031,307,32 5/8,9,30,"08'04""",Offensive_Line
-OT,"Ball, Josh",6073,308,35,10,27 1/2,"08'10""",Offensive_Line
-OG,"Banks, Aaron",6053,325,33 1/8,10 1/8,31,"08'04""",Offensive_Line
-OG,"Borom, Larry",6047,322,33 1/8,10 3/8,31,"08'07""",Offensive_Line
-OG,"Brown, Deonte",6032,344,32 3/8,9 1/8,27,"08'00""",Offensive_Line
-OT,"Brown, Spencer",6082,311,34 3/4,10 3/8,31 1/2,"09'09""",Offensive_Line
-OT,"Carman, Jackson",6047,317,32 1/2,9 5/8,NA,NA,Offensive_Line
-OT,"Christensen, Brady",6052,302,32 1/4,10 1/4,34,"10'04""",Offensive_Line
-OG,"Cleveland, Ben",6062,343,33 3/4,9 3/4,28,"08'06""",Offensive_Line
-OT,"Cosmi, Samuel",6057,314,33,10 1/4,30,"09'09""",Offensive_Line
-OT,"Curhan, Jake",6057,316,33,10 1/4,24,"08'06""",Offensive_Line
-C,"Dalman, Drew",6022,300,NA,NA,NA,NA,Offensive_Line
-OT,"Darrisaw, Christian",6046,322,34 1/4,9 1/4,NA,NA,Offensive_Line
-OG,"Davis, Wyatt",6035,315,33 7/8,9 1/8,NA,NA,Offensive_Line
-C,"Dickerson, Landon",6055,333,33 1/4,10 3/8,NA,NA,Offensive_Line
-OT,"Doyle, Tommy",6080,320,35 1/8,10 3/8,33 1/2,"09'03""",Offensive_Line
-OT,"Ealy, Adrian",6062,321,33,10,24 1/2,"08'08""",Offensive_Line
-OT,"Eichenberg, Liam",6061,306,32 3/8,9 5/8,26 1/2,"08'09""",Offensive_Line
-OT,"Forsythe, Stone",6080,307,34 3/8,10,27 1/2,"08'07""",Offensive_Line
-OT,"Fries, Will",6063,309,32 7/8,10 1/4,31,"09'07""",Offensive_Line
-OT,"Green, Carson",6061,320,34 1/2,10 3/8,29 1/2,"09'00""",Offensive_Line
-OG,"Green, Kendrick",6017,305,32 1/4,10 1/8,35 1/2,"09'11""",Offensive_Line
-OG,"Hainsey, Robert",6044,306,32 1/8,9 3/4,27 1/2,"08'08""",Offensive_Line
-C,"Hill, Trey",6034,319,33 5/8,9 3/8,NA,NA,Offensive_Line
-OG,"Hocker, Jared",6060,327,33 1/8,11,30,"08'07""",Offensive_Line
-OT,"Hudson, James",6046,313,33,10 5/8,28 1/2,"08'02""",Offensive_Line
-C,"Humphrey, Creed",6042,302,32 1/2,9 5/8,33,"09'04""",Offensive_Line
-OG,"Hutcherson, Sadarius",6033,321,32 3/8,9,31 1/2,"08'10""",Offensive_Line
-OT,"Jackson, Alaric",6054,321,32 1/2,9 1/2,25,"08'07""",Offensive_Line
-C,"Jackson, Drake",6017,293,31 1/8,8 1/4,31 1/2,NA,Offensive_Line
-OT,"Jaimes, Brenden",6050,298,32 5/8,10,30 1/2,"09'04""",Offensive_Line
-OT,"Jenkins, Teven",6057,317,33 1/2,9 1/2,32 1/2,"08'10""",Offensive_Line
-OG,"Jones, Robert",6042,307,33 3/8,9 5/8,31,"08'05""",Offensive_Line
-OG,"Kraemer, Tommy",6054,309,33 1/2,10 5/8,NA,NA,Offensive_Line
-OT,"Leatherwood, Alex",6051,312,33 7/8,9 1/2,34 1/2,"09'10""",Offensive_Line
-OT,"Little, Walker",6073,313,33 3/4,10 1/8,29 1/2,"09'03""",Offensive_Line
-OT,"Mayfield, Jalen",6052,326,32 5/8,9 3/4,28 1/2,"08'00""",Offensive_Line
-C,"Meinerz, Quinn",6027,320,33 3/8,10 1/4,32,"09'03""",Offensive_Line
-C,"Menet, Michal",6041,301,31 1/2,10,NA,NA,Offensive_Line
-OT,"Moore Jr., Dan",6055,311,34 1/2,10 1/4,30 1/2,"09'02""",Offensive_Line
-OG,"Moore, David",6015,330,34 1/8,9 5/8,27 1/2,"08'09""",Offensive_Line
-OT,"Moore, Jaylon",6041,311,33 3/8,11,30 1/2,"08'10""",Offensive_Line
-C,"Morrissey, Jimmy",6032,303,32 3/4,10,31,"08'09""",Offensive_Line
-C,"Myers, Josh",6052,310,32,10 3/8,NA,NA,Offensive_Line
-OG,"Newman, Royce",6052,310,33 3/4,9,28,"08'08""",Offensive_Line
-OT,"Radunz, Dillon",6056,301,34,9 1/8,32,"09'04""",Offensive_Line
-OT,"Sewell, Penei",6047,331,33 1/4,10 3/8,28,"09'01""",Offensive_Line
-OG,"Sherman, William",6032,304,33 1/2,10,26,"09'00""",Offensive_Line
-OG,"Slater, Rashawn",6042,304,33,10 1/2,33,"09'04""",Offensive_Line
-OG,"Smith, DAnte",6053,305,35 1/4,10,29,"09'05""",Offensive_Line
-OG,"Smith, Trey",6054,321,33 3/4,10,31,"09'04""",Offensive_Line
-OT,"Van Lanen, Cole",6042,305,33 3/8,9 3/4,30,"08'11""",Offensive_Line
-OG,"Vera-Tucker, Alijah",6044,308,32 1/8,9 5/8,32,"08'10""",Offensive_Line
-OT,"Young, Landon",6061,310,33 3/4,10 1/8,30 1/2,"09'00""",Offensive_Line
-EDGE,"Basham Jr., Carlos",6032,274,32 7/8,9 1/4,34,"10'02""",Defensive_Line
-EDGE,"Bradley-King, William",6034,252,33 1/2,10 1/4,34 1/2,"09'11""",Defensive_Line
-EDGE,"Brown IV, Earnest",6044,270,34 1/2,9 3/4,31,"09'07""",Defensive_Line
-EDGE,"Cooper, Jonathon",6025,253,32 1/8,9 5/8,33,"09'00""",Defensive_Line
-EDGE,"Dimukeje, Victor",6014,262,33 1/8,9 1/2,34 1/2,"09'07""",Defensive_Line
-EDGE,"Golston, Chauncey",6046,269,34 3/4,10 7/8,36,"09'11""",Defensive_Line
-EDGE,"Hayes, Daelin",6034,253,32 7/8,9 3/8,32 1/2,"09'11""",Defensive_Line
-EDGE,"Herring, Malik",6032,275,32 1/2,10 1/2,NA,NA,Defensive_Line
-EDGE,"Hubert, Wyatt",6027,258,31,10 1/8,32 1/2,"09'02""",Defensive_Line
-EDGE,"Jackson, Tarron",6021,254,33 1/4,10 1/8,29 1/2,"09'10""",Defensive_Line
-EDGE,"Johnson, Patrick",6020,240,32,10,35,"09'11""",Defensive_Line
-EDGE,"Jones II, Patrick",6042,261,32 7/8,10,31 1/2,"08'11""",Defensive_Line
-EDGE,"Kaindoh, Joshua",6056,260,34 1/2,9 1/2,36 1/2,"10'05""",Defensive_Line
-EDGE,"Koonce, Malcolm",6022,249,33 3/8,9 5/8,NA,NA,Defensive_Line
-EDGE,"Odeyingbo, Dayo",6051,276,35 1/4,10 1/8,NA,NA,Defensive_Line
-EDGE,"Odighizuwa, Osa",6015,282,34 1/8,10 3/8,31 1/2,"10'00""",Defensive_Line
-EDGE,"Ogundeji, Adetokunbo",6044,260,35 1/4,9 5/8,32,"10'00""",Defensive_Line
-EDGE,"Ojulari, Azeez",6022,249,34 1/2,10 1/2,30,"10'07""",Defensive_Line
-EDGE,"Ossai, Joseph",6036,256,33 7/8,9 3/8,41 1/2,"10'11""",Defensive_Line
-EDGE,"Oweh, Jayson",6047,257,34 1/2,9 1/4,39 1/2,"11'02""",Defensive_Line
-EDGE,"Paye, Kwity",6024,261,33,10,35 1/2,"09'10""",Defensive_Line
-EDGE,"Perkins, Ronnie",6024,253,32 7/8,9,32,"09'07""",Defensive_Line
-EDGE,"Phillips, Jaelan",6054,260,33 1/4,9 3/4,36,"10'05""",Defensive_Line
-EDGE,"Rashed Jr., Hamilcar",6023,251,33 3/4,10 1/8,35 1/2,"10'08""",Defensive_Line
-EDGE,"Robinson, Janarius",6053,266,35 1/4,10 7/8,34,"10'01""",Defensive_Line
-EDGE,"Roche, Quincy",6025,245,32 1/4,9 1/4,32 1/2,"09'11""",Defensive_Line
-EDGE,"Rousseau, Greg",6065,266,34 3/8,11 1/8,30,"09'07""",Defensive_Line
-EDGE,"Rumph II, Chris",6026,235,33 3/4,9 1/4,NA,NA,Defensive_Line
-EDGE,"Sample, Cameron",6026,267,33 3/8,9 3/4,37,"09'08""",Defensive_Line
-EDGE,"Smith, Elerson G.",6062,252,33 1/4,10 1/2,41 1/2,"10'07""",Defensive_Line
-EDGE,"Smith, Jordan",6056,255,33 3/8,9 1/4,NA,NA,Defensive_Line
-EDGE,"Snowden, Charles",6063,243,34,9 1/2,NA,NA,Defensive_Line
-EDGE,"Toney, Shaka",6024,242,33,9 1/2,39,"10'08""",Defensive_Line
-EDGE,"Tryon, Joe",6050,259,34,10 1/4,35,"09'08""",Defensive_Line
-EDGE,"Turner, Payton",6051,270,35,10 1/4,NA,NA,Defensive_Line
-EDGE,"Weaver, Rashad",6043,259,33 1/4,9 3/4,32,"09'06""",Defensive_Line
-DT,"Barmore, Christian",6041,310,33 5/8,10,NA,NA,Defensive_Line
-DT,"Bohanna, Quinton",6040,327,34,10 7/8,29,"08'03""",Defensive_Line
-DT,"Brown III, Bobby",6040,321,34 3/4,10 1/2,33,"09'05""",Defensive_Line
-DT,"Faoliu, Austin",6031,287,32 3/4,9 3/4,NA,NA,Defensive_Line
-DT,"Graham, TaQuon",6031,292,35,10 5/8,32 1/2,"09'05""",Defensive_Line
-DT,"Jones, Naquan",6033,313,33,9 7/8,25,"08'04""",Defensive_Line
-DT,"McNeill, Alim",6017,317,32 5/8,9 3/8,30 1/2,"09'00""",Defensive_Line
-DT,"Merrill, Forrest",6000,322,32,9 1/4,26 1/2,"08'05""",Defensive_Line
-DT,"Nixon, Daviyon",6031,313,35 1/8,9 1/4,28 1/2,"08'10""",Defensive_Line
-DT,"Onwuzurike, Levi",6027,290,33,10 1/8,30,"09'01""",Defensive_Line
-DT,"Shelvin, Tyler",6021,350,33 5/8,10 1/4,28 1/2,"08'01""",Defensive_Line
-DT,"Slaton, Tedarrell",6040,330,32 5/8,9 1/8,29,"09'01""",Defensive_Line
-DT,"Spencer, Marquiss",6035,301,33 1/8,9 1/2,31 1/2,"09'03""",Defensive_Line
-DT,"Stills, Darius",6004,278,32 1/4,8 7/8,32 1/2,"09'02""",Defensive_Line
-DT,"Togiai, Tommy",6014,296,31 3/4,8 7/8,32,"08'09""",Defensive_Line
-DT,"Tonga, Khyiris",6021,325,31,9 5/8,28,"08'09""",Defensive_Line
-DT,"Tufele, Jay",6021,305,32 1/2,9 3/8,30,"08'09""",Defensive_Line
-DT,"Tuipulotu, Marlon",6017,317,33,10 3/8,30 1/2,"08'07""",Defensive_Line
-DT,"Twyman, Jaylen",6016,301,32 1/8,10,32 1/2,"08'08""",Defensive_Line
-DT,"Williams, Milton",6030,284,31 1/2,9 3/4,38 1/2,"10'01""",Defensive_Line
-DT,"Wilson, Marvin",6037,303,33 3/8,10 1/8,25 1/2,"08'11""",Defensive_Line
-ILB,"Barnes, Derrick",6003,238,33 3/8,9 3/4,37,"09'11""",Linebacker
-ILB,"Bolton, Nick",5111,237,31 7/8,10 3/8,32,"09'07""",Linebacker
-ILB,"Borland, Tuf",6002,229,31 3/8,10,32 1/2,"09'01""",Linebacker
-ILB,"Britt, K.J.",6004,235,31,9 3/8,32 1/2,"09'10""",Linebacker
-ILB,"Browning, Baron",6026,245,33 1/2,10,40,"10'10""",Linebacker
-OLB,"Collins, Zaven",6047,259,33 5/8,9 3/8,35,"10'02""",Linebacker
-OLB,"Cox, Jabril",6032,232,32 3/4,9,NA,NA,Linebacker
-ILB,"Davis, Jamin",6034,234,33,9 1/2,42,"11'00""",Linebacker
-ILB,"Fields II, Tony",6002,222,31 1/4,9,34,"09'06""",Linebacker
-ILB,"Fisher, Paddy",6032,240,33 1/8,9 5/8,31 1/2,"09'02""",Linebacker
-OLB,"Hilliard, Justin",6004,229,31 3/8,9,34 1/2,"09'08""",Linebacker
-OLB,"Hines III, Anthony",6022,225,32 3/4,9 3/8,33,"09'10""",Linebacker
-ILB,"Johnson, Buddy",6004,229,31 1/2,9 7/8,38 1/2,"10'08""",Linebacker
-ILB,"Jones, Ernest",6014,230,33 3/8,10 3/8,38 1/2,"10'06""",Linebacker
-OLB,"McDuffie, Isaiah",6012,227,30 1/4,9 5/8,32 1/2,"10'01""",Linebacker
-ILB,"McGrone, Cameron",6007,234,32 1/8,9 1/4,NA,NA,Linebacker
-ILB,"Moses, Dylan",6016,235,31 7/8,9 1/4,NA,NA,Linebacker
-ILB,"Ogbongbemiga, Amen",6007,231,32 3/4,9 3/8,32,"09'04""",Linebacker
-OLB,"Owusu-Koramoah, Jeremiah",6014,221,33,8 7/8,36 1/2,"10'04""",Linebacker
-OLB,"Parsons, Micah",6031,246,31 1/2,11,34,"10'06""",Linebacker
-ILB,"Rice, Monty",6003,233,30 3/4,8 5/8,32,"10'01""",Linebacker
-OLB,"Stevens, JaCoby",6011,212,31 3/4,9 1/4,42,"10'10""",Linebacker
-OLB,"Stuard, Grant",5112,230,29 1/2,9 3/8,NA,NA,Linebacker
-ILB,"Surratt, Chazz",6021,229,30 1/4,9 5/8,31 1/2,NA,Linebacker
-ILB,"Thompson, Erroll",6004,239,32 7/8,9 7/8,30 1/2,"09'06""",Linebacker
-OLB,"Wallow, Garret",6015,220,30 7/8,9 1/2,32 1/2,"10'02""",Linebacker
-OLB,"Werner, Pete",6027,238,33 1/4,9,39 1/2,"10'02""",Linebacker
-CB,"Adebo, Paulson",6010,198,31 1/2,10,36 1/2,"10'01""",Defensive_Back
-CB,"Brown, Shakur",5096,185,30,8 5/8,35 1/2,"09'08""",Defensive_Back
-CB,"Brown, Tre",5096,185,30 3/8,9 1/2,38,"10'03""",Defensive_Back
-CB,"Burns, Lorenzo",5103,183,30 1/4,8 5/8,33 1/2,"10'03""",Defensive_Back
-CB,"Bynum, Camryn",6002,196,30 3/4,9 5/8,34,"10'09""",Defensive_Back
-CB,"Campbell, Tyson",6010,193,32,9,34 1/2,"10'04""",Defensive_Back
-CB,"Daniel, DJ",5116,195,33 3/8,9 1/8,31,"09'11""",Defensive_Back
-CB,"Echols, Brandin",5101,179,30 1/4,9 1/8,42 1/2,"11'04""",Defensive_Back
-CB,"Farley, Caleb",6010,207,33 3/8,8 3/4,NA,NA,Defensive_Back
-CB,"Gilbert, Mark",6001,186,31 1/4,8 3/4,36,"10'10""",Defensive_Back
-CB,"Graham Jr., Thomas",5103,192,31,8 7/8,34 1/2,"10'01""",Defensive_Back
-CB,"Griffin, Olaijah",5113,176,31 7/8,8 3/4,34,"09'11""",Defensive_Back
-CB,"Hall, Darren",5112,188,30 5/8,8 7/8,38 1/2,"11'00""",Defensive_Back
-CB,"Horn, Jaycee",6006,205,33,9 1/8,41 1/2,"11'01""",Defensive_Back
-CB,"Joseph, Kelvin",5114,197,31 7/8,9 1/4,35,"10'08""",Defensive_Back
-CB,"Lenoir, Deommodore",5102,199,30 5/8,9 3/4,34 1/2,"10'01""",Defensive_Back
-CB,"McPhearson, Zech",5105,196,31 1/2,9,NA,NA,Defensive_Back
-CB,"Melifonwu, Ifeatu",6024,205,32 1/8,9,41 1/2,"11'02""",Defensive_Back
-CB,"Mills, Bryan",6011,174,32,9,37,"10'04""",Defensive_Back
-CB,"Molden, Elijah",5094,192,29 1/2,9 1/2,36 1/2,"10'05""",Defensive_Back
-CB,"Mukuamu, Israel",6041,212,34,9 3/8,36 1/2,"09'11""",Defensive_Back
-CB,"Newsome II, Greg",6002,192,31 1/8,8 7/8,40,"10'03""",Defensive_Back
-CB,"Phillips, Antonio",5116,186,32 1/2,9 3/8,NA,NA,Defensive_Back
-CB,"Robinson, Aaron",5114,186,30 1/4,8 3/4,37,"10'03""",Defensive_Back
-CB,"Rochell, Robert",5116,193,32 3/8,8 3/4,43,"11'01""",Defensive_Back
-CB,"Samuel Jr., Asante",5101,180,30 1/8,8 7/8,35,"10'04""",Defensive_Back
-CB,"St-Juste, Benjamin",6032,202,32 5/8,9 3/8,34 1/2,"09'11""",Defensive_Back
-CB,"Stephens, Brandon",6001,213,32,9 3/4,38,"10'07""",Defensive_Back
-CB,"Stokes, Eric",6005,194,32 3/4,9 1/8,38 1/2,"10'08""",Defensive_Back
-CB,"Surtain II, Patrick",6020,208,32 1/2,10,39,"10'11""",Defensive_Back
-CB,"Taylor, Keith",6022,187,31 1/8,9 1/2,33 1/2,"10'07""",Defensive_Back
-CB,"Thomas, Ambry",5117,191,32 1/4,8 5/8,38,"10'02""",Defensive_Back
-CB,"Thompson, Bryce",5105,182,30 3/4,9 1/4,34,"10'00""",Defensive_Back
-CB,"Vincent Jr., Kary",5096,185,30 1/4,8 7/8,35 1/2,"09'09""",Defensive_Back
-CB,"Wade, Shaun",6005,196,33 1/2,9 1/4,NA,NA,Defensive_Back
-CB,"Washington, ArDarius",5082,176,29 1/4,9 1/2,37 1/2,"10'07""",Defensive_Back
-CB,"Webb, Mark",6014,207,32 5/8,10 1/8,36 1/2,"11'04""",Defensive_Back
-CB,"Wilcox, Chris",6015,198,31 5/8,9 7/8,37 1/2,"10'06""",Defensive_Back
-CB,"Wildgoose, Rachad",5112,197,31 1/8,9 3/8,36,"10'00""",Defensive_Back
-CB,"Williams, Rodarius",5116,189,31 1/2,9 1/4,36 1/2,"10'03""",Defensive_Back
-CB,"Williams, Trill",6003,208,31 1/8,9,36,"10'03""",Defensive_Back
-CB,"Wilson, Marco",5115,191,30 3/4,9 5/8,43 1/2,"11'04""",Defensive_Back
-CB,"Wright, Nahshon",6042,183,32 7/8,9 1/8,31,"10'06""",Defensive_Back
-FS,"Bledsoe, Joshuah",5113,204,30 3/4,9 5/8,NA,NA,Defensive_Back
-SS,"Breeze, Brady",5116,197,30 1/2,9 1/2,38,"10'00""",Defensive_Back
-FS,"Carter II, Michael",5095,184,29 1/8,9 1/2,35 1/2,NA,Defensive_Back
-FS,"Cisco, Andre",6005,216,32 1/2,10 5/8,NA,NA,Defensive_Back
-FS,"Crosswell, Aashari",6002,205,NA,NA,NA,NA,Defensive_Back
-SS,"Davis, Shawn",5105,202,31 7/8,9 1/2,39 1/2,"10'08""",Defensive_Back
-SS,"Deablo, Divine",6032,226,33,9 1/2,34,"10'06""",Defensive_Back
-SS,"Ford, Paris",6005,197,32 3/8,9 1/2,28 1/2,"09'02""",Defensive_Back
-SS,"Forrest, Darrick",5114,206,32,9 3/4,39,"11'00""",Defensive_Back
-SS,"Gillespie, Tyree",5116,207,31 1/4,9 5/8,35 1/2,"09'00""",Defensive_Back
-FS,"Grant, Richie",5115,197,32 5/8,9 3/8,34 1/2,"10'09""",Defensive_Back
-FS,"Hamlin, Damar",6007,200,32 1/4,9 1/8,35,"09'10""",Defensive_Back
-FS,"Holland, Jevon",6005,207,31 1/2,9 1/8,35 1/2,"10'06""",Defensive_Back
-SS,"Hufanga, Talanoa",6003,199,32,9 7/8,35 1/2,"10'08""",Defensive_Back
-FS,"Johnson, Jamar",5117,205,30 1/8,9 1/4,35,"10'02""",Defensive_Back
-SS,"LeCounte, Richard",5014,196,31 5/8,9,32 1/2,"10'08""",Defensive_Back
-FS,"Moehrig, Trevon",6005,202,30 5/8,9 3/4,33,NA,Defensive_Back
-SS,"Nasirildeen, Hamsah",6032,215,34 1/4,10,32,NA,Defensive_Back
-FS,"Norwood, Tre",5115,192,29 3/8,9 3/8,33 1/2,"10'03""",Defensive_Back
-SS,"Sherwood, Jamien",6016,216,34,10,36,"10'03""",Defensive_Back
-FS,"Sterns, Caden",5117,202,32 1/8,9 1/2,42,"10'08""",Defensive_Back
-SS,"Uphoff, Christian",6020,209,30 3/4,10,33,"10'00""",Defensive_Back
-FS,"Wiggins, James",5112,209,29,9 3/4,38,"10'07""",Defensive_Back
-K,"Borregales, Jose",5100,206,29,9 1/2,NA,NA,Special_Teams
-P,"Chrisman, Drue",6026,209,33 1/8,9 1/2,NA,NA,Special_Teams
-P,"Duffy, Max",6006,196,29 5/8,8 7/8,NA,NA,Special_Teams
-LS,"Fletcher, Thomas",6006,236,31 1/2,9 5/8,33 1/2,"09'01""",Special_Teams
-P,"Harvin III, Pressley",5111,263,32 1/8,9 3/8,NA,NA,Special_Teams
-K,"Haubeil, Blake",6036,233,32 3/8,8 7/8,NA,NA,Special_Teams
-K,"McPherson, Evan",5110,185,29,9 1/8,NA,NA,Special_Teams
-K,"Patterson, Riley",5102,181,30 1/2,8 3/8,NA,NA,Special_Teams
-P,"Smith, James",6046,231,32 5/8,8 7/8,NA,NA,Special_Teams
-"Coan, Jack",6032,218,31 1/8,9 1/2,33.0,"9'7""",QB,NA
-"Corral, Matt",6015,212,30 3/4,9 5/8,NA,NA,QB,NA
-"Crum, Dustin",6010,210,31 3/4,9 3/8,32.5,NA,QB,NA
-"Eleby, Kaleb",6006,210,30 5/8,9 1/4,25.5,"9'3""",QB,NA
-"Howell, Sam",6005,218,30 3/4,9 1/8,NA,NA,QB,NA
-"Kelley, Cole",6073,249,33 3/4,9 7/8,NA,NA,QB,NA
-"King, D’Eriq",5086,196,28 7/8,9 1/4,NA,NA,QB,NA
-"Perry, EJ",6015,211,32 1/4,8 3/4,NA,"10'3""",QB,NA
-"Pickett, Kenny",6032,217,30 7/8,8 1/2,33.5,"10'1""",QB,NA
-"Purdy, Brock",6005,212,29,9 1/4,27.0,"10'7""",QB,NA
-"Ridder, Desmond",6033,211,32 3/4,10,36.0,"10'7""",QB,NA
-"Strong, Carson",6033,226,32,9 1/8,NA,NA,QB,NA
-"Thompson, Skylar",6017,217,31,8 5/8,31.0,"9'4""",QB,NA
-"Willis, Malik",6004,219,31 3/4,9 1/2,NA,NA,QB,NA
-"Zappe, Bailey",6004,215,31 1/4,9 3/4,30.0,"9'1""",QB,NA
-"Austin, Calvin",5076,170,30,9 1/4,39.0,"11'3""",WO,NA
-"Austin Jr., Kevin",6023,200,32 7/8,9,39.0,"11'0""",WO,NA
-"Bell, David",6007,212,31 7/8,9 1/4,33.0,"9'10""",WO,NA
-"Bolden, Slade",5105,193,29 3/8,9 3/4,32.0,"9'8""",WO,NA
-"Burks, Treylon",6020,225,33 1/2,9 7/8,33.0,"10'2""",WO,NA
-"Dixon, Dai’Jean",6025,205,32 5/8,9 5/8,34.0,"10'5""",WO,NA
-"Dotson, Jahan",5015,178,30 3/4,9 1/2,36.0,"10'1""",WO,NA
-"Doubs, Romeo",6017,201,32 1/4,10,NA,NA,WO,NA
-"Drummond, Dontario",6017,215,31 1/2,9 1/4,34.0,"10'2""",WO,NA
-"Ezukanma, Erik",6017,209,33 1/2,9 3/8,36.5,"10'6""",WO,NA
-"Fryfogle, Ty",6011,204,30 3/4,9 3/4,39.0,"10'7""",WO,NA
-"Gray, Danny",5117,186,31 7/8,9 5/8,34.0,"10'6""",WO,NA
-"Johnson, Josh",5104,183,31 7/8,8 5/8,NA,NA,WO,NA
-"Johnson III, Johnny",5117,197,30 1/2,9 3/4,32.0,"10'1""",WO,NA
-"Jones, Velus",5116,204,30 7/8,9 3/4,33.0,"10'1""",WO,NA
-"London, Drake",6037,219,33,9 3/8,NA,NA,WO,NA
-"Melton, Bo",5110,189,31 1/4,9,38.0,"10'1""",WO,NA
-"Metchie, John",5112,187,30 5/8,9 1/4,NA,NA,WO,NA
-"Moore, Skyy",5095,195,31,10 1/4,34.5,"10'5""",WO,NA
-"Nailor, Jalen",5112,186,30 1/4,9 1/8,38.0,"10'8""",WO,NA
-"Olave, Chris",6003,187,31 1/8,9 1/2,32.0,"10'4""",WO,NA
-"Philips, Kyle",5112,189,29 5/8,8 5/8,33.5,"10'4""",WO,NA
-"Pickens, George",6032,195,32 3/8,8 3/4,33.0,"10'5""",WO,NA
-"Pierce, Alec",6031,211,33,9,40.5,"10'9""",WO,NA
-"Polk, Makai",6031,195,32 1/4,9 1/2,31.0,"9'11""",WO,NA
-"Rambo, Charleston",6005,177,32,9 3/4,33.5,"9'10""",WO,NA
-"Roberson Jr., Reggie",5110,192,32 5/8,9 1/2,29.0,"9'6""",WO,NA
-"Robinson, Wan’Dale",5080,178,27 5/8,9,34.5,"9'10""",WO,NA
-"Ross, Justyn",6035,205,32 1/8,9 5/8,NA,NA,WO,NA
-"Sanders, Braylon",6001,194,31 1/2,10,34.5,"10'1""",WO,NA
-"Shakir, Khalil",5117,196,29,9 1/2,34.5,"10'4""",WO,NA
-"Thornton, Tyquan",6023,181,33 1/4,8 1/4,36.5,"10'10""",WO,NA
-"Tolbert, Jalen",6011,194,32 1/4,10,36.0,"10'3""",WO,NA
-"Turner, Tré",6013,184,30 3/4,8 1/2,30.0,"9'5""",WO,NA
-"Watson, Christian",6041,208,32 1/2,10 1/8,38.5,"11'4""",WO,NA
-"Weston, Isaiah",6034,214,32 1/2,9 1/2,40.0,"11'3""",WO,NA
-"Williams, Devon",6050,210,34 1/8,9 7/8,33.0,"11'1""",WO,NA
-"Williams, Jameson",6014,179,32 1/8,9 1/4,NA,NA,WO,NA
-"Wilson, Garrett",5116,183,32,9 7/8,34.0,"10'3""",WO,NA
-"Woods, Mike",6011,204,33,9 5/8,36.0,"10'5""",WO,NA
-"Allgeier, Tyler",5106,224,31 1/2,9 5/8,33.0,"10'0""",RB,NA
-"Badie, Tyler",5080,197,29 3/8,9 1/8,33.5,"10'1""",RB,NA
-"Bell, Greg",5104,201,30 7/8,9 3/8,31.0,"10'0""",RB,NA
-"Borghi, Max",5093,210,29 5/8,9 1/8,NA,NA,RB,NA
-"Brooks, Kennedy",5105,209,30 1/4,7 5/8,31.0,"10'0""",RB,NA
-"Brown, Leddie",6001,213,31 3/8,9 3/4,30.0,"9'10""",RB,NA
-"Chandler, Ty",5112,204,32 1/8,9,31.0,"10'1""",RB,NA
-"Conner, Snoop",5101,222,30 1/4,9 1/4,29.5,"9'10""",RB,NA
-"Cook, James",5110,199,30 3/4,9 3/8,33.0,"10'4""",RB,NA
-"Corbin, Jashaun",5111,202,31 1/2,9 1/2,NA,NA,RB,NA
-"Davis-Price, Ty",6003,211,30 3/4,9 1/4,30.0,"9'9""",RB,NA
-"Ealy, Jerrion",5081,189,29 1/8,8 1/2,34.5,"10'8""",RB,NA
-"Ebner, Trestan",5106,206,29 3/4,8 1/2,30.0,NA,RB,NA
-"Ford, Jerome",5104,210,30 5/8,9 1/8,31.0,"9'10""",RB,NA
-"Goodson, Tyler",5090,197,29 1/2,9,36.5,"10'3""",RB,NA
-"Hall, Breece",5112,217,31 1/4,9 3/4,40.0,"10'6""",RB,NA
-"Harris, Kevin",5097,221,31 1/4,9 1/4,38.5,"10'6""",RB,NA
-"Haskins, Hassan",6016,228,31 3/4,9 1/4,NA,NA,RB,NA
-"Ingram, Keaontay",5116,221,31 1/2,9,34.5,"10'2""",RB,NA
-"Knight, Bam",5107,209,30 1/2,9 1/4,31.0,"9'6""",RB,NA
-"McCormick, Sincere",5081,205,29 7/8,9 1/8,33.5,"9'8""",RB,NA
-"Pacheco, Isaih",5103,216,30 1/2,9 1/4,33.0,"9'11""",RB,NA
-"Pierce, Dameon",5095,218,30 3/4,9 3/8,34.5,"9'11""",RB,NA
-"Price, D’vonte",6013,210,31 1/2,9 3/8,34.0,"9'11""",RB,NA
-"Rivers, Ronnie",5074,195,28,8 1/2,36.5,"9'11""",RB,NA
-"Robinson, Brian",6015,225,31 7/8,9 3/4,30.0,"9'11""",RB,NA
-"Smith, Abram",5115,213,30 1/4,8 1/4,NA,NA,RB,NA
-"Spiller, Isaiah",6003,217,31 3/4,8 5/8,NA,"9'6""",RB,NA
-"Strong, Pierre",5113,207,31 7/8,9 1/4,36.0,"10'4""",RB,NA
-"Verdell, CJ",5076,194,29 1/4,9 1/2,29.5,"9'10""",RB,NA
-"Walker III, Kenny",5092,211,30 3/8,9 1/2,34.0,"10'2""",RB,NA
-"Warren, Jaylen",5080,204,29 7/8,9 1/4,31.5,"9'11""",RB,NA
-"White, Rachaad",6003,214,31 1/4,9 3/4,38.0,"10'5""",RB,NA
-"White, Zamir",5116,214,31 1/2,8 1/2,33.5,"10'8""",RB,NA
-"White, ZaQuandre",6001,206,30 3/4,9,NA,NA,RB,NA
-"Williams, Kyren",5092,194,28 5/8,9,32.0,"9'8""",RB,NA
-"Allen, Austin",6075,253,33 5/8,9 1/2,34.0,"10'1""",TE,NA
-"Allen, Chase",6060,251,34 1/8,9 5/8,33.5,"9'9""",TE,NA
-"Bellinger, Daniel",6047,253,32 1/2,10 1/8,34.5,"10'5""",TE,NA
-"Calcattera, Grant",6037,241,33 1/4,10,NA,NA,TE,NA
-"Dulcich, Greg",6040,243,33 3/8,9 7/8,34.0,"10'2""",TE,NA
-"Ferguson, Jake",6047,250,32 5/8,9 1/2,31.5,"9'10""",TE,NA
-"Hall, Jeremiah",6014,239,31 5/8,10 1/2,29.0,"9'3""",TE,NA
-"Hendershot, Peyton",6041,250,32 5/8,9,32.5,"9'9""",TE,NA
-"Heyward, Connor",5111,233,31 7/8,9 1/2,32.5,NA,TE,NA
-"Hodges, Curtis",6076,257,34 1/2,9 5/8,34.5,"9'9""",TE,NA
-"Kolar, Charlie",6064,252,34 1/2,10,NA,NA,TE,NA
-"Likely, Isaiah",6044,245,31 7/8,10,36.0,NA,TE,NA
-"McBride, Trey",6035,246,32 1/2,10 1/8,33.0,"9'9""",TE,NA
-"Mitchell, James",6040,249,32 7/8,9 3/4,NA,NA,TE,NA
-"Okonkwo, Chig",6024,238,32 3/4,9 3/4,35.5,NA,TE,NA
-"Otton, Cade",6050,247,32 3/4,9 1/2,NA,NA,TE,NA
-"Quitoriano, Teagan",6056,256,33 1/2,9 1/4,NA,NA,TE,NA
-"Ruckert, Jeremy",6054,252,32 5/8,10 1/8,NA,NA,TE,NA
-"Turner, Cole",6064,249,33,9 3/4,27.0,"10'0""",TE,NA
-"Woods, Jelani",6071,253,34 1/2,9 1/2,NA,NA,TE,NA
-"Wydermyer, Jalen",6037,255,33 1/8,9 3/4,NA,NA,TE,NA
-"Andries, Blaise",6062,308,33 7/8,9 7/8,NA,"8'10""",OL,NA
-"Brown, Ben",6051,312,34 3/8,10 1/4,NA,NA,OL,NA
-"Bruss, Logan",6050,309,33 1/8,10 3/4,NA,"9'4""",OL,NA
-"Burford, Spencer",6041,304,34 3/4,9 1/2,27.5,"8'9""",OL,NA
-"Carter, Ja’Tyre",6033,311,33 5/8,10 1/4,30.0,"9'0""",OL,NA
-"Cross, Charles",6046,307,34 1/2,10 3/4,26.0,"9'4""",OL,NA
-"Cunningham, Myron",6052,320,34 1/2,10 3/8,20.0,"8'2""",OL,NA
-"Deaton, Dawson",6054,306,32 7/8,9 5/8,29.0,"9'0""",OL,NA
-"Deculus, Austin",6050,321,34 3/8,9 1/4,28.5,"9'1""",OL,NA
-"Diesch, Kellen",6071,301,32 1/4,9 1/2,32.5,"9'2""",OL,NA
-"Dunkle, Bill",6047,328,33 5/8,10 1/4,26.0,"7'11""",OL,NA
-"Ekwonu, Ickey",6040,310,34,10 1/4,29.0,"9'0""",OL,NA
-"Eze, Obinna",6064,321,36 1/8,9 7/8,27.5,"8'8""",OL,NA
-"Ezeudu, Joshua",6042,308,34,9 1/2,29.0,"8'9""",OL,NA
-"Faalele, Daniel",6080,384,35 1/8,11,NA,NA,OL,NA
-"Fortner, Luke",6041,307,33 1/8,10,24.0,"8'6""",OL,NA
-"Goedeke, Luke",6050,312,32 1/4,9 3/4,NA,NA,OL,NA
-"Green, Kenyon",6037,323,34 1/8,10 3/8,26.0,"8'6""",OL,NA
-"Hayes, Marquis",6047,318,34 7/8,8 7/8,23.5,"8'6""",OL,NA
-"Hines, Chasen",6026,327,33 7/8,9 7/8,30.5,"9'0""",OL,NA
-"Ingram, Ed",6032,307,33 5/8,10,28.5,"8'6""",OL,NA
-"Johnson, Zion",6025,312,34,10 5/8,32.0,"9'4""",OL,NA
-"Jones, Braxton",6052,310,35 3/8,10 1/4,25.5,"9'0""",OL,NA
-"Jurgens, Cam",6027,303,33 3/8,10,NA,"8'9""",OL,NA
-"Kinnard, Darian",6053,322,35,11 1/4,25.0,"8'3""",OL,NA
-"Linderbaum, Tyler",6021,296,31 1/8,10,NA,NA,OL,NA
-"Lindstrom, Alec",6033,296,32 5/8,9 1/4,29.0,"9'3""",OL,NA
-"Lowe, Vederian",6045,314,35 3/8,10 3/8,25.5,"8'3""",OL,NA
-"Lucas, Abraham",6063,315,33 7/8,10 1/2,NA,"8'11""",OL,NA
-"Mays, Cade",6046,311,34 1/8,10,26.0,"8'6""",OL,NA
-"McKethan, Marcus",6064,340,35 1/2,10 1/2,27.5,"9'2""",OL,NA
-"Mitchell, Max",6062,307,33 1/2,10,25.0,"8'10""",OL,NA
-"Munford Jr., Thayer",6056,328,35 1/8,10 1/8,22.0,"8'8""",OL,NA
-"Neal, Evan",6074,337,34,10 1/8,NA,NA,OL,NA
-"Parham, Dylan",6025,311,33 1/8,10 1/4,26.5,"9'0""",OL,NA
-"Paul, Chris",6037,323,33 5/8,9 3/8,27.0,"9'1""",OL,NA
-"Penning, Trevor",6071,325,34 1/4,10 1/8,28.0,"9'3""",OL,NA
-"Petit-Frere, Nick",6051,316,33 5/8,10 3/4,24.5,"8'7""",OL,NA
-"Raimann, Bernhard",6061,303,32 7/8,10 1/4,30.5,"9'9""",OL,NA
-"Rhyan, Sean",6045,321,32 3/8,11 1/8,33.5,"9'2""",OL,NA
-"Robinson, Tyrese",6027,317,33 1/8,9 3/4,22.5,"8'4""",OL,NA
-"Rosenthal, Dare",6066,290,33 1/2,9,NA,NA,Ol,NA
-"Rupcich, Andrew",6060,318,32 7/8,9 1/2,27.5,"9'0""",OL,NA
-"Salyer, Jamaree",6030,321,33 5/8,10,NA,NA,OL,NA
-"Shaffer, Justin",6037,314,33 1/4,10,25.5,"8'11""",OL,NA
-"Smith, Lecitus",6032,314,31 7/8,9 5/8,NA,"8'3""",OL,NA
-"Smith, Tyler",6045,324,34,10 3/4,27.5,"8'9""",OL,NA
-"Strange, Cole",6047,307,33,10 1/8,28.0,"10'0""",OL,NA
-"Stueber, Andrew",6065,325,34 1/8,10,NA,"8'5""",OL,NA
-"Tenuta, Luke",6080,319,32 7/8,10 1/8,26.0,"8'8""",OL,NA
-"Thomas, Zach",6047,308,33 7/8,10 1/4,22.5,"8'11""",OL,NA
-"Tom, Zach",6042,304,33 1/4,10 3/8,33.0,"9'10""",OL,NA
-"Volson, Cordell",6061,315,33 7/8,10 1/2,25.0,"8'8""",OL,NA
-"Waletzko, Matt",6075,312,36 1/8,10 1/4,30.0,"9'5""",OL,NA
-"Walker, Rasheed",6055,313,33 5/8,10 5/8,NA,NA,OL,NA
-"Wattenberg, Luke",6040,299,34 1/8,9 3/8,29.5,"9'5""",OL,NA
-"West, Dohnovan",6032,296,33,9 1/2,28.0,"9'4""",OL,NA
-"Zakelj, Nick",6061,316,32 1/2,9 7/8,28.5,"9'2""",OL,NA
-"Bonitto, Nik",6030,248,32 1/2,9 3/8,35.5,"10'0""",DL,NA
-"Butler, Matthew",6037,297,33 1/2,9 1/4,32.0,"9'4""",DL,NA
-"Carter, Zach",6042,282,33 1/2,10 1/4,27.5,"9'2""",DL,NA
-"Davidson, DJ",6033,327,33,10 1/8,28.0,NA,DL,NA
-"Davis, Jordan",6063,341,34,10 3/4,32.0,"10'3""",DL,NA
-"Davis, Kalia",6010,302,33 5/8,9 1/2,NA,NA,DL,NA
-"Elliss, Noah",6042,346,32 1/4,10 3/8,NA,NA,DL,NA
-"Farrell, Neil",6041,330,32 1/4,10 1/8,21.5,NA,DL,NA
-"Ford, Jonathan",6051,333,32 3/4,9 1/4,29.0,"8'6""",DL,NA
-"Garrett, Haskell",6021,300,31 5/8,9 7/8,24.0,NA,DL,NA
-"Hall, Logan",6061,283,32 3/4,9 5/8,30.0,NA,DL,NA
-"Hinton, Chris",6035,305,32 3/8,10 1/2,31.5,"8'10""",DL,NA
-"Jackson, Jordan",6044,294,33 3/4,9 3/8,NA,NA,DL,NA
-"Jones, Travis",6043,325,34 1/4,10 1/4,28.5,"9'2""",DL,NA
-"Leal, DeMarvin",6037,283,33 1/4,9 1/2,27.5,"8'10""",DL,NA
-"Mathis, Phidarian",6042,310,34 5/8,10 3/8,23.5,"9'1""",DL,NA
-"McCall, Marquan",6025,342,33 1/4,11,NA,NA,DL,NA
-"Ogbonnia, Otito",6036,324,34 3/8,10,NA,NA,DL,NA
-"Peevy, Jayden",6053,308,35 1/2,10 1/2,27.0,"8'4""",DL,NA
-"Ridgeway, John",6051,321,33 3/8,10,NA,"8'5""",DL,NA
-"Uwazurike, Eyioma",6061,316,35 1/8,10 1/8,33.0,"8'11""",DL,NA
-"Winfrey, Perrion",6035,290,35 1/4,10 1/4,NA,NA,DL,NA
-"Wyatt, Devonte",6027,304,32 5/8,9 7/8,29.0,"9'3""",DL,NA
-"Barno, Amaré",6045,246,34,9,37.0,"10'11""",DL,NA
-"Booker, Thomas",6033,301,33 1/4,10 5/8,NA,"9'2""",DL,NA
-"Clemons, Micheal",6052,263,34 7/8,10,24.0,"9'8""",DL,NA
-"Ebiketie, Arnold",6023,250,34 1/8,10 1/4,38.0,"10'8""",DL,NA
-"Enagbare, Kingsley",6036,258,34 3/4,10 5/8,36.5,"9'9""",DL,NA
-"Gunter, Jeffrey",6043,258,33,9 1/4,35.5,"10'2""",DL,NA
-"Hutchinson, Aidan",6065,260,32 1/8,10 1/4,36.0,"9'9""",DL,NA
-"Johnson, Tyree",6024,248,30 7/8,9 3/4,NA,NA,DL,NA
-"Karlaftis, George",6036,266,32 5/8,10 1/4,38.0,"10'1""",DL,NA
-"Luketa, Jesse",6027,253,32 5/8,10 3/8,37.5,"9'6""",DL,NA
-"Malone, DeAngelo",6032,243,33 1/8,9 7/8,NA,NA,DL,NA
-"Ojabo, David",6040,250,33 1/2,9,35.0,"10'2""",DL,NA
-"Otomewo, Esezi",6052,282,34 1/2,9,NA,NA,DL,NA
-"Paschal, Joshua",6025,268,32 3/4,9 5/8,37.5,"10'3""",DL,NA
-"Ray, LaBryan",6042,283,32 5/8,8 1/2,NA,NA,DL,NA
-"Robinson, Dominique",6047,253,33 1/4,9 3/4,41.0,"10'1""",DL,NA
-"Sanders, Myjai",6052,228,32 5/8,9 1/4,33.0,"10'0""",DL,NA
-"Smith, Tyreke",6033,254,33 1/4,10 1/4,34.0,"9'9""",DL,NA
-"Tagovailoa-Amosa, Myron",6022,270,32 5/8,9 5/8,29.0,"9'7""",DL,NA
-"Thibodeaux, Kayvon",6040,254,33 1/8,9 3/4,NA,NA,DL,NA
-"Thomas, Cameron",6041,267,32 1/2,10 1/4,NA,NA,DL,NA
-"Thomas, Isaiah",6047,266,33 1/4,10 1/4,31.5,"9'9""",DL,NA
-"Walker, Travon",6050,272,35 1/2,10 3/4,35.5,"10'3""",DL,NA
-"Williams, Sam",6035,261,33 1/8,9 7/8,32.5,"10'3""",DL,NA
-"Wright, Alex",6051,271,34,9 1/4,NA,NA,DL,NA
-"Allen, Christopher",6034,241,33,10,NA,NA,LB,NA
-"Andersen, Troy",6034,243,32 1/8,9 1/4,36.0,"10'8""",LB,NA
-"Asamoah, Brian",6002,226,32 5/8,10,36.5,"10'4""",LB,NA
-"Beavers, Darrian",6036,237,32 3/8,9 3/4,36.5,"10'5""",LB,NA
-"Bernard, Terrel",6007,224,30 1/4,9 5/8,35.5,"10'3""",LB,NA
-"Butler, Darien",5101,221,30 1/8,9 3/8,NA,NA,LB,NA
-"Campbell, Chance",6023,232,31 1/4,10 1/8,39.5,"10'7""",LB,NA
-"Chenal, Leo",6025,250,31,9 3/4,40.5,"10'8""",LB,NA
-"Clark, Damone",6024,239,33,9 3/4,36.5,"10'7""",LB,NA
-"Dean, Nakobe",5112,229,31 7/8,9 1/8,NA,NA,LB,NA
-"Domann, JoJo",6012,228,30 3/8,9 1/2,34.5,"9'11""",LB,NA
-"Gemmel, Jeremiah",6006,226,31 3/4,9 1/4,NA,NA,LB,NA
-"Graham-Mobley, Isaiah",6010,230,32,9 1/4,34.5,"10'4""",LB,NA
-"Hansen, Jake",6007,238,32 3/8,9 3/4,NA,NA,LB,NA
-"Hansford, Aaron",6022,239,32 3/8,10 1/8,NA,NA,LB,NA
-"Harris, Christian",6004,226,32 1/8,9 5/8,34.5,"11'0""",LB,NA
-"Jackson, D’Marco",6006,233,32 1/2,9 1/4,33.0,"10'5""",LB,NA
-"Jackson, Drake",6025,254,34,10 1/8,36.5,"10'7""",LB,NA
-"Johnson II, Jermaine",6045,254,34,9 7/8,32.0,"10'5""",LB,NA
-"Landman, Nate",6024,238,30 1/2,9 3/8,36.5,"9'11""",LB,NA
-"Lloyd, Devin",6026,237,33,9 1/2,35.0,"10'6""",LB,NA
-"Mafe, Boye",6036,261,32 5/8,9 7/8,38.0,"10'5""",LB,NA
-"McClain, Zakoby",5114,228,31 3/4,9 1/4,33.0,"9'9""",LB,NA
-"McFadden, Micah",6010,240,31 1/4,9 1/2,NA,NA,LB,NA
-"Moon, Jeremiah",6046,249,35,10 1/8,40.5,"11'1""",LB,NA
-"Muma, Chad",6030,239,31 5/8,10,40.0,"10'9""",LB,NA
-"Rodriguez, Malcolm",5110,232,30 1/8,9 5/8,39.5,"10'0""",LB,NA
-"Rose, Mike",6040,245,33 1/4,10 1/8,34.0,"10'1""",LB,NA
-"Ross, Josh",6003,227,30 1/2,9 3/4,31.0,"9'1""",LB,NA
-"Sanborn, Jack",6015,234,30 1/2,9 5/8,34.5,"9'6""",LB,NA
-"Sewell, Nephi",5114,226,29 3/8,8 1/2,32.0,"10'0""",LB,NA
-"Smith, Brandon",6034,250,34 5/8,10 1/4,37.5,"10'8""",LB,NA
-"Spector, Baylon",6011,233,31 1/2,10,36.0,"10'2""",LB,NA
-"Tindall, Channing",6017,230,32 7/8,10 5/8,42.0,"10'9""",LB,NA
-"Walker, Quay",6036,241,32 5/8,9 1/4,32.0,"10'2""",LB,NA
-"Williams, Tre",6041,252,33 3/4,10,26.5,"8'8""",LB,NA
-"Armour-Davis, Jalyn",6005,197,30 7/8,9 1/4,34.5,NA,DB,NA
-"Barnes, Kalon",5114,183,31 3/4,9 7/8,NA,NA,DB,NA
-"Booth, Andrew",6002,194,31 1/2,9 3/8,NA,NA,DB,NA
-"Brown, Montaric",6003,196,31 1/4,9 1/2,NA,NA,DB,NA
-"Bryant, Coby",6013,193,30 5/8,9 3/8,NA,NA,DB,NA
-"Castro-Fields, Tariq",6005,197,30 3/4,8 3/4,NA,NA,DB,NA
-"Durant, Cobie",5095,180,30 3/4,8 3/4,NA,NA,DB,NA
-"Elam, Kaiir",6014,191,30 7/8,8 7/8,NA,NA,DB,NA
-"Emerson, MJ",6015,201,33 1/2,10 1/8,NA,NA,DB,NA
-"Evans, Akayleb",6020,197,32,8 3/4,36.0,"10'9""",DB,NA
-"Fields, DaMarcus",5115,193,31 1/4,9 1/8,34.5,NA,DB,NA
-"Flott, Cordale",6004,175,30 1/8,8,NA,NA,DB,NA
-"Gardner, Sauce",6026,190,33 1/2,9 5/8,NA,NA,DB,NA
-"Goodrich, Mario",6002,176,30 5/8,9 1/8,NA,NA,DB,NA
-"Gordon, Kyler",5114,194,31,9 1/4,NA,NA,DB,NA
-"Gray, Vincent",6022,192,32 3/8,9 1/4,NA,NA,DB,NA
-"Jobe, Joshua",5114,182,32 5/8,9 1/4,NA,NA,DB,NA
-"Jones, Jack",5106,171,30 3/4,8 7/8,NA,NA,DB,NA
-"Jones, Marcus",5080,174,28 7/8,8 7/8,NA,NA,DB,NA
-"Kendrick, Derion",5117,194,31,9 1/8,NA,NA,DB,NA
-"Lucas, Chase",5112,180,31 7/8,9 1/4,39.0,"10'8""",DB,NA
-"Mathis, Damarri",5110,196,31 7/8,8 1/4,NA,NA,DB,NA
-"McCollum, Zyon",6021,199,30 3/4,9,39.5,"11'0""",DB,NA
-"McCreary, Roger",5113,190,28 7/8,9,NA,NA,DB,NA
-"McDuffie, Trent",5103,193,29 3/4,8 3/4,NA,NA,DB,NA
-"Steele, Chris",6003,187,31 1/8,8 3/4,37.5,"10'6""",DB,NA
-"Stingley Jr., Derek",6002,190,30 5/8,9 5/8,NA,NA,DB,NA
-"Taylor, Alontae",6001,199,32 1/4,9 1/8,34.5,"10'8""",DB,NA
-"Taylor-Britt, Cam",5105,196,31 1/2,10,NA,NA,DB,NA
-"Taylor-Stuart, Isaac",6014,201,31 1/2,9,NA,"10'3""",DB,NA
-"Thompson, Josh",5104,194,30 7/8,9 3/8,NA,NA,DB,NA
-"Waller, Jermaine",6001,180,31 1/8,9,NA,NA,DB,NA
-"Watson, Jaylen",6020,197,32 1/4,9 5/8,NA,NA,DB,NA
-"Webb, Sam",6004,201*,32 1/8,9 1/4,NA,NA,DB,NA
-"Williams, Joshua",6027,195,32 7/8,9 1/2,36.0,"10'4""",DB,NA
-"Williams, Damarion",5102,182,29 5/8,8 3/4,34.5,"9'10""",DB,NA
-"Woolen, Tariq",6041,205,33 5/8,9 1/8,42.0,NA,DB,NA
-"Wright, Mykael",5104,173,30 1/2,9,NA,NA,DB,NA
-"Anderson, Tycen",6017,209,33,10 1/8,35.5,"10'3""",DB,NA
-"Bell, Markquese",6021,212,32 3/8,9 3/8,36.5,"10'3""",DB,NA
-"Belton, Dane",6005,205,31,9 1/8,36.5,"10'3""",DB,NA
-"Bolden, Bubba",6021,209,31 3/8,9,NA,"9'8""",DB,NA
-"Brisker, Jaquan",6013,199,31 3/4,9 7/8,34.5,"10'4""",DB,NA
-"Butler, Percy",6001,194,31 5/8,9 1/8,31.5,"10'3""",DB,NA
-"Cine, Lewis",6022,199,32 1/4,9 3/8,36.5,"11'1""",DB,NA
-"Cole, Qwynnterrio",5117,206,31 7/8,10 3/8,NA,NA,DB,NA
-"Cook, Bryan",6006,206,31 7/8,8 1/2,NA,NA,DB,NA
-"Corker, Yusuf",5114,203,31,9,NA,NA,DB,NA
-"Cross, Nick",6001,212,31 1/2,9,37.0,"10'10""",DB,NA
-"Hamilton, Kyle",6041,220,33,9 1/8,38.0,"10'11""",DB,NA
-"Harvell-Peel, Kolby",5114,213,31 1/8,9 3/4,NA,NA,DB,NA
-"Hill, Dax",6002,191,32 1/4,9 1/2,33.5,"10'1""",DB,NA
-"Joseph, Kerby",6005,203,33,10 1/4,38.5,"10'3""",DB,NA
-"Lake, Quentin",6011,201,31 1/4,9 1/8,NA,NA,DB,NA
-"McKinley III, Verone",5105,198,30 5/8,9 1/8,35.0,"10'0""",DB,NA
-"Monday, Smoke",6010,207,32 1/2,9 1/8,NA,"10'4""",DB,NA
-"O’Neal, Leon",6004,204,31 5/8,10 1/4,35.0,10'5,DB,NA
-"Pitre, Jalen",5110,198,30 5/8,9,35.0,NA,DB,NA
-"Thomas, Juanyeh",6005,212,32 3/8,9 3/4,34.5,"10'2""",DB,NA
-"Turner-Yell, Delarrin",5096,197,31 3/4,10,NA,"10'2""",DB,NA
-"Woods, JT",6106,195,32 3/8,8 1/2,39.5,"10'8""",DB,NA
-"Adomitis, Cal",6012,234,30 1/4,9 3/4,29.5,"8'11""",ST,NA
-"Araiza, Matt",6011,200,30 1/2,9 1/2,32,"10'1""",PK,NA
-"Brkic, Gabe",6010,201,32 1/4,9 1/4,NA,NA,PK,NA
-"Camarda, Jake",6011,193,30 3/8,9 5/8,NA,NA,PK,NA
-"Dicker, Cameron",6001,219,30 1/4,8 7/8,NA,NA,PK,NA
-"Gill, Trenton",6032,220,31 1/4,9 1/4,NA,NA,PK,NA
-"Hayes, Blake",6044,226,33 7/8,9 3/4,NA,NA,PK,NA
-"Stout, Jordan",6032,209,31 3/4,9 3/8,NA,NA,PK,NA
-"York, Cade",6006,206,31 5/8,8 3/4,NA,NA,PK,NA
-QB,Jake Browning,6-1 7/8,211,32 1/2,9,29,9-4,Quarterback
-QB,Ryan Finley,6-4,213,32 7/8,9 1/2,30.5,9-8,Quarterback
-QB,Nick Fitzgerald,6-4 5/8,226,31 7/8,9 3/4,29.5,9-7,Quarterback
-QB,Will Grier,6-2 1/2,217,31 1/2,9 3/8,34,9-4,Quarterback
-QB,Dwayne Haskins,6-3 3/8,231,33 1/2,9 5/8,28.5,—,Quarterback
-QB,Tyree Jackson,6-7,249,34 1/4,10 1/4,34.5,10-0,Quarterback
-QB,Daniel Jones,6-5 1/8,221,32 1/2,9 3/4,33.5,10-0,Quarterback
-QB,Drew Lock,6-3 3/4,228,32 1/2,9,31,9-4,Quarterback
-QB,Trace McSorley,6-0 1/8,202,31,9 1/8,33,9-7,Quarterback
-QB,Gardner Minshew,6-0 7/8,225,31 3/4,10 1/8,33.5,9-8,Quarterback
-QB,Kyler Murray,5-10 1/8,207,28 1/2,9 1/2,—,—,Quarterback
-QB,Brett Rypien,6-1 5/8,210,30 3/8,9,33,9-8,Quarterback
-QB,Kyle Shurmur,6-4,230,32 3/4,8 7/8,29.5,8-10,Quarterback
-QB,Easton Stick,6-1 1/4,224,32 1/8,9 1/4,33.5,9-10,Quarterback
-QB,Jarrett Stidham,6-2 3/8,218,32,9 1/8,31,9-2,Quarterback
-QB,Jordan Ta'amu,6-2 5/8,221,32 1/4,9 7/8,27.5,9-1,Quarterback
-QB,Clayton Thorson,6-4,222,31 1/8,9 3/4,—,—,Quarterback
-RB,Rodney Anderson,6-0 3/8,224,30 3/4,9 3/4,—,—,Running_Back
-RB,Ryquell Armstead,5-11 1/4,220,30 5/8,9 1/8,30,9-6,Running_Back
-RB,Alex Barnes,6-0 3/8,226,31,10,38.5,10-6,Running_Back
-RB,Nick Brossette,5-11 1/8,209,30,8 5/8,35.5,9-10,Running_Back
-RB,Miles Gaskin,5-9 1/4,205,29 1/2,8 3/4,35.5,9-10,Running_Back
-RB,Damien Harris,5-10 1/8,216,30 3/4,9 3/4,37,10-1,Running_Back
-RB,Darrell Henderson,5-8 3/8,208,31,8 5/8,33.5,10-1,Running_Back
-RB,Karan Higdon,5-9 1/8,206,30 3/4,9 5/8,34,10-3,Running_Back
-RB,Justice Hill,5-9 5/8,198,31 5/8,9 1/2,40,10-10,Running_Back
-RB,Elijah Holyfield,5-10 3/8,217,30 3/8,9,29.5,9-10,Running_Back
-RB,Travis Homer,5-10 3/8,201,31 1/2,10,39.5,10-10,Running_Back
-RB,Alex Ingold,6-0 3/4,242,31 1/2,9 5/8,34,9-8,Running_Back
-RB,Josh Jacobs,5-10,220,31 5/8,10 1/8,—,—,Running_Back
-RB,Bryce Love,5-8 7/8,200,29 3/8,9 1/8,—,—,Running_Back
-RB,Alexander Mattison,5-10 5/8,221,31,9 1/8,35,10-7,Running_Back
-RB,David Montgomery,5-10 1/8,222,31 3/8,9 1/4,28.5,10-1,Running_Back
-RB,Jalin Moore,5-10,212,32 3/8,9 1/4,—,—,Running_Back
-RB,Qadree Ollison,6-0 5/8,228,31 1/2,9 5/8,29.5,9-6,Running_Back
-RB,Tony Pollard,5-11 5/8,210,30,9 1/2,35,10-1,Running_Back
-RB,Miles Sanders,5-10 5/8,211,30 5/8,9 1/4,36,10-4,Running_Back
-RB,Jordan Scarlett,5-10 5/8,208,30 3/8,8 7/8,30,9-8,Running_Back
-RB,LJ Scott,6-0 3/8,227,32 1/8,9 3/8,33,10-0,Running_Back
-RB,Devin Singletary,5-7 1/2,203,28 7/8,8 1/2,35,9-9,Running_Back
-RB,Benny Snell,5-10 3/8,224,31,9 3/8,29.5,9-11,Running_Back
-RB,Mike Weber,5-9 5/8,211,29 3/4,9 3/8,33.5,—,Running_Back
-RB,Dexter Williams,5-11,212,32 1/4,9 5/8,36,10-10,Running_Back
-RB,James Williams,5-9 1/2,197,30 3/8,9 1/4,36.5,9-10,Running_Back
-RB,Trayveon Williams,5-8 1/8,206,30 3/8,9 1/4,33,10-1,Running_Back
-WR,JJ Arcega-Whiteside,6-2,225,33 1/4,9 1/2,—,—,Wide_Receiver
-WR,Myles Boykin,6-3 3/4,220,33 1/2,9 7/8,43.5,11-8,Wide_Receiver
-WR,Tyre Brady,6-2 7/8,211,33 5/8,9 3/4,32,9-9,Wide_Receiver
-WR,A.J. Brown,6-0 1/2,226,32 7/8,9 3/4,36.5,10-0,Wide_Receiver
-WR,Marquise Brown,5-9 3/8,166,30 1/2,9,—,—,Wide_Receiver
-WR,Emmanuel Butler,6-3 1/8,217,33,10 1/8,36,9-7,Wide_Receiver
-WR,Hakeem Butler,6-5 3/8,227,35 1/4,10 3/4,36,10-8,Wide_Receiver
-WR,Parris Campbell,5-11 7/8,205,32 1/4,9 1/2,40,11-3,Wide_Receiver
-WR,Jamal Custis,6-4 1/8,214,33 7/8,10 7/8,34.5,10-4,Wide_Receiver
-WR,Felton Davis III,6-3 1/2,211,32 3/4,10 1/4,—,—,Wide_Receiver
-WR,Ryan Davis,5-9 7/8,189,30 7/8,9 1/4,35,10-4,Wide_Receiver
-WR,Johnnie Dixon,5-10 3/8,201,30 1/4,9 5/8,37.5,10-0,Wide_Receiver
-WR,Greg Dortch,5-7 1/8,173,29 1/4,9 1/4,—,—,Wide_Receiver
-WR,Keelan Doss,6-2 1/8,211,31 3/4,9 1/2,—,—,Wide_Receiver
-WR,Ashton Dulin,6-1 3/8,215,33 3/8,9,38,10-1,Wide_Receiver
-WR,Jovon Durante,5-11 1/8,160,31 1/8,8 3/4,31.5,10-0,Wide_Receiver
-WR,Jazz Ferguson,6-4 5/8,227,34 1/4,9 1/4,37,10-3,Wide_Receiver
-WR,Travis Fulgham,6-2 1/2,215,33 3/4,9 1/2,36.5,10-6,Wide_Receiver
-WR,Terry Godwin,5-11 3/8,184,30,9 3/8,36.5,9-9,Wide_Receiver
-WR,Emanuel Hall,6-1 7/8,201,33 1/4,9 3/4,43.5,11-9,Wide_Receiver
-WR,Mecole Hardman,5-10 1/4,187,30 1/4,9,36.5,9-11,Wide_Receiver
-WR,Kelvin Harmon,6-2 1/2,221,32 1/2,9 1/2,32.5,9-9,Wide_Receiver
-WR,N'Keal Harry,6-2 3/8,228,33,9 1/2,38.5,10-2,Wide_Receiver
-WR,Lil'Jordan Humphrey,6-3 5/8,210,32 3/4,9 1/2,33.5,9-11,Wide_Receiver
-WR,Jalen Hurd,6-4 3/4,226,32,10 1/4,—,—,Wide_Receiver
-WR,Andy Isabella,5-8 3/4,188,29 3/4,8 3/8,36.5,10-1,Wide_Receiver
-WR,Gary Jennings Jr.,6-1,214,32 1/2,9 5/8,37,10-7,Wide_Receiver
-WR,Anthony Johnson,6-1 7/8,209,31 3/8,9 3/8,32.5,10-2,Wide_Receiver
-WR,Diontae Johnson,5-10 1/2,183,30 3/4,9,33.5,10-3,Wide_Receiver
-WR,KeeSean Johnson,6-1 1/8,201,32,9 1/2,30,9-9,Wide_Receiver
-WR,Olabisi Johnson,6-0 1/2,204,30 3/4,10 3/8,38,10-4,Wide_Receiver
-WR,DaMarkus Lodge,6-1 7/8,202,33 1/8,9 1/2,33.5,9-11,Wide_Receiver
-WR,Terry McLaurin,6-0 1/8,208,31 1/2,9 1/8,37.5,10-5,Wide_Receiver
-WR,D.K. Metcalf,6-3 3/8,228,34 7/8,9 7/8,40.5,11-2,Wide_Receiver
-WR,Jakobi Meyers,6-1 5/8,203,32,9 1/2,37,9-10,Wide_Receiver
-WR,Dillon Mitchell,6-1 1/4,197,31 1/2,9,36.5,10-2,Wide_Receiver
-WR,Stanley Morgan Jr.,6-0,202,32 3/8,9 7/8,38.5,10-5,Wide_Receiver
-WR,Nyqwan Murray,5-10 1/4,191,31 1/8,9 3/8,34,9-5,Wide_Receiver
-WR,Hunter Renfrow,5-10 1/4,184,29 1/8,7 7/8,35,9-8,Wide_Receiver
-WR,Riley Ridley,6-1 1/4,199,32 5/8,10 1/4,30.5,10-4,Wide_Receiver
-WR,Deebo Samuel,5-11 1/4,214,31 3/8,10,39,10-2,Wide_Receiver
-WR,David Sills V,6-3 1/4,211,32,9,37.5,9-9,Wide_Receiver
-WR,Darius Slayton,6-1,190,32 3/4,10,40.5,11-3,Wide_Receiver
-WR,Jaylen Smith,6-2 1/4,219,33 7/8,9 1/2,34.5,10-2,Wide_Receiver
-WR,Cody Thompson,6-1 1/2,205,31,9 3/8,38.5,9-11,Wide_Receiver
-WR,Jamarius Way,6-3 1/2,215,33,10 1/4,32.5,9-11,Wide_Receiver
-WR,Alex Wesley,5-11 7/8,190,31 1/4,9,38.5,10-5,Wide_Receiver
-WR,Antoine Wesley,6-4 1/8,206,34,9 3/4,37,9-9,Wide_Receiver
-TE,Kendall Blanton,6-6 1/4,262,33 3/4,10 3/8,31,9-5,Tight_End
-TE,Keenen Brown,6-2 1/2,250,34 1/2,9 7/8,33,9-9,Tight_End
-TE,C.J. Conrad,6-4 1/2,249,31,9 1/4,—,—,Tight_End
-TE,Noah Fant,6-4 1/8,249,33 1/2,9 3/4,39.5,10-7,Tight_End
-TE,Zach Gentry,6-8 1/8,265,34 1/8,9 1/2,29.5,9-2,Tight_End
-TE,Daniel Helm,6-4 1/8,249,33 3/8,9 1/2,—,—,Tight_End
-TE,T.J. Hockenson,6-4 3/4,251,32 1/4,9 1/2,37.5,10-3,Tight_End
-TE,Dawson Knox,6-4 3/8,254,33 1/2,9 3/4,34.5,—,Tight_End
-TE,Alize Mack,6-4,249,33 3/4,9 3/8,36,10-0,Tight_End
-TE,Foster Moreau,6-4 1/8,253,33 1/2,9 5/8,36.5,10-1,Tight_End
-TE,Isaac Nauta,6-3 1/4,244,31 7/8,9 3/8,28,—,Tight_End
-TE,Josh Oliver,6-4 5/8,249,33 1/2,10 3/4,34,9-9,Tight_End
-TE,Dax Raymond,6-4 3/4,255,32 5/8,10 1/4,32,9-1,Tight_End
-TE,Drew Sample,6-4 3/4,255,33 3/8,9 5/8,33.5,9-7,Tight_End
-TE,Irv Smith Jr.,6-2 3/8,242,31 1/2,9 1/2,32.5,9-2,Tight_End
-TE,Kaden Smith,6-5,255,32 1/4,9 5/8,32,9-0,Tight_End
-TE,Jace Sternberger,6-4,251,32 1/8,9 3/4,31.5,9-5,Tight_End
-TE,Tommy Sweeney,6-4 1/2,251,32 3/4,9 3/4,—,—,Tight_End
-TE,Kahale Warring,6-5 1/8,252,32 3/4,9 3/4,36.5,10-2,Tight_End
-TE,Trevon Wesco,6-3 1/2,267,34 3/4,9 1/2,31,9-9,Tight_End
-TE,Caleb Wilson,6-4 1/4,240,33,9 3/4,29,9-5,Tight_End
-OL,Paul Adams,6-5 7/8,317,33 1/2,10,27,8-7,Offensive_Line
-OL,Zack Bailey,6-5 1/8,299,33,9 5/8,28,8-7,Offensive_Line
-OL,Alex Bars,6-5 7/8,312,32 3/4,9 3/8,—,—,Offensive_Line
-OL,Jackson Barton,6-7 1/4,310,34,9 1/4,27,9-1,Offensive_Line
-OL,Ryan Bates,6-4 1/2,306,32 1/2,9 1/2,27,8-6,Offensive_Line
-OL,Beau Benzschawel,6-6 1/4,309,33 3/8,9 5/8,—,—,Offensive_Line
-OL,Garrett Bradbury,6-2 7/8,306,31 3/4,10 1/2,31,8-8,Offensive_Line
-OL,Yodny Cajuste,6-4 7/8,312,34,10,—,—,Offensive_Line
-OL,Shaq Calhoun,6-2 1/2,310,33 1/8,10,28.5,8-9,Offensive_Line
-OL,Dennis Daley,6-5,317,33 3/8,9 1/2,26.5,8-7,Offensive_Line
-OL,Nate Davis,6-3 1/4,316,33 1/8,9 1/2,26,8-11,Offensive_Line
-OL,Michael Deiter,6-5 1/8,309,33 1/8,10 3/4,28,8-9,Offensive_Line
-OL,Andre Dillard,6-5,315,33 1/2,10,29,9-10,Offensive_Line
-OL,Chuma Edoga,6-3 1/2,308,34 3/4,9 5/8,—,—,Offensive_Line
-OL,David Edwards,6-6 1/4,308,33 3/8,9 3/4,25.5,8-3,Offensive_Line
-OL,Bobby Evans,6-4 3/8,312,34 3/4,9 7/8,—,—,Offensive_Line
-OL,Cody Ford,6-3 3/4,329,34,9 3/4,28.5,8-8,Offensive_Line
-OL,Hjalte Froholdt,6-4 5/8,306,31 1/4,9 3/4,27.5,8-9,Offensive_Line
-OL,Lamont Gaillard,6-2 5/8,305,33 1/2,10 3/8,—,—,Offensive_Line
-OL,Derwin Gray,6-4 1/2,320,34 3/8,9 5/8,—,7-6,Offensive_Line
-OL,Donnell Greene,6-5 1/4,335,35 1/4,9 1/2,—,—,Offensive_Line
-OL,Ethan Greenidge,6-4 3/8,327,34 3/4,10 3/8,—,—,Offensive_Line
-OL,Phil Haynes,6-3 5/8,322,33 1/2,9 1/2,31,9-0,Offensive_Line
-OL,Nate Herbig,6-3 1/2,335,32 3/8,10 1/8,24,7-6,Offensive_Line
-OL,Tytus Howard,6-5,322,34,10 5/8,29.5,8-7,Offensive_Line
-OL,Mitch Hyatt,6-5 3/8,303,34 1/8,10 1/4,25.5,8-6,Offensive_Line
-OL,Martez Ivey,6-5,315,36 1/4,10 3/8,—,—,Offensive_Line
-OL,Andre James,6-4 1/8,299,32,10,28,8-9,Offensive_Line
-OL,Elgton Jenkins,6-4 1/2,310,34,10 1/4,28,9-1,Offensive_Line
-OL,Devon Johnson,6-7 1/4,338,34 3/4,9 1/2,27.5,7-5,Offensive_Line
-OL,Fred Johnson,6-7 1/8,326,34,10 5/8,—,—,Offensive_Line
-OL,Tyler Jones,6-3,306,33 3/4,9 3/4,31.5,9-3,Offensive_Line
-OL,Mike Jordan,6-5 7/8,312,34 1/4,10,32.5,9-8,Offensive_Line
-OL,Brandon Knight,6-3 3/4,314,34,10,—,—,Offensive_Line
-OL,Chris Lindstrom,6-3 3/4,308,34 1/8,9 1/2,30.5,9-9,Offensive_Line
-OL,Greg Little,6-5 1/4,310,35 1/4,10 1/4,25,9-5,Offensive_Line
-OL,Erik McCoy,6-3 7/8,303,33,9 5/8,31,8-11,Offensive_Line
-OL,Kaleb McGary,6-7 1/8,317,32 7/8,10 1/8,33.5,9-3,Offensive_Line
-OL,Connor McGovern,6-5 3/8,308,34 1/8,9 7/8,—,9-4,Offensive_Line
-OL,Joshua Miles,6-5,314,35 5/8,10 3/4,36,9-1,Offensive_Line
-OL,Yosh Nijman,6-6 7/8,324,34,10,—,9-6,Offensive_Line
-OL,Iosua Opeta,6-4 1/4,301,33 1/4,9 7/8,33,9-4,Offensive_Line
-OL,Javon Patterson,6-2 7/8,307,32 1/2,9,27.5,8-2,Offensive_Line
-OL,Ross Pierschbacher,6-3 5/8,307,32 1/8,10,22.5,—,Offensive_Line
-OL,Trey Pipkins,6-6 1/8,309,33 7/8,9 5/8,33.5,9-6,Offensive_Line
-OL,Ryan Pope,6-7,320,34 1/4,11 1/8,—,—,Offensive_Line
-OL,Ben Powers,6-4,307,33 3/4,9 7/8,—,—,Offensive_Line
-OL,Isaiah Prince,6-6 1/2,305,35 1/2,10 1/8,27,9-7,Offensive_Line
-OL,Dalton Risner,6-4 3/4,312,34,10 1/4,28.5,9-2,Offensive_Line
-OL,Tyler Roemer,6-6 3/8,312,33 7/8,10 1/4,30.5,9-0,Offensive_Line
-OL,Dru Samia,6-4 3/4,305,33,10 1/8,27.5,8-5,Offensive_Line
-OL,Max Scharping,6-5 7/8,327,33 5/8,10,28,9-0,Offensive_Line
-OL,William Sweet,6-6,313,34 3/8,10 1/8,30.5,9-3,Offensive_Line
-OL,Trevon Tate,6-2 1/2,293,32 3/8,9 5/8,—,—,Offensive_Line
-OL,Jawaan Taylor,6-5,312,35 1/8,10,—,—,Offensive_Line
-OL,Oli Udoh,6-5 1/2,323,35 3/8,10,28.5,8-9,Offensive_Line
-OL,Jonah Williams,6-4 1/2,302,33 5/8,10 1/8,28,8-4,Offensive_Line
-DL,Zach Allen,6-4 1/8,281,34 3/4,10 1/8,32,9-4,Defensive_Line
-DL,Ben Banogu,6-3 1/2,250,33 5/8,9,40,11-2,Defensive_Line
-DL,Terry Beckner Jr.,6-3 5/8,296,32 1/4,8 5/8,24.5,8-2,Defensive_Line
-DL,Nick Bosa,6-3 3/4,266,33,10 3/4,33.5,9-8,Defensive_Line
-DL,Jordan Brailford,6-2 5/8,252,32 1/2,9 1/8,37.5,10-6,Defensive_Line
-DL,Austin Bryant,6-3 7/8,271,34 5/8,9 5/8,—,—,Defensive_Line
-DL,Isaiah Buggs,6-3 1/8,306,31 1/4,9 1/4,24.5,8-0,Defensive_Line
-DL,Brian Burns,6-4 3/4,249,33 7/8,10,36,10-9,Defensive_Line
-DL,Malik Carney,6-2,251,33 3/8,9 7/8,33,9-5,Defensive_Line
-DL,Demarcus Christmas,6-3 3/8,294,32 3/4,9 1/8,25.5,8-5,Defensive_Line
-DL,L.J. Collier,6-2 1/4,283,34,10,30,9-10,Defensive_Line
-DL,John Cominsky,6-5 1/4,286,33 1/2,9 3/4,33.5,9-8,Defensive_Line
-DL,Byron Cowart,6-3,298,33 3/4,10,30,9-3,Defensive_Line
-DL,Maxx Crosby,6-4 7/8,255,32 7/8,9 3/4,36,10-2,Defensive_Line
-DL,Jamal Davis,6-3 1/8,243,34 1/4,9 1/4,39,10-2,Defensive_Line
-DL,Clelin Ferrell,6-4 3/8,264,34 1/8,10 1/2,—,—,Defensive_Line
-DL,Greg Gaines,6-1,312,31 1/4,9 5/8,31,9-1,Defensive_Line
-DL,Rashan Gary,6-4 3/8,277,34 1/8,9 5/8,38,10-0,Defensive_Line
-DL,Kevin Givens,6-1 1/4,285,32 1/8,9 5/8,31,9-7,Defensive_Line
-DL,Carl Granderson,6-4 3/4,254,34,9 5/8,35,9-11,Defensive_Line
-DL,Gerri Green,6-4,252,33,10,35,9-6,Defensive_Line
-DL,Trysten Hill,6-2 3/4,308,33 3/8,10 1/4,35,9-7,Defensive_Line
-DL,Albert Huggins,6-2 7/8,305,33 1/2,10 5/8,25.5,8-5,Defensive_Line
-DL,Joe Jackson,6-4 1/4,275,34 1/8,10,27,9-1,Defensive_Line
-DL,CeCe Jefferson,6-1 1/2,266,33 5/8,9 5/8,30.5,9-0,Defensive_Line
-DL,Jalen Jelks,6-5 3/8,256,34 5/8,9 5/8,32.5,9-5,Defensive_Line
-DL,Darryl Johnson,6-6,253,33 7/8,10,—,—,Defensive_Line
-DL,Dre'Mont Jones,6-2 3/4,281,33 3/4,9 5/8,31.5,9-2,Defensive_Line
-DL,Kingsley Keke,6-2 5/8,288,34 1/2,9 3/4,31.5,9-3,Defensive_Line
-DL,Dexter Lawrence,6-4 1/2,342,34 3/4,10 1/2,—,—,Defensive_Line
-DL,Jonathan Ledbetter,6-3 3/4,280,34 1/2,9 7/8,26.5,9-0,Defensive_Line
-DL,Daylon Mack,6-1,336,31 1/4,10 1/4,27,8-6,Defensive_Line
-DL,Shareef Miller,6-4 1/2,254,33 5/8,10 1/8,29.5,—,Defensive_Line
-DL,Anthony Nelson,6-7,271,34 7/8,9 7/8,35.5,9-10,Defensive_Line
-DL,Ed Oliver,6-1 7/8,287,31 3/4,9 1/4,36,10-0,Defensive_Line
-DL,Charles Omenihu,6-5 3/8,280,36,9 3/8,36.5,9-7,Defensive_Line
-DL,Jachai Polite,6-2 5/8,258,32 5/8,9 3/4,32,—,Defensive_Line
-DL,Wyatt Ray,6-3 1/4,257,32 1/2,9 3/8,34,9-10,Defensive_Line
-DL,Dontavius Russell,6-2 3/4,319,32,9 1/2,—,—,Defensive_Line
-DL,Khalen Saunders,6-0 3/8,324,32 1/4,9 1/8,30.5,8-5,Defensive_Line
-DL,Chris Slayton,6-3 5/8,307,33 1/2,10 5/8,29,8-5,Defensive_Line
-DL,Sutton Smith,6-0 3/8,233,30 3/4,8 1/2,31.5,9-10,Defensive_Line
-DL,Montez Sweat,6-5 3/4,260,35 3/4,10 1/2,36,10-5,Defensive_Line
-DL,Jerry Tillery,6-6 1/2,295,34 1/4,10 5/8,32,9-7,Defensive_Line
-DL,Armon Watts,6-4 5/8,300,33 3/8,9 5/8,—,—,Defensive_Line
-DL,Christian Wilkins,6-3 1/4,315,32 1/2,9 3/4,29.5,8-11,Defensive_Line
-DL,Quinnen Williams,6-3,303,33 1/4,9 5/8,30.5,9-4,Defensive_Line
-DL,Gerald Willis,6-1 3/4,302,33,8 1/2,—,—,Defensive_Line
-DL,Chase Winovich,6-2 3/4,256,32 3/4,10,30.5,9-8,Defensive_Line
-DL,Daniel Wise,6-2 5/8,281,33,10,27.5,9-4,Defensive_Line
-DL,Renell Wren,6-4 7/8,318,33 7/8,10,32,9-10,Defensive_Line
-DL,Oshane Ximines,6-3 1/2,253,33,9 7/8,34,9-10,Defensive_Line
-LB,Otaro Alaka,6-3,239,33,9 3/4,36,10-11,Linebacker
-LB,Dakota Allen,6-0 3/4,232,31 1/4,9 1/4,31.5,9-8,Linebacker
-LB,Josh Allen,6-4 7/8,262,33 1/2,8 3/4,—,9-10,Linebacker
-LB,Bryson Allen-Williams,6-0 5/8,236,31 1/2,9 3/4,—,—,Linebacker
-LB,Jeff Allison,5-11 1/4,228,32 1/4,10,31,9-7,Linebacker
-LB,Azeez Al-Shaair,6-0 5/8,234,32 3/8,9 1/2,—,—,Linebacker
-LB,Cody Barton,6-2 1/2,237,31 7/8,9 1/4,32.5,9-8,Linebacker
-LB,Ben Burr-Kirven,6-0,230,31 7/8,8 7/8,34.5,10-1,Linebacker
-LB,Devin Bush,5-11,234,32,9 5/8,40.5,10-4,Linebacker
-LB,Blake Cashman,6-1 1/8,237,30 1/8,8 3/4,37.5,10-4,Linebacker
-LB,Te'von Coney,6-0 7/8,234,32 7/8,9 1/2,—,—,Linebacker
-LB,Ryan Connelly,6-2 1/8,242,30 7/8,9 3/8,34.5,9-10,Linebacker
-LB,Deshaun Davis,5-11 3/8,234,31 1/4,10,31,9-3,Linebacker
-LB,Tyrel Dodson,6-0 3/8,237,31 3/4,9 1/8,—,9-10,Linebacker
-LB,T.J. Edwards,6-0 3/8,230,31 1/4,9 3/8,—,—,Linebacker
-LB,Emeke Egbule,6-2,245,33,9 1/4,33,9-11,Linebacker
-LB,Joe Giles-Harris,6-1 3/4,234,31 1/4,8 1/2,29.5,9-3,Linebacker
-LB,Dre Greenlaw,5-11 1/2,237,32 1/4,9 7/8,33,9-9,Linebacker
-LB,Porter Gustin,6-4 1/2,255,33,10,35.5,9-11,Linebacker
-LB,Nate Hall,6-2 1/4,225,32 1/4,9 3/8,—,—,Linebacker
-LB,Terez Hall,6-1 1/8,230,33 1/2,10 3/8,—,—,Linebacker
-LB,Terrill Hanks,6-2,242,33 1/2,9 3/4,35.5,9-10,Linebacker
-LB,Chase Hansen,6-2 7/8,222,30 1/2,9 3/8,—,—,Linebacker
-LB,Justin Hollins,6-5 1/4,248,33 3/8,10 3/8,36.5,9-11,Linebacker
-LB,Gary Johnson,5-11 7/8,226,31 1/4,10 1/4,33.5,10-1,Linebacker
-LB,Jordan Jones,6-1 3/4,234,31 3/4,9,32.5,10-3,Linebacker
-LB,Kendall Joseph,5-11 5/8,233,31 5/8,9 3/4,—,—,Linebacker
-LB,Vosean Joseph,6-1 1/2,230,31 3/8,9 5/8,—,—,Linebacker
-LB,Tre Lamar,6-3 3/8,253,32 1/4,9 1/2,—,—,Linebacker
-LB,David Long Jr.,5-11 1/4,227,30 3/4,10,—,—,Linebacker
-LB,Christian Miller,6-3 3/8,247,35 1/8,9 3/4,38.5,9-10,Linebacker
-LB,Bobby Okereke,6-1 3/8,239,34 1/2,10 1/8,33.5,10-2,Linebacker
-LB,Germaine Pratt,6-2 1/2,240,31 5/8,9 1/8,32.5,9-8,Linebacker
-LB,Cameron Smith,6-2,238,32,9 5/8,39,10-3,Linebacker
-LB,Ty Summers,6-1 3/8,241,31 1/2,10,36,10-3,Linebacker
-LB,Sione Takitaki,6-1 1/8,238,32,9 5/8,37,10-5,Linebacker
-LB,Jahlani Tavai,6-2 3/8,250,31 7/8,9,—,—,Linebacker
-LB,Drue Tranquill,6-2,234,31 1/2,9 3/4,37.5,10-2,Linebacker
-LB,Andrew Van Ginkel,6-3 1/2,241,32 1/2,9 3/8,38,10-3,Linebacker
-LB,D'Andre Walker,6-2 3/8,251,34 3/8,9 7/8,—,—,Linebacker
-LB,Devin White,6-0,237,32 1/8,9 3/4,39.5,9-10,Linebacker
-LB,Mack Wilson,6-1 1/8,240,32 3/8,9 1/4,32,9-9,Linebacker
-DB,Johnathan Abram,5-11 3/8,205,31 3/8,9 5/8,—,9-8,Defensive_Back
-DB,Nasir Adderley,5-11 3/4,206,31,9,—,—,Defensive_Back
-DB,Ugo Imadi,5-9 3/8,199,31 3/4,9 1/2,32.5,9-7,Defensive_Back
-DB,Blessuan Austin,6-0 5/8,198,32 1/2,10,—,—,Defensive_Back
-DB,Derrick Baity,6-2 1/8,197,31 1/2,8 5/8,38.5,10-7,Defensive_Back
-DB,Deandre Baker,5-11,193,32,9,—,9-10,Defensive_Back
-DB,Corey Ballentine,5-11,196,31 5/8,9 1/2,39.5,11-3,Defensive_Back
-DB,John Battle,6-0 1/2,201,31 3/4,9 5/8,29.5,10-0,Defensive_Back
-DB,Mike Bell,6-2 3/4,210,32 3/8,9 1/4,30,9-10,Defensive_Back
-DB,Marquise Blair,6-1 1/4,195,30 3/4,8 1/4,35,10-5,Defensive_Back
-DB,Kris Boyd,5-11 1/2,201,30 3/4,9,36.5,10-7,Defensive_Back
-DB,Blace Brown,6-0 3/8,194,32,9 3/4,—,10-6,Defensive_Back
-DB,Jordan Brown,6-0 3/8,201,30 1/2,9 5/8,39.5,10-8,Defensive_Back
-DB,Sean Bunting,6-0 3/8,195,31 3/4,9 5/8,41.5,10-6,Defensive_Back
-DB,Hamp Cheevers,5-9 3/8,169,30 1/2,8 5/8,39,10-2,Defensive_Back
-DB,Jonathan Crawford,6-1,205,31 1/2,9 1/4,31.5,9-7,Defensive_Back
-DB,Xavier Crawford,5-10 7/8,187,29 1/8,9,37.5,—,Defensive_Back
-DB,Davante Davis,6-2 1/8,202,31 3/8,9 3/4,37,10-5,Defensive_Back
-DB,Jamel Dean,6-1,206,31 3/4,9 1/8,41,10-10,Defensive_Back
-DB,Lukas Denis,5-11 1/4,190,31 1/4,9 1/2,33.5,9-8,Defensive_Back
-DB,D'Cota Dixon,5-9 5/8,204,29 1/4,9 1/8,33.5,9-11,Defensive_Back
-DB,Mike Edwards,5-10 1/2,205,30 7/8,9 3/8,—,—,Defensive_Back
-DB,Rashad Fenton,5-11,193,30 3/8,8 3/4,34,9-9,Defensive_Back
-DB,Mark Fields,5-9 7/8,192,30 1/2,9 1/8,—,—,Defensive_Back
-DB,Malik Gant,5-11 5/8,209,30 1/2,8 7/8,34.5,9-6,Defensive_Back
-DB,Chauncey Gardner-Johnson,5-10 7/8,210,30 7/8,9 1/4,36,9-9,Defensive_Back
-DB,Saquan Hampton,6-1 1/4,206,31 5/8,8 5/8,—,10-5,Defensive_Back
-DB,Will Harris,6-1,207,31 1/4,9,36.5,10-3,Defensive_Back
-DB,Montre Hartage,5-11 3/8,190,31 3/4,9,34.5,10-3,Defensive_Back
-DB,Alijah Holder,6-0 3/4,191,32 1/2,9 1/2,36,10-1,Defensive_Back
-DB,Amani Hooker,5-11 3/8,210,30 1/8,9 1/8,37,10-3,Defensive_Back
-DB,Michael Jackson,6-0 5/8,210,32 1/2,9 3/4,40.5,10-10,Defensive_Back
-DB,Isaiah Johnson,6-2 1/8,208,33,8 3/4,36.5,11-1,Defensive_Back
-DB,Jaquan Johnson,5-10 1/8,191,29 5/8,8 3/4,33,10-1,Defensive_Back
-DB,Lonnie Johnson,6-1 7/8,213,32 5/8,9 1/8,38,10-9,Defensive_Back
-DB,Justin Layne,6-1 3/4,192,33,9 1/4,37.5,11-2,Defensive_Back
-DB,Iman Lewis-Marshall,6-0 5/8,207,30 3/8,9 1/2,—,—,Defensive_Back
-DB,David Long,5-10 5/8,196,30 7/8,9 5/8,39.5,10-0,Defensive_Back
-DB,Julian Love,5-10 3/4,195,31 3/4,9,36,10-1,Defensive_Back
-DB,Mark McLaurin,6-1 1/2,212,31 5/8,9 5/8,36,—,Defensive_Back
-DB,Jordan Miller,6-0 5/8,186,32 7/8,9 5/8,37,10-5,Defensive_Back
-DB,Trayvon Mullen,6-1 1/2,199,31,9 1/8,34.5,10-3,Defensive_Back
-DB,Byron Murphy,5-10 3/4,190,30 1/8,8 7/8,36.5,10-0,Defensive_Back
-DB,Amani Oruwariye,6-1 5/8,205,31 3/8,9,36.5,10-0,Defensive_Back
-DB,Jamal Peters,6-1 3/4,218,32 3/8,9 3/4,—,—,Defensive_Back
-DB,Ryan Pulley,5-10 5/8,209,32 3/4,9 1/4,31,9-3,Defensive_Back
-DB,Taylor Rapp,5-11 3/4,208,30 3/4,9,35,9-7,Defensive_Back
-DB,Sheldrick Redwine,6-0,196,31 3/4,9 3/8,39,10-10,Defensive_Back
-DB,Darnell Savage Jr.,5-10 3/4,198,31,9 1/8,39.5,10-6,Defensive_Back
-DB,Kendall Sheffield,5-11 3/8,193,31 1/2,9 1/4,—,—,Defensive_Back
-DB,Saivion Smith,6-0 7/8,199,33 1/4,9 1/2,33,10-1,Defensive_Back
-DB,Marvell Tell III,6-2,198,33 1/8,9 3/4,42,11-4,Defensive_Back
-DB,Derrek Thomas,6-2 7/8,189,33 3/4,10,39.5,10-11,Defensive_Back
-DB,Deionte Thompson,6-1,195,32 1/8,9 7/8,—,—,Defensive_Back
-DB,Juan Thornhill,6-0 1/4,205,31 1/8,8 3/4,44,11-9,Defensive_Back
-DB,Ken Webster,5-10 7/8,203,32,8 7/8,43,11-1,Defensive_Back
-DB,Darius West,5-10 7/8,208,31 3/8,9 1/8,33.5,9-5,Defensive_Back
-DB,Greedy Williams,6-1 7/8,185,31 1/2,9 1/4,—,—,Defensive_Back
-DB,Joejuan Williams,6-3 5/8,211,32 1/2,9 3/4,—,—,Defensive_Back
-DB,Khari Willis,5-10 7/8,213,31,9 1/2,34.5,9-10,Defensive_Back
-DB,Donovan Wilson,6-0,199,33 3/8,9 3/4,36,10-7,Defensive_Back
-DB,Andrew Wingard,6-0 1/8,209,30 1/2,8 5/8,36.5,10-1,Defensive_Back
-DB,Zedrick Woods,5-11,205,31 5/8,9 1/8,34.5,10-2,Defensive_Back
-DB,Evan Worthington,6-1 7/8,212,32 3/4,9 1/2,33.5,10-1,Defensive_Back
-DB,Rock Ya-Sin,5-11 3/4,192,32,9 7/8,39.5,10-0,Defensive_Back
+#,Name,Height,Weight,Arm,Hand,Vertical,Broad,Position_Group,Converted_Height,Converted_Arm,Converted_Hand,Converted_Broad,Converted_Vertical
+QB,"Bryant, Kelly",6031,229,32 1/4,9 1/2,35,"10'5""",QB,75.125,32.25,9.5,125,35
+QB,"Burrow, Joe",6034,221,30 7/8,9,NA,NA,QB,75.5,30.875,9,NA,NA
+QB,"Davidson, Kevin",6041,224,30 7/8,8 1/4,NA,NA,QB,76.125,30.875,8.25,NA,NA
+QB,"Eason, Jacob",6057,231,32 7/8,9 1/2,27.5,"9'2""",QB,77.875,32.875,9.5,110,27.5
+QB,"Fromm, Jake",6017,219,31 1/8,8 7/8,30.0,"9'3""",QB,73.875,31.125,8.875,111,30
+QB,"Gordon, Anthony",6023,205,31,9 3/4,NA,NA,QB,74.375,31,9.75,NA,NA
+QB,"Herbert, Justin",6062,236,32 7/8,10,35.5,"10'3""",QB,78.25,32.875,10,123,35.5
+QB,"Hurts, Jalen",6010,222,31 3/4,9 3/4,35.0,"10'5""",QB,73,31.75,9.75,125,35
+QB,"Lewerke, Brian",6024,213,32 1/8,10 5/8,NA,NA,QB,74.5,32.125,10.625,NA,NA
+QB,"Love, Jordan",6036,224,32 5/8,10 1/2,35.5,"9'10""",QB,75.75,32.625,10.5,118,35.5
+QB,"Luton, Jake",6061,224,31 3/4,10 3/8,NA,NA,QB,78.125,31.75,10.375,NA,NA
+QB,"McDonald, Cole",6031,215,32 1/4,9 3/4,36.0,"10'1""",QB,75.125,32.25,9.75,121,36
+QB,"Montez, Steven",6040,231,32 3/4,9 3/8,33.0,"9'9""",QB,76,32.75,9.375,117,33
+QB,"Morgan, James",6040,229,33 3/8,9 3/4,29.0,"9'4""",QB,76,33.375,9.75,112,29
+QB,"Patterson, Shea",6007,212,30 1/2,9 3/8,31.0,"9'8""",QB,72.875,30.5,9.375,116,31
+QB,"Stanley, Nate",6036,235,32 5/8,10,28.5,"9'0""",QB,75.75,32.625,10,108,28.5
+QB,"Tagovailoa, Tua",6000,217,30 1/2,9 7/8,NA,NA,QB,72,30.5,9.875,NA,NA
+WR,"Aiyuk, Brandon",5115,205,33 1/2,9 3/4,40,"10'8""",WR,71.625,33.5,9.75,128,40
+WR,"Bayless, Omar",6006,212,31 7/8,9,36,"10'3""",WR,72.75,31.875,9,123,36
+WR,"Bowden, Lynn",5105,204,30 7/8,9 3/4,NA,NA,WR,70.625,30.875,9.75,NA,NA
+WR,"Brown, Tony",6006,198,31 1/2,9 1/4,33.5,"9'11""",WR,72.75,31.5,9.25,119,33.5
+WR,"Cager, Lawrence",6046,220,33 3/8,8 7/8,NA,NA,WR,76.75,33.375,8.875,NA,NA
+WR,"Callaway, Marquez",6012,205,32 3/8,9 3/8,38,"10'6""",WR,73.25,32.375,9.375,126,38
+WR,"Cephus, Quintez",6007,202,32 1/8,8 3/4,38.5,"10'4""",WR,72.875,32.125,8.75,124,38.5
+WR,"Claypool, Chase",6042,238,32 1/2,9 7/8,40.5,"10'6""",WR,76.25,32.5,9.875,126,40.5
+WR,"Cleveland, Tyrie",6023,209,32 7/8,9 1/8,39.5,"10'6""",WR,74.375,32.875,9.125,126,39.5
+WR,"Coulter, Isaiah",6017,198,31 3/4,9,36,"10'1""",WR,73.875,31.75,9,121,36
+WR,"Davis, Gabriel",6020,216,31 1/4,9 1/4,35,"10'4""",WR,74,31.25,9.25,124,35
+WR,"Davis, Quartney",6012,201,31 3/8,9 1/2,35.5,NA,WR,73.25,31.375,9.5,NA,35.5
+WR,"Duvernay, Devin",5104,200,30 5/8,9 1/2,35.5,"10'3""",WR,70.5,30.625,9.5,123,35.5
+WR,"Edwards, Bryan",6026,212,32 1/4,9 1/2,NA,NA,WR,74.75,32.25,9.5,NA,NA
+WR,"Finke, Chris",5094,186,29,9,40,NA,WR,69.5,29,9,NA,40
+WR,"Fuller, Aaron",5106,188,29 3/4,8 7/8,34,"9'10""",WR,70.75,29.75,8.875,118,34
+WR,"Gandy-Golden, Antonio",6040,223,31 3/4,9 5/8,36,"10'7""",WR,76,31.75,9.625,127,36
+WR,"Gibson, Antonio",6003,228,31 1/8,8 5/8,35,"9'10""",WR,72.375,31.125,8.625,118,35
+WR,"Guidry, Stephen",6030,201,32 3/4,9 1/8,34,"10'5""",WR,75,32.75,9.125,125,34
+WR,"Hamler, KJ",5085,178,30 3/4,9 3/8,NA,NA,WR,68.625,30.75,9.375,NA,NA
+WR,"Higgins, Tee",6035,216,34 1/8,9 1/4,NA,NA,WR,75.625,34.125,9.25,NA,NA
+WR,"Hightower, John",6014,189,31 1/2,9 3/4,38.5,"10'2""",WR,73.5,31.5,9.75,122,38.5
+WR,"Hill, K.J.",5117,196,29 1/8,9 1/4,32.5,"9'6""",WR,71.875,29.125,9.25,114,32.5
+WR,"Hodgins, Isaiah",6035,210,33 1/8,9 7/8,36.5,"10'4""",WR,75.625,33.125,9.875,124,36.5
+WR,"Jackson, Trishton",6006,197,32 3/8,9 3/4,36,"9'9""",WR,72.75,32.375,9.75,117,36
+WR,"Jefferson, Justin",6012,202,33,9 1/8,37.5,"10'6""",WR,73.25,33,9.125,126,37.5
+WR,"Jefferson, Van",6014,200,32 3/4,9 1/8,NA,NA,WR,73.5,32.75,9.125,NA,NA
+WR,"Jennings, Jauan",6031,215,31 5/8,9,29,"9'11""",WR,75.125,31.625,9,119,29
+WR,"Jeudy, Jerry",6010,193,32 1/8,9 1/2,35,"10'0""",WR,73,32.125,9.5,120,35
+WR,"Johnson, Collin",6055,222,31 3/4,9,NA,NA,WR,77.625,31.75,9,NA,NA
+WR,"Johnson, Juwan",6040,230,34 1/4,10 1/2,33,"10'4""",WR,76,34.25,10.5,124,33
+WR,"Johnson, Tyler",6013,206,30 7/8,9,NA,NA,WR,73.375,30.875,9,NA,NA
+WR,"Lamb, CeeDee",6015,198,32 1/4,9 1/4,34.5,"10'4""",WR,73.625,32.25,9.25,124,34.5
+WR,"Lipscomb, Kalija",5117,207,32 7/8,9 3/8,32,"10'7""",WR,71.875,32.875,9.375,127,32
+WR,"Mack, Austin",6014,208,33 5/8,10,31.5,"9'9""",WR,73.5,33.625,10,117,31.5
+WR,"Mims, Denzel",6027,207,33 7/8,9 3/8,38.5,"10'11""",WR,74.875,33.875,9.375,131,38.5
+WR,"Mooney, Darnell",5101,176,30 7/8,9 5/8,37,"10'4""",WR,70.125,30.875,9.625,124,37
+WR,"Osborn, K.J.",5114,203,31 1/4,9 1/8,37.5,"10'3""",WR,71.5,31.25,9.125,123,37.5
+WR,"Parker, Aaron",6015,209,31 1/8,9 1/8,26.5,"9'4""",WR,73.625,31.125,9.125,112,26.5
+WR,"Patmon, Dezmon",6036,225,32 3/4,10 1/4,36,"11'0""",WR,75.75,32.75,10.25,132,36
+WR,"Peoples-Jones, Donovan",6015,212,33 1/2,10 1/8,44.5,"11'7""",WR,73.625,33.5,10.125,139,44.5
+WR,"Perry, Malcolm",5094,186,29 5/8,8 1/2,36,"10'2""",WR,69.5,29.625,8.5,122,36
+WR,"Pittman, Michael",6040,223,32 1/2,9 1/4,36.5,"10'1""",WR,76,32.5,9.25,121,36.5
+WR,"Proche, James",5105,201,29 3/4,9 5/8,34.5,NA,WR,70.625,29.75,9.625,NA,34.5
+WR,"Reagor, Jalen",5105,206,31 3/8,9 1/2,42,"11'6""",WR,70.625,31.375,9.5,138,42
+WR,"Reed, Joe",6004,224,31 1/8,9 3/4,38,"10'3""",WR,72.5,31.125,9.75,123,38
+WR,"Rogers, Kendrick",6042,208,33 1/8,9 1/8,35.5,"10'4""",WR,76.25,33.125,9.125,124,35.5
+WR,"Ruggs III, Henry",5110,188,30 1/2,10 1/8,42,"10'11""",WR,71,30.5,10.125,131,42
+WR,"Shenault Jr., Laviska",6005,227,31 7/8,9,NA,NA,WR,72.625,31.875,9,NA,NA
+WR,"Stewart, Darrell",6002,212,32,9 5/8,35,"9'9""",WR,72.25,32,9.625,117,35
+WR,"Swain, Freddie",6002,197,30 5/8,9,36.5,"10'4""",WR,72.25,30.625,9,124,36.5
+WR,"Thomas, Jeff",5087,170,30 3/8,8 3/8,36.5,"10'5""",WR,68.875,30.375,8.375,125,36.5
+WR,"Victor, Ben",6036,198,34 1/8,9 5/8,35,"10'8""",WR,75.75,34.125,9.625,128,35
+WR,"Watkins, Quez",6001,185,32 7/8,9,36.5,"10'5""",WR,72.125,32.875,9,125,36.5
+WR,"White, Cody",6033,217,32 1/2,10,35.5,"10'0""",WR,75.375,32.5,10,120,35.5
+TE,"Asiasi, Devin",6030,257,33 1/4,9 3/4,30.5,"9'7""",TE,75,33.25,9.75,115,30.5
+TE,"Breeland, Jacob",6047,252,32 5/8,9 7/8,NA,NA,TE,76.875,32.625,9.875,NA,NA
+TE,"Bryant, Harrison",6046,243,30 5/8,9 1/2,32.5,"9'2""",TE,76.75,30.625,9.5,110,32.5
+TE,"Bryant, Hunter",6022,248,32,10,32.5,"9'7""",TE,74.25,32,10,115,32.5
+TE,"Deguara, Josiah",6023,242,31 5/8,9,35.5,"9'7""",TE,74.375,31.625,9,115,35.5
+TE,"Hopkins, Brycen",6037,245,32 1/8,10 1/8,33.5,"9'8""",TE,75.875,32.125,10.125,116,33.5
+TE,"Keene, Dalton",6041,253,32 1/4,9 6/8,34,"10'5""",TE,76.125,32.25,9.75,125,34
+TE,"Kmet, Cole",6056,262,33,10 1/2,37,"10'3""",TE,77.75,33,10.5,123,37
+TE,"McKeon, Sean",6050,242,33 1/2,9 1/8,NA,NA,TE,77,33.5,9.125,NA,NA
+TE,"Moss, Thaddeus",6017,250,31 7/8,9 7/8,NA,NA,TE,73.875,31.875,9.875,NA,NA
+TE,"O’Grady, C.J.",6036,253,33 5/8,10 1/8,34,"9'11""",TE,75.75,33.625,10.125,119,34
+TE,"Okwuegbunam, Albert",6054,258,34 1/8,10 1/4,NA,NA,TE,77.5,34.125,10.25,NA,NA
+TE,"Parkinson, Colby",6072,252,33 1/4,9 5/8,32.5,"9'1""",TE,79.25,33.25,9.625,109,32.5
+TE,"Pinkney, Jared",6040,257,32 7/8,10 1/2,NA,NA,TE,76,32.875,10.5,NA,NA
+TE,"Sullivan, Stephen",6047,248,35 3/8,10 1/8,36.5,"10'3""",TE,76.875,35.375,10.125,123,36.5
+TE,"Taumoepeau, Charlie",6022,240,32 1/4,9 1/2,36.5,"10'1""",TE,74.25,32.25,9.5,121,36.5
+TE,"Trautman, Adam",6050,255,32 5/8,9 1/2,34.5,"9'6""",TE,77,32.625,9.5,114,34.5
+TE,"Wilcox, Mitchell",6034,247,32 1/4,9 1/8,31,"9'4""",TE,75.5,32.25,9.125,112,31
+TE,"Woerner, Charlie",6045,244,31 1/8,9 1/2,34.5,"10'0""",TE,76.625,31.125,9.5,120,34.5
+TE,"Wood-Anderson, Dom",6035,261,33 1/8,9 3/4,35,"9'11""",TE,75.625,33.125,9.75,119,35
+RB,"Ahmed, Salvon",5107,197,29 1/4,8 3/4,34.5,"10'0""",RB,70.875,29.25,8.75,120,34.5
+RB,"Akers, Cam",5103,217,30 5/8,9,35.5,"10'2""",RB,70.375,30.625,9,122,35.5
+RB,"Anderson, Jet",5104,208,30 1/2,9 5/8,36,"10'8""",RB,70.5,30.5,9.625,128,36
+RB,"Bellamy, LeVante",5087,192,30 1/4,8 3/4,39.5,"10'5""",RB,68.875,30.25,8.75,125,39.5
+RB,"Benjamin, Eno",5087,207,31 1/4,8 5/8,39,"10'2""",RB,68.875,31.25,8.625,122,39
+RB,"Calais, Raymond",5077,188,30,9 1/4,37.5,"10'0""",RB,67.875,30,9.25,120,37.5
+RB,"Dallas, DeeJay",5101,217,30 5/8,9 1/4,33.5,"9'11""",RB,70.125,30.625,9.25,119,33.5
+RB,"Dillon, AJ",6003,247,31 5/8,9 5/8,41,"10'11""",RB,72.375,31.625,9.625,131,41
+RB,"Dobbins, J.K.",5094,209,29 3/4,9 1/2,NA,NA,RB,69.5,29.75,9.5,NA,NA
+RB,"Dowdle, Rico",5112,209,31 3/8,9,38,"10'7""",RB,71.25,31.375,9,127,38
+RB,"Edwards-Helaire, Clyde",5072,207,29,9 5/8,39.5,"10'3""",RB,67.25,29,9.625,123,39.5
+RB,"Evans, Darrynton",5101,203,31 5/8,9 1/4,37,"10'5""",RB,70.125,31.625,9.25,125,37
+RB,"Hasty, JaMycal",5080,205,31 1/8,9 1/8,39,"10'3""",RB,68,31.125,9.125,123,39
+RB,"Herrien, Brian",5111,209,29 3/4,9,38.5,"10'6""",RB,71.125,29.75,9,126,38.5
+RB,"Jones, Tony",5104,220,30 5/8,9 1/2,32.5,"9'11""",RB,70.5,30.625,9.5,119,32.5
+RB,"Kelley, Joshua",5105,212,31 5/8,9 5/8,31,"10'1""",RB,70.625,31.625,9.625,121,31
+RB,"Leake, Javon",6001,215,31 1/2,9 5/8,28.5,"9'4""",RB,72.125,31.5,9.625,112,28.5
+RB,"LeMay, Benny",5081,221,29 7/8,9,34,"10'5""",RB,68.125,29.875,9,125,34
+RB,"McFarland, Anthony",5081,208,30 3/8,8 7/8,29.5,"9'8""",RB,68.125,30.375,8.875,116,29.5
+RB,"Moss, Zack",5093,223,31 1/4,9 1/4,33,NA,RB,69.375,31.25,9.25,NA,33
+RB,"Olonilua, Sewo",6025,232,32 1/8,10,36,"10'3""",RB,74.625,32.125,10,123,36
+RB,"Perine, La’Mical",5106,216,31 5/8,10 1/4,35,"9'10""",RB,70.75,31.625,10.25,118,35
+RB,"Phillips, Scottie",5080,209,29 3/8,8 1/2,30,"9'6""",RB,68,29.375,8.5,114,30
+RB,"Robinson, James",5090,219,29 5/8,8 3/4,40,"10'5""",RB,69,29.625,8.75,125,40
+RB,"Swift, D’Andre",5082,212,29 7/8,9,35.5,"10'1""",RB,68.25,29.875,9,121,35.5
+RB,"Taylor, J.J.",5052,185,28 3/4,8 1/2,35.5,9'10,RB,65.25,28.75,8.5,118,35.5
+RB,"Taylor, Jonathan",5102,226,31 1/8,9 1/2,36,"10'3""",RB,70.25,31.125,9.5,123,36
+RB,"Taylor, Patrick",6014,217,32 1/4,9 3/8,34,"10'3""",RB,73.5,32.25,9.375,123,34
+RB,"Vaughn, Ke’Shawn",5095,214,30 7/8,8 7/8,32,"9'9""",RB,69.625,30.875,8.875,117,32
+RB,"Warren, Mike",5091,226,29 1/2,9 1/8,NA,NA,RB,69.125,29.5,9.125,NA,NA
+OT,"Adams, Trey",6080,318,34 3/8,9 7/8,24.5,"7'8""",OL,80,34.375,9.875,92,24.5
+OT,"Adeniji, Hakeem",6043,302,33 3/4,10,34.0,"9'7""",OL,76.375,33.75,10,115,34
+OT,"Anchrum, Tremayne",6017,314,33 5/8,9 5/8,24.5,"8'8""",OL,73.875,33.625,9.625,104,24.5
+OT,"Bartch, Ben",6056,309,32 7/8,9,NA,NA,OL,77.75,32.875,9,NA,NA
+OT,"Becton, Mekhi",6073,364,35 5/8,10 3/4,NA,NA,OL,79.375,35.625,10.75,NA,NA
+OC,"Biadasz, Tyler",6035,314,32 1/4,10,NA,NA,OL,75.625,32.25,10,NA,NA
+OG,"Bredeson, Ben",6045,315,31 1/8,10 1/8,NA,NA,OL,76.625,31.125,10.125,NA,NA
+OC,"Cabral, Cohl",6047,300,32 1/4,10,NA,NA,OL,76.875,32.25,10,NA,NA
+OT,"Charles, Saahdiq",6041,321,33,10,NA,NA,OL,76.125,33,10,NA,NA
+OT,"Clark, Cameron",6044,308,34 1/8,10 3/8,25.0,"8'5""",OL,76.5,34.125,10.375,101,25
+OT,"Cleveland, Ezra",6060,311,33 3/8,9,30.0,"9'3""",OL,78,33.375,9,111,30
+OC,"Colon-Castillo, Trystan",6030,313,30 1/2,9 1/4,NA,NA,OL,75,30.5,9.25,NA,NA
+OC,"Cushenberry, Lloyd",6031,312,34 1/8,10 3/8,NA,NA,OL,75.125,34.125,10.375,NA,NA
+OT,"Driscoll, Jack",6045,306,33,9 7/8,29.5,"9'6""",OL,76.625,33,9.875,114,29.5
+OT,"Durant, Yasir",6060,331,34 3/4,9 1/2,25.0,NA,OL,78,34.75,9.5,NA,25
+OC,"Hanson, Jake",6043,303,32 3/4,9 1/4,NA,NA,OL,76.375,32.75,9.25,NA,NA
+OC,"Harris, Nick",6007,302,32 1/8,9 3/4,29.5,"8'7""",OL,72.875,32.125,9.75,103,29.5
+OT,"Heck, Charlie",6075,311,34 1/8,10 1/4,28.0,"9'4""",OL,79.625,34.125,10.25,112,28
+OC,"Hennessy, Matt",6037,307,32 1/4,10,30.0,"9'2""",OL,75.875,32.25,10,110,30
+OT,"Herron, Justin",6035,308,33 1/2,8 7/8,33.0,"8'9""",OL,75.625,33.5,8.875,105,33
+OT,"Hunt, Robert",6051,323,33 1/2,10,NA,NA,OL,77.125,33.5,10,NA,NA
+OC,"Ismael, Keith",6027,309,32 1/4,10,32.0,"9'0""",OL,74.875,32.25,10,108,32
+OG,"Iwuagwu, Cordel",6027,309,33 3/4,9 5/8,27.0,"7'10""",OL,74.875,33.75,9.625,94,27
+OT,"Jackson, Austin",6047,322,34 1/8,10 1/4,31.0,"9'7""",OL,76.875,34.125,10.25,115,31
+OG,"Jackson, Jonah",6034,306,33 1/2,10 1/2,26.0,"8'2""",OL,75.5,33.5,10.5,98,26
+OT,"Jones, Joshua",6050,319,33 7/8,10 1/8,28.5,"9'1""",OL,77,33.875,10.125,109,28.5
+OG,"Kindley, Solomon",6032,337,32 1/4,9 1/2,NA,NA,OL,75.25,32.25,9.5,NA,NA
+OG,"Lemieux, Shane",6037,310,32 1/4,9 1/2,25.5,"8'11""",OL,75.875,32.25,9.5,107,25.5
+OG,"Lewis, Damien",6020,327,33,10 1/4,30.0,"9'0""",OL,74,33,10.25,108,30
+OT,"McKivitz, Colton",6061,306,33 3/4,10,26.0,"8'10""",OL,78.125,33.75,10,106,26
+OT,"Molchon, John",6052,309,31 1/8,9 1/2,34.0,"9'1""",OL,77.25,31.125,9.5,109,34
+OT,"Murphy, Kyle",6032,316,33 7/8,10,28.0,"8'8""",OL,75.25,33.875,10,104,28
+OG,"Muti, Netane",6027,315,31 3/4,10 5/8,NA,NA,OL,74.875,31.75,10.625,NA,NA
+OT,"Niang, Lucas",6060,315,34 1/4,10 1/2,NA,NA,OL,78,34.25,10.5,NA,NA
+OG,"Onwenu, Mike",6025,344,34 3/8,10 1/2,NA,NA,OL,74.625,34.375,10.5,NA,NA
+OT,"Peart, Matt",6065,318,36 5/8,9 1/2,30.0,"9'5""",OL,78.625,36.625,9.5,113,30
+OT,"Phillips, Tyre",6050,331,35 1/8,10 3/8,25.0,"7'9""",OL,77,35.125,10.375,93,25
+OT,"Pinter, Danny",6042,306,31 7/8,9 1/2,29.5,"9'2""",OL,76.25,31.875,9.5,110,29.5
+OC,"Ruiz, Cesar",6026,307,33 1/8,11,33.0,"9'5""",OL,74.75,33.125,11,113,33
+OT,"Runyan, Jon",6042,306,33 1/4,9 1/8,30.5,"8'11""",OL,76.25,33.25,9.125,107,30.5
+OG,"Simpson, John",6041,321,34 1/8,11 1/4,30.0,"8'11""",OL,76.125,34.125,11.25,107,30
+OT,"Steele, Terence",6057,312,35 1/8,9 1/2,27.5,"8'10""",OL,77.875,35.125,9.5,106,27.5
+OG,"Stenberg, Logan",6060,317,32 1/2,10 1/4,26.0,"8'8""",OL,78,32.5,10.25,104,26
+OG,"Stepaniak, Simon",6041,313,32,9 1/2,NA,NA,OL,76.125,32,9.5,NA,NA
+OT,"Taylor, Alex",6083,308,36 1/8,11 1/4,25.0,"9'8""",OL,80.375,36.125,11.25,116,25
+OT,"Thomas, Andrew",6051,315,36 1/8,10 1/4,30.5,"9'1""",OL,77.125,36.125,10.25,109,30.5
+OT,"Throckmorton, Calvin",6050,317,32 1/2,9 1/2,27.0,"8'1""",OL,77,32.5,9.5,97,27
+OT,"Wanogho, Prince Tega",6050,308,33 1/2,10 3/8,NA,NA,OL,77,33.5,10.375,NA,NA
+OC,"Williams, Darryl",6023,304,32 1/8,9 3/4,25.5,"8'6""",OL,74.375,32.125,9.75,102,25.5
+OT,"Wills, Jedrick",6042,312,34 1/4,10,34.5,"9'5""",OL,76.25,34.25,10,113,34.5
+OT,"Wilson, Isaiah",6064,350,35 1/2,10 1/4,29.0,"9'2""",OL,78.5,35.5,10.25,110,29
+OT,"Wirfs, Tristan",6047,320,34,10 1/4,36.5,"10'1""",OL,76.875,34,10.25,121,36.5
+DT,"Agim, McTelvin",6025,309,33 1/2,10 1/8,NA,NA,DL,74.625,33.5,10.125,NA,NA
+DE,"Anae, Bradlee",6033,257,32 1/8,10 1/8,31,"9'7""",DL,75.375,32.125,10.125,115,31
+DT,"Blacklock, Ross",6031,290,32 3/8,9 3/4,29,"8'11""",DL,75.125,32.375,9.75,107,29
+DT,"Brown, Derrick",6045,326,34 1/4,9,27,"9'0""",DL,76.625,34.25,9,108,27
+DT,"Coatney, Josiah",6033,308,32 3/4,10,27,"8'3""",DL,75.375,32.75,10,99,27
+DE,"Coleman, Kendall",6026,257,31 3/4,10,32,"9'6""",DL,74.75,31.75,10,114,32
+DT,"Daniels, Darrion",6032,311,33 3/4,9 1/8,27,"9'1""",DL,75.25,33.75,9.125,109,27
+DE,"Davidson, Marlon",6033,303,33,10,NA,NA,DL,75.375,33,10,NA,NA
+DT,"Davis, Carlos",6020,313,32,9 5/8,NA,NA,DL,74,32,9.625,NA,NA
+DT,"Davis, Khalil",6010,308,31 1/2,9 3/4,NA,NA,DL,73,31.5,9.75,NA,NA
+DE,"Davis, Raekwon",6061,311,33 7/8,11,28,"9'3""",DL,78.125,33.875,11,111,28
+DT,"Elliott, Jordan",6037,302,32 3/8,10 1/4,27.5,NA,DL,75.875,32.375,10.25,NA,27.5
+DE,"Epenesa, A.J.",6051,275,34 1/2,10 1/8,32.5,"9'9""",DL,77.125,34.5,10.125,117,32.5
+DT,"Fotu, Leki",6053,330,34 1/4,10 5/8,NA,NA,DL,77.375,34.25,10.625,NA,NA
+DT,"Gallimore, Neville",6020,304,32 3/4,9 5/8,NA,NA,DL,74,32.75,9.625,NA,NA
+DE,"Garvin, Jonathan",6041,263,34,9 5/8,36,"10'5""",DL,76.125,34,9.625,125,36
+DE,"Gipson, Trevis",6033,261,33 7/8,9 5/8,NA,NA,DL,75.375,33.875,9.625,NA,NA
+DE,"Greenard, Jonathan",6033,263,34 7/8,9 1/4,30.5,"9'5""",DL,75.375,34.875,9.25,113,30.5
+DE,"Gross-Matos, Yetur",6050,266,34 7/8,9 3/4,34,"10'0""",DL,77,34.875,9.75,120,34
+NT,"Hamilton, DaVon",6034,320,33,9 3/4,29.5,"8'6""",DL,75.5,33,9.75,102,29.5
+DE,"Hamilton, LaDarius",6020,262,32 1/8,9 1/4,30,"9'6""",DL,74,32.125,9.25,114,30
+DE,"Highsmith, Alex",6031,248,33 1/8,9 1/8,33,"10'5""",DL,75.125,33.125,9.125,125,33
+DE,"Hill, Trevon",6027,248,32 3/8,9 1/4,28,"9'5""",DL,74.875,32.375,9.25,113,28
+DT,"Jones, Benito",6010,316,32 7/8,9 3/4,26.5,NA,DL,73,32.875,9.75,NA,26.5
+DE,"Kareem, Khalid",6036,268,34 3/8,10 7/8,NA,NA,DL,75.75,34.375,10.875,NA,NA
+DT,"Kinlaw, Javon",6051,324,34 7/8,10 1/4,NA,NA,DL,77.125,34.875,10.25,NA,NA
+DT,"Lawrence II, Rashard",6020,308,34 1/8,11,NA,NA,DL,74,34.125,11,NA,NA
+DE,"Lynch, James",6035,289,31 7/8,9 7/8,29,"9'3""",DL,75.625,31.875,9.875,111,29
+DT,"Madubuike, Justin",6025,293,33 1/2,8 3/4,NA,NA,DL,74.625,33.5,8.75,NA,NA
+DT,"Murchison, Larrell",6024,297,32 5/8,10,29,"9'10""",DL,74.5,32.625,10,118,29
+DE,"Okwara, Julian",6042,252,34 3/8,10 1/4,NA,NA,DL,76.25,34.375,10.25,NA,NA
+DT,"Penisini, John",6013,318,32 7/8,10 1/2,25.5,NA,DL,73.375,32.875,10.5,NA,25.5
+DE,"Rivers, Chauncey",6020,262,32 7/8,9 3/4,30.5,"8'10""",DL,74,32.875,9.75,106,30.5
+DE,"Roach, Malcolm",6021,297,31 7/8,9 5/8,30,"9'6""",DL,74.125,31.875,9.625,114,30
+DE,"Robinson, Alton",6026,264,32 3/8,9 1/4,35.5,"9'11""",DL,74.75,32.375,9.25,119,35.5
+DE,"Sheppard, Qaadir",6027,261,32 3/4,10,31.5,"9'7""",DL,74.875,32.75,10,115,31.5
+DE,"Smith-Williams, James",6035,265,33 3/4,9 1/4,32,"10'3""",DL,75.625,33.75,9.25,123,32
+DT,"Strowbridge, Jason",6042,275,32 3/8,10 1/8,31,"9'5""",DL,76.25,32.375,10.125,113,31
+DE,"Tuszka, Derrek",6044,251,31 3/8,9 7/8,33.5,"10'0""",DL,76.5,31.375,9.875,120,33.5
+DT,"Washington, Broderick",6022,305,32 1/2,10 3/8,NA,NA,DL,74.25,32.5,10.375,NA,NA
+DE,"Willekes, Kenny",6034,264,31 1/4,9 1/2,32.5,"9'11""",DL,75.5,31.25,9.5,119,32.5
+DT,"Williams, Raequan",6040,308,33 3/8,9 3/8,25.5,"8'5""",DL,76,33.375,9.375,101,25.5
+DT,"Windsor, Rob",6044,290,33 1/8,9 7/8,28.5,"9'3""",DL,76.5,33.125,9.875,111,28.5
+DE,"Wonnum, D.J.",6045,258,34 1/8,10 1/2,34.5,"10'3""",DL,76.625,34.125,10.5,123,34.5
+DE,"Young, Chase",6047,264,33 3/4,10,NA,NA,DL,76.875,33.75,10,NA,NA
+DE,"Zuniga, Jabari",6033,264,32 7/8,10 3/8,33,"10'7""",DL,75.375,32.875,10.375,127,33
+ILB,"Bachie, Joe",6010,230,31 5/8,10 1/4,33.5,"9'11""",LB,73,31.625,10.25,119,33.5
+ILB,"Bailey, Markus",6001,235,31 1/2,9 3/8,NA,NA,LB,72.125,31.5,9.375,NA,NA
+OLB,"Baun, Zack",6023,238,32 3/4,9 5/8,32.5,"9'7""",LB,74.375,32.75,9.625,115,32.5
+ILB,"Bernard, Francis",6003,234,31 7/8,9 7/8,32.5,"10'0""",LB,72.375,31.875,9.875,120,32.5
+ILB,"Bituli, Daniel",6020,246,34 3/8,9 1/4,32,"10'1""",LB,74,34.375,9.25,121,32
+ILB,"Bradley, Shaun",6005,235,31 3/4,9 1/2,32.5,"10'1""",LB,72.625,31.75,9.5,121,32.5
+ILB,"Brooks, Jordan",6000,240,32 7/8,9 1/8,NA,NA,LB,72,32.875,9.125,NA,NA
+OLB,"Brown, Cameron",6052,233,34,9 1/2,35.5,"10'3""",LB,77.25,34,9.5,123,35.5
+OLB,"Chaisson, K’Lavon",6030,254,32 1/4,9 7/8,NA,NA,LB,75,32.25,9.875,NA,NA
+OLB,"Coe, Nick",6045,280,33 3/4,10 1/4,29,"9'8""",LB,76.625,33.75,10.25,116,29
+OLB,"Coughlin, Carter",6031,236,31 3/8,9 1/2,36,"10'6""",LB,75.125,31.375,9.5,126,36
+OLB,"Davis-Gaither, Akeem",6014,224,31 1/8,9 1/2,NA,NA,LB,73.5,31.125,9.5,NA,NA
+OLB,"Divinity, Michael",6015,242,33 5/8,9 1/2,31,"9'7""",LB,73.625,33.625,9.5,115,31
+ILB,"Dye, Troy",6032,231,32 1/4,9 3/8,NA,NA,LB,75.25,32.25,9.375,NA,NA
+OLB,"Galeai, Tipa",6045,235,33 5/8,9 1/2,NA,NA,LB,76.625,33.625,9.5,NA,NA
+ILB,"Garrett, Cale",6016,234,31 1/4,9 1/2,32,"10'4""",LB,73.75,31.25,9.5,124,32
+OLB,"Gay Jr., Willie",6011,243,32 5/8,10 1/2,39.5,"11'4""",LB,73.125,32.625,10.5,136,39.5
+ILB,"Harris, Scoota",5115,234,31 3/8,9 3/8,33,"9'3""",LB,71.625,31.375,9.375,111,33
+ILB,"Harrison, Malik",6025,247,32 3/4,10 1/4,36,"10'2""",LB,74.625,32.75,10.25,122,36
+OLB,"Hudson, Khaleke",5110,224,29 3/8,10,33,"10'0""",LB,71,29.375,10,120,33
+OLB,"Jennings, Anfernee",6021,256,32 7/8,9 1/8,NA,NA,LB,74.125,32.875,9.125,NA,NA
+ILB,"Johnston, Clay",6010,227,30 1/2,8 3/4,NA,NA,LB,73,30.5,8.75,NA,NA
+OLB,"Kamara, Azur",6032,245,35 1/4,10,28,"10'1""",LB,75.25,35.25,10,121,28
+OLB,"Lewis, Terrell",6052,262,33 7/8,9 7/8,37,"10'4""",LB,77.25,33.875,9.875,124,37
+ILB,"Mack, Jordan",6026,241,31 2/8,8 6/8,NA,NA,LB,74.75,31.25,8.75,NA,NA
+ILB,"Martin, Kamal",6027,240,34,10 1/8,NA,NA,LB,74.875,34,10.125,NA,NA
+ILB,"Murray, Kenneth",6024,241,32 3/4,9 1/2,38,"10'9""",LB,74.5,32.75,9.5,129,38
+ILB,"Olson, Dante",6023,237,32 3/8,9 1/8,42,"10'4""",LB,74.375,32.375,9.125,124,42
+ILB,"Phillips, Jacob",6030,229,32 3/8,10,39,"10'6""",LB,75,32.375,10,126,39
+ILB,"Pinckney, Michael",5111,235,32 3/8,10,NA,NA,LB,71.125,32.375,10,NA,NA
+ILB,"Quarterman, Shaquille",6004,234,31 5/8,9 1/8,31,"10'0""",LB,72.5,31.625,9.125,120,31
+ILB,"Queen, Patrick",6002,229,31 5/8,10,35,"10'5""",LB,72.25,31.625,10,125,35
+OLB,"Russell, Chapelle",6020,236,32 3/8,10,35,"10'1""",LB,74,32.375,10,121,35
+LB/SS,"Simmons, Isaiah",6035,238,33 3/8,9 5/8,39,"11'0""",LB,75.625,33.375,9.625,132,39
+OLB,"Strnad, Justin",6033,238,31 3/4,9 1/8,29,"9'5""",LB,75.375,31.75,9.125,113,29
+OLB,"Taylor, Darrell",6035,267,33,9 3/4,NA,NA,LB,75.625,33,9.75,NA,NA
+OLB,"Taylor, Davion",6004,228,32 1/8,9 5/8,35,"10'7""",LB,72.5,32.125,9.625,127,35
+OLB,"Toohill, Casey",6043,250,33 1/2,9 1/2,39,"10'6""",LB,76.375,33.5,9.5,126,39
+OLB,"Uche, Josh",6012,245,33 5/8,9 1/2,NA,NA,LB,73.25,33.625,9.5,NA,NA
+ILB,"Walker, Mykal",6030,230,32 1/2,10,33,"10'2""",LB,75,32.5,10,122,33
+OLB,"Weaver, Curtis",6023,265,32 3/8,10,32.5,"9'8""",LB,74.375,32.375,10,116,32.5
+ILB,"Weaver, Evan",6021,237,31 5/8,9 5/8,32,"9'9""",LB,74.125,31.625,9.625,117,32
+ILB,"Wilson, Logan",6021,241,32 3/8,9 1/2,32,"10'1""",LB,74.125,32.375,9.5,121,32
+OLB,"Woodward, David",6016,230,31 5/8,9 1/4,33.5,"9'6""",LB,73.75,31.625,9.25,114,33.5
+CB,"Arnette, Damon",5115,195,30,9 1/8,NA,NA,DB,71.625,30,9.125,NA,NA
+FS,"Arnold, Grayland",5091,186,29,9 1/8,33,"10'0""",DB,69.125,29,9.125,120,33
+CB,"Bandy, Trajan",5076,180,29 7/8,9,NA,NA,DB,67.75,29.875,9,NA,NA
+CB,"Bassey, Essang",5093,191,31,7 7/8,39.5,"10'8""",DB,69.375,31,7.875,128,39.5
+FS,"Bryant, Myles",5077,183,29 1/2,9 1/8,31.5,"9'7""",DB,67.875,29.5,9.125,115,31.5
+CB,"Clarke, Nevelle",6007,190,31 5/8,9 1/8,35,"10'6""",DB,72.875,31.625,9.125,126,35
+CB,"Dantzler, Cameron",6022,188,30 5/8,9,34.5,NA,DB,74.25,30.625,9,NA,34.5
+CB,"Davis, Javaris",5084,183,30 5/8,8 7/8,35.5,"10'4""",DB,68.5,30.625,8.875,124,35.5
+CB,"Diggs, Trevon",6013,205,32 3/4,9 3/8,NA,NA,DB,73.375,32.75,9.375,NA,NA
+CB,"Fulton, Kristian",5115,197,30 5/8,9 1/8,35.5,"10'3""",DB,71.625,30.625,9.125,123,35.5
+CB,"Gladney, Jeff",5102,191,31 7/8,9,37.5,"10'4""",DB,70.25,31.875,9,124,37.5
+CB,"Green, A.J.",6014,202,30 7/8,9,NA,NA,DB,73.5,30.875,9,NA,NA
+CB,"Guidry, Javelin K.",5090,191,31 1/4,9,NA,NA,DB,69,31.25,9,NA,NA
+CB,"Hall, Bryce",6012,202,32 1/4,9 5/8,NA,NA,DB,73.25,32.25,9.625,NA,NA
+CB,"Hand, Harrison",5111,197,31 3/4,9 1/8,41,"11'1""",DB,71.125,31.75,9.125,133,41
+CB,"Henderson, C.J.",6006,204,31 5/8,9,37.5,"10'7""",DB,72.75,31.625,9,127,37.5
+CB,"Hill, Lavert",5100,190,30 7/8,9 1/8,NA,NA,DB,70,30.875,9.125,NA,NA
+CB,"Holmes, Darnay",5096,195,29 1/2,9 1/4,NA,NA,DB,69.75,29.5,9.25,NA,NA
+CB,"Igbinoghene, Noah",5103,198,31 3/4,9 3/8,37,"10'8""",DB,70.375,31.75,9.375,128,37
+CB,"Jackson, Dane",5115,187,30 3/8,8 3/4,35,"10'2""",DB,71.625,30.375,8.75,122,35
+CB,"Jackson, Lamar",6020,208,32 1/4,9 1/2,36.5,"10'2""",DB,74,32.25,9.5,122,36.5
+CB,"Johnson, Jaylon",5117,193,31 3/8,9 3/8,36.5,"10'4""",DB,71.875,31.375,9.375,124,36.5
+CB,"Keyes, BoPete",6007,202,32 5/8,8 3/4,36,"10'6""",DB,72.875,32.625,8.75,126,36
+CB,"Ojemudia, Michael",6005,200,32 1/4,8 7/8,36,"10'2""",DB,72.625,32.25,8.875,122,36
+CB,"Okudah, Jeff",6011,205,32 5/8,8 1/2,41,"11'3""",DB,73.125,32.625,8.5,135,41
+CB,"Pierre, James",6000,183,31 1/4,8 1/2,33.5,"10'3""",DB,72,31.25,8.5,123,33.5
+CB,"Pride, Troy",5114,193,30 5/8,9,35.5,"9'11""",DB,71.5,30.625,9,119,35.5
+CB,"Reid, John",5103,187,30 1/8,9 1/8,36.5,"10'9""",DB,70.375,30.125,9.125,129,36.5
+CB,"Robertson, Amik",5083,187,30 1/4,9,NA,NA,DB,68.375,30.25,9,NA,NA
+CB,"Robinson II, Reggie",6007,205,31 1/2,8 3/8,36,"11'0""",DB,72.875,31.5,8.375,132,36
+CB,"Samuels, Stanford",6010,187,31 3/4,10 1/8,NA,NA,DB,73,31.75,10.125,NA,NA
+CB,"Scott, Josiah",5092,185,29 3/8,8 3/4,NA,NA,DB,69.25,29.375,8.75,NA,NA
+CB,"Terrell, A.J.",6011,195,31 1/4,9,34.5,"10'9""",DB,73.125,31.25,9,129,34.5
+CB,"Thomas-Oliver, Stantley",6003,192,31 1/8,9 5/8,34,"10'7""",DB,72.375,31.125,9.625,127,34
+CB,"Vildor, Kindle",5097,191,32 1/4,9 5/8,39.5,"11'1""",DB,69.875,32.25,9.625,133,39.5
+FS,"Blackmon, Julian",5116,187,31,9,NA,NA,DB,71.75,31,9,NA,NA
+SS,"Brooks Jr., Antoine",5105,220,31 1/8,9 1/4,34.5,NA,DB,70.625,31.125,9.25,NA,34.5
+SS,"Burgess, Terrell",5113,202,29 1/2,9 1/4,33.5,"10'2""",DB,71.375,29.5,9.25,122,33.5
+CB,"Carter, Shyheim",5104,194,29 5/8,9 1/2,NA,NA,DB,70.5,29.625,9.5,NA,NA
+FS,"Chinn, Jeremy",6030,221,32 1/8,9 5/8,41,"11'6""",DB,75,32.125,9.625,138,41
+FS,"Clemons, Rodney",5115,209,31 1/4,9 1/4,33.5,"9'10""",DB,71.625,31.25,9.25,118,33.5
+FS,"Cole II, Brian",6016,213,31 3/8,10,NA,NA,DB,73.75,31.375,10,NA,NA
+FS,"Curl, Kamren",6013,206,32 5/8,8 1/2,34.5,"10'5""",DB,73.375,32.625,8.5,125,34.5
+FS,"Davis, Ashtyn",6007,202,30 1/2,9 3/8,NA,NA,DB,72.875,30.5,9.375,NA,NA
+FS,"Delpit, Grant",6024,213,30 3/8,9 1/8,NA,NA,DB,74.5,30.375,9.125,NA,NA
+FS,"Dugger, Kyle",6007,217,32 7/8,10 3/8,42,"11'2""",DB,72.875,32.875,10.375,134,42
+FS,"Elliott, Jalen",6003,205,31 3/4,9 1/8,34,"10'5""",DB,72.375,31.75,9.125,125,34
+FS,"Fuller, Jordan",6017,203,31,9,35.5,"10'2""",DB,73.875,31,9,122,35.5
+SS,"Gilman, Alohi",5104,201,30 7/8,9 1/4,32,"9'11""",DB,70.5,30.875,9.25,119,32
+SS,"Hawkins, Jaylinn",6005,208,31 3/4,9 1/2,35.5,"9'9""",DB,72.625,31.75,9.5,117,35.5
+SS,"Jones, Brandon",5111,198,30 1/8,8 3/4,NA,NA,DB,71.125,30.125,8.75,NA,NA
+SS,"McKinney, Xavier",6003,201,30 7/8,8 5/8,36,"10'2""",DB,72.375,30.875,8.625,122,36
+SS,"Metellus, Josh",5110,209,32 1/4,10 1/4,36.5,"10'4""",DB,71,32.25,10.25,124,36.5
+FS,"Miller, Chris",5112,190,29 7/8,9,35.5,"11'1""",DB,71.25,29.875,9,133,35.5
+FS,"Muse, Tanner",6020,227,31 1/2,9,34.5,"10'4""",DB,74,31.5,9,124,34.5
+FS,"Reed, J.R.",6006,202,32 1/2,9 7/8,34,"10'10""",DB,72.75,32.5,9.875,130,34
+FS,"Sneed, L'Jarius",6004,192,31 3/8,8 7/8,41,"10'11""",DB,72.5,31.375,8.875,131,41
+SS,"Stone, Geno",5103,207,29 1/4,9 1/8,33.5,"9'8""",DB,70.375,29.25,9.125,116,33.5
+SS,"Thomas, Daniel",5100,215,31 5/8,9 1/4,37,"10'5""",DB,70,31.625,9.25,125,37
+SS,"Wallace, K'Von",5110,206,31,9 1/8,38,"11'1""",DB,71,31,9.125,133,38
+SS,"Winfield Jr., Antoine",5091,203,30 1/8,9 1/2,36,"10'4""",DB,69.125,30.125,9.5,124,36
+LS,"Ferguson, Blake",6025,229,31 3/8,9 3/4,31,"9'4""",SPEC,74.625,31.375,9.75,112,31
+LS,"Wirtel, Steve",6036,235,31 3/8,9 3/4,26,"10'0""",SPEC,75.75,31.375,9.75,120,26
+K,"Bass, Tyler",5104,185,29 1/2,8 3/4,NA,NA,SPEC,70.5,29.5,8.75,NA,NA
+K,"Blankenship, Rodrigo",6010,190,30 5/8,9,NA,NA,SPEC,73,30.625,9,NA,NA
+K,"Molson, JJ",5112,182,30 3/4,9 1/2,NA,NA,SPEC,71.25,30.75,9.5,NA,NA
+P,"Charlton, Joseph",6044,195,32 3/8,8 1/2,NA,NA,SPEC,76.5,32.375,8.5,NA,NA
+P,"Hofrichter, Sterling",5095,196,29 3/8,8 5/8,NA,NA,SPEC,69.625,29.375,8.625,NA,NA
+P,"Mann, Braden",5113,198,30,9 1/4,31,"9'3""",SPEC,71.375,30,9.25,111,31
+P,"Pechin, Alex",6005,213,29 5/8,9 3/8,34,NA,SPEC,72.625,29.625,9.375,NA,34
+P,"Siposs, Arryn",6024,213,32,9 1/4,NA,NA,SPEC,74.5,32,9.25,NA,NA
+P,"Townsend, Tommy",6013,191,32 1/8,9 1/8,NA,NA,SPEC,73.375,32.125,9.125,NA,NA
+P,"Turk, Michael",6004,226,31 1/8,9 7/8,34.5,"9'0""",SPEC,72.5,31.125,9.875,108,34.5
+QB,"Book, Ian",6000,211,31 1/4,9 7/8,32 1/2,"09'07""",QB,72,31.25,9.875,115,NA
+QB,"Buechele, Shane",6002,210,30 1/4,9 3/8,30,"09'06""",QB,72.25,30.25,9.375,114,30
+QB,"Ehlinger, Sam",6011,220,30 3/8,9 3/4,36 1/2,"09'06""",QB,73.125,30.375,9.75,114,NA
+QB,"Fields, Justin",6026,227,32 1/2,9 1/8,NA,NA,QB,74.75,32.5,9.125,NA,NA
+QB,"Franks, Feleipe",6065,234,34,10,32 1/2,"09'09""",QB,78.625,34,10,117,NA
+QB,"Jones, Mac",6025,217,32 5/8,9 3/4,32,"09'08""",QB,74.625,32.625,9.75,116,32
+QB,"Lance, Trey",6037,224,31 1/2,9 1/8,NA,NA,QB,75.875,31.5,9.125,NA,NA
+QB,"Lawrence, Trevor",6055,213,31 1/2,10,NA,NA,QB,77.625,31.5,10,NA,NA
+QB,"Mills, Davis",6036,217,31 3/8,9 1/2,32,"09'02""",QB,75.75,31.375,9.5,110,32
+QB,"Mond, Kellen",6025,211,33 1/2,9 3/8,NA,NA,QB,74.625,33.5,9.375,NA,NA
+QB,"Newman, Jamie",6027,234,30 1/2,9 3/4,NA,NA,QB,74.875,30.5,9.75,NA,NA
+QB,"Trask, Kyle",6052,236,33,10 1/8,31 1/2,"09'05""",QB,77.25,33,10.125,113,NA
+QB,"Wilson, Zach",6021,214,30 5/8,9 1/2,NA,NA,QB,74.125,30.625,9.5,NA,NA
+WR,"Adams Jr., Jonathan",6020,210,32 1/8,9 7/8,39,"11'00""",WR,74,32.125,9.875,132,39
+WR,"Atwell, Tutu",5087,155,29 1/4,8 7/8,33,"09'09""",WR,68.875,29.25,8.875,117,33
+WR,"Ausbon, Jhamon",6023,217,32 3/8,9 7/8,33,"09'10""",WR,74.375,32.375,9.875,118,33
+WR,"Bateman, Rashod",6003,190,33,9 1/2,36,"10'03""",WR,72.375,33,9.5,123,36
+WR,"Brown, Dyami",6005,189,32 3/4,9 5/8,35 1/2,"10'08""",WR,72.625,32.75,9.625,128,NA
+WR,"Bussey, Rico",6003,186,33,10 1/8,38 1/2,"10'04""",WR,72.375,33,10.125,124,NA
+WR,"Chase, JaMarr",6003,201,30 3/4,9 5/8,41,"11'00""",WR,72.375,30.75,9.625,132,41
+WR,"Collins, Nico",6041,215,34 1/8,9 3/8,37 1/2,"10'05""",WR,76.125,34.125,9.375,125,NA
+WR,"Darby, Frank",6000,201,31 3/8,9 5/8,34 1/2,"09'09""",WR,72,31.375,9.625,117,NA
+WR,"Darden, Jaelon",5075,174,30 5/8,8 3/4,35 1/2,"10'02""",WR,67.625,30.625,8.75,122,NA
+WR,"Dixon, DaiJean",6025,200,NA,NA,NA,NA,WR,74.625,NA,NA,NA,NA
+WR,"Eagles, Brennan",6035,225,33 1/2,10,36 1/2,"10'05""",WR,75.625,33.5,10,125,NA
+WR,"Eskridge, DWayne",5086,190,30 1/8,9,35,"10'04""",WR,68.75,30.125,9,124,35
+WR,"Fehoko, Simi",6037,222,31 5/8,10 1/4,34 1/2,"10'00""",WR,75.875,31.625,10.25,120,NA
+WR,"Fitzpatrick, Dez",6016,208,32 3/4,9 5/8,35,NA,WR,73.75,32.75,9.625,NA,35
+WR,"Grimes, Trevon",6040,220,31 3/8,9 5/8,35,"09'10""",WR,76,31.375,9.625,118,35
+WR,"Jackson, Warren",6060,219,33 1/2,9 3/8,33 1/2,"10'03""",WR,78,33.5,9.375,123,NA
+WR,"Johnson, Cade",5105,184,29 1/4,9 3/8,35,"09'06""",WR,70.625,29.25,9.375,114,35
+WR,"Jones, Tim",6006,203,31 3/8,9 1/2,40,"10'04""",WR,72.75,31.375,9.5,124,40
+WR,"Marshall Jr., Terrace",6024,205,32 3/4,9 1/2,39,"10'05""",WR,74.5,32.75,9.5,125,39
+WR,"McKinley, Javon",6016,215,33,9 3/4,32 1/2,NA,WR,73.75,33,9.75,NA,NA
+WR,"McKoy, Isaiah",6020,200,31 5/8,9 1/8,29 1/2,"09'06""",WR,74,31.625,9.125,114,NA
+WR,"McMath, Racey",6024,211,32,8 7/8,34,"10'05""",WR,74.5,32,8.875,125,34
+WR,"Milne, Dax",6005,193,29 3/8,9 3/8,31,"09'06""",WR,72.625,29.375,9.375,114,31
+WR,"Moore, Elijah",5094,178,30 1/8,9 3/8,36,"10'01""",WR,69.5,30.125,9.375,121,36
+WR,"Moore, Rondale",5070,181,28 1/4,8 3/4,42 1/2,"10'06""",WR,67,28.25,8.75,126,NA
+WR,"Newsome, Dazz",5101,190,29 7/8,9,34,"10'01""",WR,70.125,29.875,9,121,34
+WR,"Nixon, Tre",6001,187,31 3/4,9 1/8,35 1/2,"10'05""",WR,72.125,31.75,9.125,125,NA
+WR,"Palmer, Josh",6012,210,33,9 5/8,34,"10'04""",WR,73.25,33,9.625,124,34
+WR,"Philyor, Whop",5095,184,30 5/8,9 1/4,31,"10'00""",WR,69.625,30.625,9.25,120,31
+WR,"Powell, Cornell",6002,204,32 3/4,10,36 1/2,"10'08""",WR,72.25,32.75,10,128,NA
+WR,"Rodgers, Amari",5094,212,30 3/8,9 1/2,33,"10'01""",WR,69.5,30.375,9.5,121,33
+WR,"Schwartz, Anthony",6000,186,31 1/2,9 3/8,32,"10'03""",WR,72,31.5,9.375,123,32
+WR,"Skowronek, Bennett",6027,220,33 1/4,10 1/8,NA,NA,WR,74.875,33.25,10.125,NA,NA
+WR,"Smith-Marsette, Ihmir",6006,181,30 3/4,9 3/4,37,"10'04""",WR,72.75,30.75,9.75,124,37
+WR,"Smith, Brandon",6013,218,34 1/4,9 3/8,39,"10'10""",WR,73.375,34.25,9.375,130,39
+WR,"Smith, DeVonta",6002,170,31 7/8,9 1/4,NA,NA,WR,72.25,31.875,9.25,NA,NA
+WR,"Smith, Shi",5094,186,31 7/8,9 3/4,36,"10'03""",WR,69.5,31.875,9.75,123,36
+WR,"St. Brown, Amon-Ra",5114,197,30 3/8,9 1/8,38 1/2,"10'07""",WR,71.5,30.375,9.125,127,NA
+WR,"Stevenson, Marquez",5010,182,31,8 1/2,NA,NA,WR,61,31,8.5,NA,NA
+WR,"Strachan, Mike",6053,226,34 1/4,10,35,"10'07""",WR,77.375,34.25,10,127,35
+WR,"Surratt, Sage",6024,209,32 1/4,9,NA,NA,WR,74.5,32.25,9,NA,NA
+WR,"Terry, Tamorrion",6026,207,33 3/8,9 1/2,32 1/2,"10'06""",WR,74.75,33.375,9.5,126,NA
+WR,"Toney, Kadarius",5115,193,31 1/4,9 1/4,39 1/2,"11'04""",WR,71.625,31.25,9.25,136,NA
+WR,"Vasher, T.J.",6052,185,35 5/8,10 1/4,NA,NA,WR,77.25,35.625,10.25,NA,NA
+WR,"Vaughns, Tyler",6020,184,32 7/8,9 1/2,31 1/2,"10'00""",WR,74,32.875,9.5,120,NA
+WR,"Waddle, Jaylen",5094,180,30 3/8,9 1/8,NA,NA,WR,69.5,30.375,9.125,NA,NA
+WR,"Wallace, Tylan",5113,194,30 3/8,9 3/4,33,"09'04""",WR,71.375,30.375,9.75,112,33
+WR,"Watkins Jr., Austin",6010,207,31,9 1/2,NA,NA,WR,73,31,9.5,NA,NA
+WR,"Williams, Seth",6030,211,33 1/2,9 7/8,37,"10'04""",WR,75,33.5,9.875,124,37
+TE,"Bates, John",6053,250,32 1/2,9 5/8,31 1/2,"10'00""",TE,77.375,32.5,9.625,120,NA
+TE,"Bushman, Matt",6045,245,32 5/8,9 3/8,32 1/2,NA,TE,76.625,32.625,9.375,NA,NA
+TE,"Davidson, Zach",6065,245,32,9 1/2,37 1/2,"09'09""",TE,78.625,32,9.5,117,NA
+TE,"Eubanks, Nick",6044,245,33 1/4,9 3/4,34,"10'00""",TE,76.5,33.25,9.75,120,34
+TE,"Farrell, Luke",6054,251,33,9 1/4,36 1/2,"09'10""",TE,77.5,33,9.25,118,NA
+TE,"Freiermuth, Pat",6050,251,32 1/2,9 7/8,NA,NA,TE,77,32.5,9.875,NA,NA
+TE,"Gray, Noah",6030,240,31 5/8,9 3/8,35,"09'07""",TE,75,31.625,9.375,115,35
+TE,"Jordan, Brevin",6025,247,32 7/8,9 3/4,34,"09'08""",TE,74.625,32.875,9.75,116,34
+TE,"Long, Hunter",6050,254,33 3/4,9 3/4,32 1/2,"10'02""",TE,77,33.75,9.75,122,NA
+TE,"McKitty, Tre",6042,246,32 3/4,11,NA,NA,TE,76.25,32.75,11,NA,NA
+TE,"Moore, Briley",6042,240,31,9 7/8,37 1/2,"10'03""",TE,76.25,31,9.875,123,NA
+TE,"Pitts, Kyle",6055,245,33 1/2,10 5/8,33 1/2,"10'09""",TE,77.625,33.5,10.625,129,NA
+TE,"Poljan, Tony",6066,251,33 1/2,9 3/8,33 1/2,"09'05""",TE,78.75,33.5,9.375,113,NA
+TE,"Soehner, Dylan",6065,268,33 1/2,9 5/8,30 1/2,"09'04""",TE,78.625,33.5,9.625,112,NA
+TE,"Tremble, Tommy",6033,241,31 7/8,9 1/4,36 1/2,"10'02""",TE,75.375,31.875,9.25,122,NA
+TE,"Wells, Pro",6033,249,33,9 3/8,28 1/2,"09'06""",TE,75.375,33,9.375,114,NA
+TE,"Yeboah, Kenny",6037,250,33 1/4,9 3/8,34,"09'08""",TE,75.875,33.25,9.375,116,34
+RB,"Boyd, Rakeem",5113,213,32 1/2,8 5/8,32 1/2,"08'02""",RB,71.375,32.5,8.625,98,NA
+RB,"Brightwell, Gary",5106,218,31,9 3/8,34 1/2,"09'10""",RB,70.75,31,9.375,118,NA
+RB,"Carter, Michael",5077,201,29 1/8,8 3/4,34,"09'11""",RB,67.875,29.125,8.75,119,34
+FB,"Carter, Tory",6003,229,30 5/8,9 5/8,35 1/2,"09'04""",RB,72.375,30.625,9.625,112,NA
+RB,"Etienne, Travis",5101,215,30 1/8,9 3/8,33 1/2,"10'08""",RB,70.125,30.125,9.375,128,NA
+RB,"Evans, Chris",5110,211,32 1/2,10,40 1/2,"10'07""",RB,71,32.5,10,127,NA
+RB,"Felton, Demetric",5085,189,31 3/8,9 3/8,31 1/2,"09'06""",RB,68.625,31.375,9.375,114,NA
+RB,"Gainwell, Kenneth",5083,201,30 5/8,9 7/8,35,"10'01""",RB,68.375,30.625,9.875,121,35
+FB,"Granson, Kylen",6014,241,32 5/8,9 3/8,36 1/2,"10'00""",RB,73.5,32.625,9.375,120,NA
+RB,"Harris, Najee",6013,232,33 3/8,10 1/4,NA,NA,RB,73.375,33.375,10.25,NA,NA
+RB,"Hawkins, Javian",5081,183,29 1/4,7 7/8,36,"09'08""",RB,68.125,29.25,7.875,116,36
+RB,"Herbert, Khalil",5087,210,31 1/4,8 5/8,33,"09'07""",RB,68.875,31.25,8.625,115,33
+RB,"Hill, Kylin",5104,214,30 1/2,9 5/8,36,"10'02""",RB,70.5,30.5,9.625,122,36
+RB,"Hubbard, Chuba",6000,210,32,9,36,"10'00""",RB,72,32,9,120,36
+RB,"Jefferson, Jermar",5101,206,30 1/2,9 5/8,31,"09'07""",RB,70.125,30.5,9.625,115,31
+RB,"Johnson, Josh",5087,209,29 5/8,8 3/4,35 1/2,"09'07""",RB,68.875,29.625,8.75,115,NA
+RB,"Knox, Brenden",5106,215,31 1/4,10,35,"09'04""",RB,70.75,31.25,10,112,35
+FB,"Mason, Ben",6026,246,32 5/8,9 3/8,37 1/2,"09'09""",RB,74.75,32.625,9.375,117,NA
+RB,"Mitchell, Elijah",5102,201,31,9 3/4,37 1/2,"10'08""",RB,70.25,31,9.75,128,NA
+RB,"Patterson, Jaret",5064,195,28 3/4,9 1/4,30,"09'09""",RB,66.5,28.75,9.25,117,30
+RB,"Ragas, Trey",5101,218,29 3/4,8 7/8,33 1/2,"09'09""",RB,70.125,29.75,8.875,117,NA
+RB,"Rountree III, Larry",5105,211,30 3/4,9 1/8,30,"09'00""",RB,70.625,30.75,9.125,108,30
+RB,"Scott III, Stevie",6003,225,33 1/4,9 3/4,31,"09'11""",RB,72.375,33.25,9.75,119,31
+RB,"Sermon, Trey",6003,215,33 3/8,9 3/8,37,"10'05""",RB,72.375,33.375,9.375,125,37
+RB,"Stevenson, Rhamondre",5115,231,30 1/4,9,31 1/2,"09'04""",RB,71.625,30.25,9,112,NA
+RB,"Williams Jr., Pooka",5095,170,30 7/8,9 3/4,31 1/2,"09'10""",RB,69.625,30.875,9.75,118,NA
+RB,"Williams, Javonte",5095,212,30 7/8,9 3/8,36,"10'03""",RB,69.625,30.875,9.375,123,36
+OG,"Anderson, Jack",6041,309,31 5/8,10,NA,NA,OL,76.125,31.625,10,NA,NA
+OG,"Awosika, Kayode",6031,307,32 5/8,9,30,"08'04""",OL,75.125,32.625,9,100,30
+OT,"Ball, Josh",6073,308,35,10,27 1/2,"08'10""",OL,79.375,35,10,106,NA
+OG,"Banks, Aaron",6053,325,33 1/8,10 1/8,31,"08'04""",OL,77.375,33.125,10.125,100,31
+OG,"Borom, Larry",6047,322,33 1/8,10 3/8,31,"08'07""",OL,76.875,33.125,10.375,103,31
+OG,"Brown, Deonte",6032,344,32 3/8,9 1/8,27,"08'00""",OL,75.25,32.375,9.125,96,27
+OT,"Brown, Spencer",6082,311,34 3/4,10 3/8,31 1/2,"09'09""",OL,80.25,34.75,10.375,117,NA
+OT,"Carman, Jackson",6047,317,32 1/2,9 5/8,NA,NA,OL,76.875,32.5,9.625,NA,NA
+OT,"Christensen, Brady",6052,302,32 1/4,10 1/4,34,"10'04""",OL,77.25,32.25,10.25,124,34
+OG,"Cleveland, Ben",6062,343,33 3/4,9 3/4,28,"08'06""",OL,78.25,33.75,9.75,102,28
+OT,"Cosmi, Samuel",6057,314,33,10 1/4,30,"09'09""",OL,77.875,33,10.25,117,30
+OT,"Curhan, Jake",6057,316,33,10 1/4,24,"08'06""",OL,77.875,33,10.25,102,24
+C,"Dalman, Drew",6022,300,NA,NA,NA,NA,OL,74.25,NA,NA,NA,NA
+OT,"Darrisaw, Christian",6046,322,34 1/4,9 1/4,NA,NA,OL,76.75,34.25,9.25,NA,NA
+OG,"Davis, Wyatt",6035,315,33 7/8,9 1/8,NA,NA,OL,75.625,33.875,9.125,NA,NA
+C,"Dickerson, Landon",6055,333,33 1/4,10 3/8,NA,NA,OL,77.625,33.25,10.375,NA,NA
+OT,"Doyle, Tommy",6080,320,35 1/8,10 3/8,33 1/2,"09'03""",OL,80,35.125,10.375,111,NA
+OT,"Ealy, Adrian",6062,321,33,10,24 1/2,"08'08""",OL,78.25,33,10,104,NA
+OT,"Eichenberg, Liam",6061,306,32 3/8,9 5/8,26 1/2,"08'09""",OL,78.125,32.375,9.625,105,NA
+OT,"Forsythe, Stone",6080,307,34 3/8,10,27 1/2,"08'07""",OL,80,34.375,10,103,NA
+OT,"Fries, Will",6063,309,32 7/8,10 1/4,31,"09'07""",OL,78.375,32.875,10.25,115,31
+OT,"Green, Carson",6061,320,34 1/2,10 3/8,29 1/2,"09'00""",OL,78.125,34.5,10.375,108,NA
+OG,"Green, Kendrick",6017,305,32 1/4,10 1/8,35 1/2,"09'11""",OL,73.875,32.25,10.125,119,NA
+OG,"Hainsey, Robert",6044,306,32 1/8,9 3/4,27 1/2,"08'08""",OL,76.5,32.125,9.75,104,NA
+C,"Hill, Trey",6034,319,33 5/8,9 3/8,NA,NA,OL,75.5,33.625,9.375,NA,NA
+OG,"Hocker, Jared",6060,327,33 1/8,11,30,"08'07""",OL,78,33.125,11,103,30
+OT,"Hudson, James",6046,313,33,10 5/8,28 1/2,"08'02""",OL,76.75,33,10.625,98,NA
+C,"Humphrey, Creed",6042,302,32 1/2,9 5/8,33,"09'04""",OL,76.25,32.5,9.625,112,33
+OG,"Hutcherson, Sadarius",6033,321,32 3/8,9,31 1/2,"08'10""",OL,75.375,32.375,9,106,NA
+OT,"Jackson, Alaric",6054,321,32 1/2,9 1/2,25,"08'07""",OL,77.5,32.5,9.5,103,25
+C,"Jackson, Drake",6017,293,31 1/8,8 1/4,31 1/2,NA,OL,73.875,31.125,8.25,NA,NA
+OT,"Jaimes, Brenden",6050,298,32 5/8,10,30 1/2,"09'04""",OL,77,32.625,10,112,NA
+OT,"Jenkins, Teven",6057,317,33 1/2,9 1/2,32 1/2,"08'10""",OL,77.875,33.5,9.5,106,NA
+OG,"Jones, Robert",6042,307,33 3/8,9 5/8,31,"08'05""",OL,76.25,33.375,9.625,101,31
+OG,"Kraemer, Tommy",6054,309,33 1/2,10 5/8,NA,NA,OL,77.5,33.5,10.625,NA,NA
+OT,"Leatherwood, Alex",6051,312,33 7/8,9 1/2,34 1/2,"09'10""",OL,77.125,33.875,9.5,118,NA
+OT,"Little, Walker",6073,313,33 3/4,10 1/8,29 1/2,"09'03""",OL,79.375,33.75,10.125,111,NA
+OT,"Mayfield, Jalen",6052,326,32 5/8,9 3/4,28 1/2,"08'00""",OL,77.25,32.625,9.75,96,NA
+C,"Meinerz, Quinn",6027,320,33 3/8,10 1/4,32,"09'03""",OL,74.875,33.375,10.25,111,32
+C,"Menet, Michal",6041,301,31 1/2,10,NA,NA,OL,76.125,31.5,10,NA,NA
+OT,"Moore Jr., Dan",6055,311,34 1/2,10 1/4,30 1/2,"09'02""",OL,77.625,34.5,10.25,110,NA
+OG,"Moore, David",6015,330,34 1/8,9 5/8,27 1/2,"08'09""",OL,73.625,34.125,9.625,105,NA
+OT,"Moore, Jaylon",6041,311,33 3/8,11,30 1/2,"08'10""",OL,76.125,33.375,11,106,NA
+C,"Morrissey, Jimmy",6032,303,32 3/4,10,31,"08'09""",OL,75.25,32.75,10,105,31
+C,"Myers, Josh",6052,310,32,10 3/8,NA,NA,OL,77.25,32,10.375,NA,NA
+OG,"Newman, Royce",6052,310,33 3/4,9,28,"08'08""",OL,77.25,33.75,9,104,28
+OT,"Radunz, Dillon",6056,301,34,9 1/8,32,"09'04""",OL,77.75,34,9.125,112,32
+OT,"Sewell, Penei",6047,331,33 1/4,10 3/8,28,"09'01""",OL,76.875,33.25,10.375,109,28
+OG,"Sherman, William",6032,304,33 1/2,10,26,"09'00""",OL,75.25,33.5,10,108,26
+OG,"Slater, Rashawn",6042,304,33,10 1/2,33,"09'04""",OL,76.25,33,10.5,112,33
+OG,"Smith, DAnte",6053,305,35 1/4,10,29,"09'05""",OL,77.375,35.25,10,113,29
+OG,"Smith, Trey",6054,321,33 3/4,10,31,"09'04""",OL,77.5,33.75,10,112,31
+OT,"Van Lanen, Cole",6042,305,33 3/8,9 3/4,30,"08'11""",OL,76.25,33.375,9.75,107,30
+OG,"Vera-Tucker, Alijah",6044,308,32 1/8,9 5/8,32,"08'10""",OL,76.5,32.125,9.625,106,32
+OT,"Young, Landon",6061,310,33 3/4,10 1/8,30 1/2,"09'00""",OL,78.125,33.75,10.125,108,NA
+EDGE,"Basham Jr., Carlos",6032,274,32 7/8,9 1/4,34,"10'02""",DL,75.25,32.875,9.25,122,34
+EDGE,"Bradley-King, William",6034,252,33 1/2,10 1/4,34 1/2,"09'11""",DL,75.5,33.5,10.25,119,NA
+EDGE,"Brown IV, Earnest",6044,270,34 1/2,9 3/4,31,"09'07""",DL,76.5,34.5,9.75,115,31
+EDGE,"Cooper, Jonathon",6025,253,32 1/8,9 5/8,33,"09'00""",DL,74.625,32.125,9.625,108,33
+EDGE,"Dimukeje, Victor",6014,262,33 1/8,9 1/2,34 1/2,"09'07""",DL,73.5,33.125,9.5,115,NA
+EDGE,"Golston, Chauncey",6046,269,34 3/4,10 7/8,36,"09'11""",DL,76.75,34.75,10.875,119,36
+EDGE,"Hayes, Daelin",6034,253,32 7/8,9 3/8,32 1/2,"09'11""",DL,75.5,32.875,9.375,119,NA
+EDGE,"Herring, Malik",6032,275,32 1/2,10 1/2,NA,NA,DL,75.25,32.5,10.5,NA,NA
+EDGE,"Hubert, Wyatt",6027,258,31,10 1/8,32 1/2,"09'02""",DL,74.875,31,10.125,110,NA
+EDGE,"Jackson, Tarron",6021,254,33 1/4,10 1/8,29 1/2,"09'10""",DL,74.125,33.25,10.125,118,NA
+EDGE,"Johnson, Patrick",6020,240,32,10,35,"09'11""",DL,74,32,10,119,35
+EDGE,"Jones II, Patrick",6042,261,32 7/8,10,31 1/2,"08'11""",DL,76.25,32.875,10,107,NA
+EDGE,"Kaindoh, Joshua",6056,260,34 1/2,9 1/2,36 1/2,"10'05""",DL,77.75,34.5,9.5,125,NA
+EDGE,"Koonce, Malcolm",6022,249,33 3/8,9 5/8,NA,NA,DL,74.25,33.375,9.625,NA,NA
+EDGE,"Odeyingbo, Dayo",6051,276,35 1/4,10 1/8,NA,NA,DL,77.125,35.25,10.125,NA,NA
+EDGE,"Odighizuwa, Osa",6015,282,34 1/8,10 3/8,31 1/2,"10'00""",DL,73.625,34.125,10.375,120,NA
+EDGE,"Ogundeji, Adetokunbo",6044,260,35 1/4,9 5/8,32,"10'00""",DL,76.5,35.25,9.625,120,32
+EDGE,"Ojulari, Azeez",6022,249,34 1/2,10 1/2,30,"10'07""",DL,74.25,34.5,10.5,127,30
+EDGE,"Ossai, Joseph",6036,256,33 7/8,9 3/8,41 1/2,"10'11""",DL,75.75,33.875,9.375,131,NA
+EDGE,"Oweh, Jayson",6047,257,34 1/2,9 1/4,39 1/2,"11'02""",DL,76.875,34.5,9.25,134,NA
+EDGE,"Paye, Kwity",6024,261,33,10,35 1/2,"09'10""",DL,74.5,33,10,118,NA
+EDGE,"Perkins, Ronnie",6024,253,32 7/8,9,32,"09'07""",DL,74.5,32.875,9,115,32
+EDGE,"Phillips, Jaelan",6054,260,33 1/4,9 3/4,36,"10'05""",DL,77.5,33.25,9.75,125,36
+EDGE,"Rashed Jr., Hamilcar",6023,251,33 3/4,10 1/8,35 1/2,"10'08""",DL,74.375,33.75,10.125,128,NA
+EDGE,"Robinson, Janarius",6053,266,35 1/4,10 7/8,34,"10'01""",DL,77.375,35.25,10.875,121,34
+EDGE,"Roche, Quincy",6025,245,32 1/4,9 1/4,32 1/2,"09'11""",DL,74.625,32.25,9.25,119,NA
+EDGE,"Rousseau, Greg",6065,266,34 3/8,11 1/8,30,"09'07""",DL,78.625,34.375,11.125,115,30
+EDGE,"Rumph II, Chris",6026,235,33 3/4,9 1/4,NA,NA,DL,74.75,33.75,9.25,NA,NA
+EDGE,"Sample, Cameron",6026,267,33 3/8,9 3/4,37,"09'08""",DL,74.75,33.375,9.75,116,37
+EDGE,"Smith, Elerson G.",6062,252,33 1/4,10 1/2,41 1/2,"10'07""",DL,78.25,33.25,10.5,127,NA
+EDGE,"Smith, Jordan",6056,255,33 3/8,9 1/4,NA,NA,DL,77.75,33.375,9.25,NA,NA
+EDGE,"Snowden, Charles",6063,243,34,9 1/2,NA,NA,DL,78.375,34,9.5,NA,NA
+EDGE,"Toney, Shaka",6024,242,33,9 1/2,39,"10'08""",DL,74.5,33,9.5,128,39
+EDGE,"Tryon, Joe",6050,259,34,10 1/4,35,"09'08""",DL,77,34,10.25,116,35
+EDGE,"Turner, Payton",6051,270,35,10 1/4,NA,NA,DL,77.125,35,10.25,NA,NA
+EDGE,"Weaver, Rashad",6043,259,33 1/4,9 3/4,32,"09'06""",DL,76.375,33.25,9.75,114,32
+DT,"Barmore, Christian",6041,310,33 5/8,10,NA,NA,DL,76.125,33.625,10,NA,NA
+DT,"Bohanna, Quinton",6040,327,34,10 7/8,29,"08'03""",DL,76,34,10.875,99,29
+DT,"Brown III, Bobby",6040,321,34 3/4,10 1/2,33,"09'05""",DL,76,34.75,10.5,113,33
+DT,"Faoliu, Austin",6031,287,32 3/4,9 3/4,NA,NA,DL,75.125,32.75,9.75,NA,NA
+DT,"Graham, TaQuon",6031,292,35,10 5/8,32 1/2,"09'05""",DL,75.125,35,10.625,113,NA
+DT,"Jones, Naquan",6033,313,33,9 7/8,25,"08'04""",DL,75.375,33,9.875,100,25
+DT,"McNeill, Alim",6017,317,32 5/8,9 3/8,30 1/2,"09'00""",DL,73.875,32.625,9.375,108,NA
+DT,"Merrill, Forrest",6000,322,32,9 1/4,26 1/2,"08'05""",DL,72,32,9.25,101,NA
+DT,"Nixon, Daviyon",6031,313,35 1/8,9 1/4,28 1/2,"08'10""",DL,75.125,35.125,9.25,106,NA
+DT,"Onwuzurike, Levi",6027,290,33,10 1/8,30,"09'01""",DL,74.875,33,10.125,109,30
+DT,"Shelvin, Tyler",6021,350,33 5/8,10 1/4,28 1/2,"08'01""",DL,74.125,33.625,10.25,97,NA
+DT,"Slaton, Tedarrell",6040,330,32 5/8,9 1/8,29,"09'01""",DL,76,32.625,9.125,109,29
+DT,"Spencer, Marquiss",6035,301,33 1/8,9 1/2,31 1/2,"09'03""",DL,75.625,33.125,9.5,111,NA
+DT,"Stills, Darius",6004,278,32 1/4,8 7/8,32 1/2,"09'02""",DL,72.5,32.25,8.875,110,NA
+DT,"Togiai, Tommy",6014,296,31 3/4,8 7/8,32,"08'09""",DL,73.5,31.75,8.875,105,32
+DT,"Tonga, Khyiris",6021,325,31,9 5/8,28,"08'09""",DL,74.125,31,9.625,105,28
+DT,"Tufele, Jay",6021,305,32 1/2,9 3/8,30,"08'09""",DL,74.125,32.5,9.375,105,30
+DT,"Tuipulotu, Marlon",6017,317,33,10 3/8,30 1/2,"08'07""",DL,73.875,33,10.375,103,NA
+DT,"Twyman, Jaylen",6016,301,32 1/8,10,32 1/2,"08'08""",DL,73.75,32.125,10,104,NA
+DT,"Williams, Milton",6030,284,31 1/2,9 3/4,38 1/2,"10'01""",DL,75,31.5,9.75,121,NA
+DT,"Wilson, Marvin",6037,303,33 3/8,10 1/8,25 1/2,"08'11""",DL,75.875,33.375,10.125,107,NA
+ILB,"Barnes, Derrick",6003,238,33 3/8,9 3/4,37,"09'11""",LB,72.375,33.375,9.75,119,37
+ILB,"Bolton, Nick",5111,237,31 7/8,10 3/8,32,"09'07""",LB,71.125,31.875,10.375,115,32
+ILB,"Borland, Tuf",6002,229,31 3/8,10,32 1/2,"09'01""",LB,72.25,31.375,10,109,NA
+ILB,"Britt, K.J.",6004,235,31,9 3/8,32 1/2,"09'10""",LB,72.5,31,9.375,118,NA
+ILB,"Browning, Baron",6026,245,33 1/2,10,40,"10'10""",LB,74.75,33.5,10,130,40
+OLB,"Collins, Zaven",6047,259,33 5/8,9 3/8,35,"10'02""",LB,76.875,33.625,9.375,122,35
+OLB,"Cox, Jabril",6032,232,32 3/4,9,NA,NA,LB,75.25,32.75,9,NA,NA
+ILB,"Davis, Jamin",6034,234,33,9 1/2,42,"11'00""",LB,75.5,33,9.5,132,42
+ILB,"Fields II, Tony",6002,222,31 1/4,9,34,"09'06""",LB,72.25,31.25,9,114,34
+ILB,"Fisher, Paddy",6032,240,33 1/8,9 5/8,31 1/2,"09'02""",LB,75.25,33.125,9.625,110,NA
+OLB,"Hilliard, Justin",6004,229,31 3/8,9,34 1/2,"09'08""",LB,72.5,31.375,9,116,NA
+OLB,"Hines III, Anthony",6022,225,32 3/4,9 3/8,33,"09'10""",LB,74.25,32.75,9.375,118,33
+ILB,"Johnson, Buddy",6004,229,31 1/2,9 7/8,38 1/2,"10'08""",LB,72.5,31.5,9.875,128,NA
+ILB,"Jones, Ernest",6014,230,33 3/8,10 3/8,38 1/2,"10'06""",LB,73.5,33.375,10.375,126,NA
+OLB,"McDuffie, Isaiah",6012,227,30 1/4,9 5/8,32 1/2,"10'01""",LB,73.25,30.25,9.625,121,NA
+ILB,"McGrone, Cameron",6007,234,32 1/8,9 1/4,NA,NA,LB,72.875,32.125,9.25,NA,NA
+ILB,"Moses, Dylan",6016,235,31 7/8,9 1/4,NA,NA,LB,73.75,31.875,9.25,NA,NA
+ILB,"Ogbongbemiga, Amen",6007,231,32 3/4,9 3/8,32,"09'04""",LB,72.875,32.75,9.375,112,32
+OLB,"Owusu-Koramoah, Jeremiah",6014,221,33,8 7/8,36 1/2,"10'04""",LB,73.5,33,8.875,124,NA
+OLB,"Parsons, Micah",6031,246,31 1/2,11,34,"10'06""",LB,75.125,31.5,11,126,34
+ILB,"Rice, Monty",6003,233,30 3/4,8 5/8,32,"10'01""",LB,72.375,30.75,8.625,121,32
+OLB,"Stevens, JaCoby",6011,212,31 3/4,9 1/4,42,"10'10""",LB,73.125,31.75,9.25,130,42
+OLB,"Stuard, Grant",5112,230,29 1/2,9 3/8,NA,NA,LB,71.25,29.5,9.375,NA,NA
+ILB,"Surratt, Chazz",6021,229,30 1/4,9 5/8,31 1/2,NA,LB,74.125,30.25,9.625,NA,NA
+ILB,"Thompson, Erroll",6004,239,32 7/8,9 7/8,30 1/2,"09'06""",LB,72.5,32.875,9.875,114,NA
+OLB,"Wallow, Garret",6015,220,30 7/8,9 1/2,32 1/2,"10'02""",LB,73.625,30.875,9.5,122,NA
+OLB,"Werner, Pete",6027,238,33 1/4,9,39 1/2,"10'02""",LB,74.875,33.25,9,122,NA
+CB,"Adebo, Paulson",6010,198,31 1/2,10,36 1/2,"10'01""",DB,73,31.5,10,121,NA
+CB,"Brown, Shakur",5096,185,30,8 5/8,35 1/2,"09'08""",DB,69.75,30,8.625,116,NA
+CB,"Brown, Tre",5096,185,30 3/8,9 1/2,38,"10'03""",DB,69.75,30.375,9.5,123,38
+CB,"Burns, Lorenzo",5103,183,30 1/4,8 5/8,33 1/2,"10'03""",DB,70.375,30.25,8.625,123,NA
+CB,"Bynum, Camryn",6002,196,30 3/4,9 5/8,34,"10'09""",DB,72.25,30.75,9.625,129,34
+CB,"Campbell, Tyson",6010,193,32,9,34 1/2,"10'04""",DB,73,32,9,124,NA
+CB,"Daniel, DJ",5116,195,33 3/8,9 1/8,31,"09'11""",DB,71.75,33.375,9.125,119,31
+CB,"Echols, Brandin",5101,179,30 1/4,9 1/8,42 1/2,"11'04""",DB,70.125,30.25,9.125,136,NA
+CB,"Farley, Caleb",6010,207,33 3/8,8 3/4,NA,NA,DB,73,33.375,8.75,NA,NA
+CB,"Gilbert, Mark",6001,186,31 1/4,8 3/4,36,"10'10""",DB,72.125,31.25,8.75,130,36
+CB,"Graham Jr., Thomas",5103,192,31,8 7/8,34 1/2,"10'01""",DB,70.375,31,8.875,121,NA
+CB,"Griffin, Olaijah",5113,176,31 7/8,8 3/4,34,"09'11""",DB,71.375,31.875,8.75,119,34
+CB,"Hall, Darren",5112,188,30 5/8,8 7/8,38 1/2,"11'00""",DB,71.25,30.625,8.875,132,NA
+CB,"Horn, Jaycee",6006,205,33,9 1/8,41 1/2,"11'01""",DB,72.75,33,9.125,133,NA
+CB,"Joseph, Kelvin",5114,197,31 7/8,9 1/4,35,"10'08""",DB,71.5,31.875,9.25,128,35
+CB,"Lenoir, Deommodore",5102,199,30 5/8,9 3/4,34 1/2,"10'01""",DB,70.25,30.625,9.75,121,NA
+CB,"McPhearson, Zech",5105,196,31 1/2,9,NA,NA,DB,70.625,31.5,9,NA,NA
+CB,"Melifonwu, Ifeatu",6024,205,32 1/8,9,41 1/2,"11'02""",DB,74.5,32.125,9,134,NA
+CB,"Mills, Bryan",6011,174,32,9,37,"10'04""",DB,73.125,32,9,124,37
+CB,"Molden, Elijah",5094,192,29 1/2,9 1/2,36 1/2,"10'05""",DB,69.5,29.5,9.5,125,NA
+CB,"Mukuamu, Israel",6041,212,34,9 3/8,36 1/2,"09'11""",DB,76.125,34,9.375,119,NA
+CB,"Newsome II, Greg",6002,192,31 1/8,8 7/8,40,"10'03""",DB,72.25,31.125,8.875,123,40
+CB,"Phillips, Antonio",5116,186,32 1/2,9 3/8,NA,NA,DB,71.75,32.5,9.375,NA,NA
+CB,"Robinson, Aaron",5114,186,30 1/4,8 3/4,37,"10'03""",DB,71.5,30.25,8.75,123,37
+CB,"Rochell, Robert",5116,193,32 3/8,8 3/4,43,"11'01""",DB,71.75,32.375,8.75,133,43
+CB,"Samuel Jr., Asante",5101,180,30 1/8,8 7/8,35,"10'04""",DB,70.125,30.125,8.875,124,35
+CB,"St-Juste, Benjamin",6032,202,32 5/8,9 3/8,34 1/2,"09'11""",DB,75.25,32.625,9.375,119,NA
+CB,"Stephens, Brandon",6001,213,32,9 3/4,38,"10'07""",DB,72.125,32,9.75,127,38
+CB,"Stokes, Eric",6005,194,32 3/4,9 1/8,38 1/2,"10'08""",DB,72.625,32.75,9.125,128,NA
+CB,"Surtain II, Patrick",6020,208,32 1/2,10,39,"10'11""",DB,74,32.5,10,131,39
+CB,"Taylor, Keith",6022,187,31 1/8,9 1/2,33 1/2,"10'07""",DB,74.25,31.125,9.5,127,NA
+CB,"Thomas, Ambry",5117,191,32 1/4,8 5/8,38,"10'02""",DB,71.875,32.25,8.625,122,38
+CB,"Thompson, Bryce",5105,182,30 3/4,9 1/4,34,"10'00""",DB,70.625,30.75,9.25,120,34
+CB,"Vincent Jr., Kary",5096,185,30 1/4,8 7/8,35 1/2,"09'09""",DB,69.75,30.25,8.875,117,NA
+CB,"Wade, Shaun",6005,196,33 1/2,9 1/4,NA,NA,DB,72.625,33.5,9.25,NA,NA
+CB,"Washington, ArDarius",5082,176,29 1/4,9 1/2,37 1/2,"10'07""",DB,68.25,29.25,9.5,127,NA
+CB,"Webb, Mark",6014,207,32 5/8,10 1/8,36 1/2,"11'04""",DB,73.5,32.625,10.125,136,NA
+CB,"Wilcox, Chris",6015,198,31 5/8,9 7/8,37 1/2,"10'06""",DB,73.625,31.625,9.875,126,NA
+CB,"Wildgoose, Rachad",5112,197,31 1/8,9 3/8,36,"10'00""",DB,71.25,31.125,9.375,120,36
+CB,"Williams, Rodarius",5116,189,31 1/2,9 1/4,36 1/2,"10'03""",DB,71.75,31.5,9.25,123,NA
+CB,"Williams, Trill",6003,208,31 1/8,9,36,"10'03""",DB,72.375,31.125,9,123,36
+CB,"Wilson, Marco",5115,191,30 3/4,9 5/8,43 1/2,"11'04""",DB,71.625,30.75,9.625,136,NA
+CB,"Wright, Nahshon",6042,183,32 7/8,9 1/8,31,"10'06""",DB,76.25,32.875,9.125,126,31
+FS,"Bledsoe, Joshuah",5113,204,30 3/4,9 5/8,NA,NA,DB,71.375,30.75,9.625,NA,NA
+SS,"Breeze, Brady",5116,197,30 1/2,9 1/2,38,"10'00""",DB,71.75,30.5,9.5,120,38
+FS,"Carter II, Michael",5095,184,29 1/8,9 1/2,35 1/2,NA,DB,69.625,29.125,9.5,NA,NA
+FS,"Cisco, Andre",6005,216,32 1/2,10 5/8,NA,NA,DB,72.625,32.5,10.625,NA,NA
+FS,"Crosswell, Aashari",6002,205,NA,NA,NA,NA,DB,72.25,NA,NA,NA,NA
+SS,"Davis, Shawn",5105,202,31 7/8,9 1/2,39 1/2,"10'08""",DB,70.625,31.875,9.5,128,NA
+SS,"Deablo, Divine",6032,226,33,9 1/2,34,"10'06""",DB,75.25,33,9.5,126,34
+SS,"Ford, Paris",6005,197,32 3/8,9 1/2,28 1/2,"09'02""",DB,72.625,32.375,9.5,110,NA
+SS,"Forrest, Darrick",5114,206,32,9 3/4,39,"11'00""",DB,71.5,32,9.75,132,39
+SS,"Gillespie, Tyree",5116,207,31 1/4,9 5/8,35 1/2,"09'00""",DB,71.75,31.25,9.625,108,NA
+FS,"Grant, Richie",5115,197,32 5/8,9 3/8,34 1/2,"10'09""",DB,71.625,32.625,9.375,129,NA
+FS,"Hamlin, Damar",6007,200,32 1/4,9 1/8,35,"09'10""",DB,72.875,32.25,9.125,118,35
+FS,"Holland, Jevon",6005,207,31 1/2,9 1/8,35 1/2,"10'06""",DB,72.625,31.5,9.125,126,NA
+SS,"Hufanga, Talanoa",6003,199,32,9 7/8,35 1/2,"10'08""",DB,72.375,32,9.875,128,NA
+FS,"Johnson, Jamar",5117,205,30 1/8,9 1/4,35,"10'02""",DB,71.875,30.125,9.25,122,35
+SS,"LeCounte, Richard",5014,196,31 5/8,9,32 1/2,"10'08""",DB,61.5,31.625,9,128,NA
+FS,"Moehrig, Trevon",6005,202,30 5/8,9 3/4,33,NA,DB,72.625,30.625,9.75,NA,33
+SS,"Nasirildeen, Hamsah",6032,215,34 1/4,10,32,NA,DB,75.25,34.25,10,NA,32
+FS,"Norwood, Tre",5115,192,29 3/8,9 3/8,33 1/2,"10'03""",DB,71.625,29.375,9.375,123,NA
+SS,"Sherwood, Jamien",6016,216,34,10,36,"10'03""",DB,73.75,34,10,123,36
+FS,"Sterns, Caden",5117,202,32 1/8,9 1/2,42,"10'08""",DB,71.875,32.125,9.5,128,42
+SS,"Uphoff, Christian",6020,209,30 3/4,10,33,"10'00""",DB,74,30.75,10,120,33
+FS,"Wiggins, James",5112,209,29,9 3/4,38,"10'07""",DB,71.25,29,9.75,127,38
+K,"Borregales, Jose",5100,206,29,9 1/2,NA,NA,SPEC,70,29,9.5,NA,NA
+P,"Chrisman, Drue",6026,209,33 1/8,9 1/2,NA,NA,SPEC,74.75,33.125,9.5,NA,NA
+P,"Duffy, Max",6006,196,29 5/8,8 7/8,NA,NA,SPEC,72.75,29.625,8.875,NA,NA
+LS,"Fletcher, Thomas",6006,236,31 1/2,9 5/8,33 1/2,"09'01""",SPEC,72.75,31.5,9.625,109,NA
+P,"Harvin III, Pressley",5111,263,32 1/8,9 3/8,NA,NA,SPEC,71.125,32.125,9.375,NA,NA
+K,"Haubeil, Blake",6036,233,32 3/8,8 7/8,NA,NA,SPEC,75.75,32.375,8.875,NA,NA
+K,"McPherson, Evan",5110,185,29,9 1/8,NA,NA,SPEC,71,29,9.125,NA,NA
+K,"Patterson, Riley",5102,181,30 1/2,8 3/8,NA,NA,SPEC,70.25,30.5,8.375,NA,NA
+P,"Smith, James",6046,231,32 5/8,8 7/8,NA,NA,SPEC,76.75,32.625,8.875,NA,NA
+"Coan, Jack",6032,218,31 1/8,9 1/2,33.0,"9'7""",QB,NA,NA,9.5,33,NA,NA
+"Corral, Matt",6015,212,30 3/4,9 5/8,NA,NA,QB,NA,NA,9.625,NA,NA,NA
+"Crum, Dustin",6010,210,31 3/4,9 3/8,32.5,NA,QB,NA,NA,9.375,32.5,NA,NA
+"Eleby, Kaleb",6006,210,30 5/8,9 1/4,25.5,"9'3""",QB,NA,NA,9.25,25.5,NA,NA
+"Howell, Sam",6005,218,30 3/4,9 1/8,NA,NA,QB,NA,NA,9.125,NA,NA,NA
+"Kelley, Cole",6073,249,33 3/4,9 7/8,NA,NA,QB,NA,NA,9.875,NA,NA,NA
+"King, D’Eriq",5086,196,28 7/8,9 1/4,NA,NA,QB,NA,NA,9.25,NA,NA,NA
+"Perry, EJ",6015,211,32 1/4,8 3/4,NA,"10'3""",QB,NA,NA,8.75,NA,NA,NA
+"Pickett, Kenny",6032,217,30 7/8,8 1/2,33.5,"10'1""",QB,NA,NA,8.5,33.5,NA,NA
+"Purdy, Brock",6005,212,29,9 1/4,27.0,"10'7""",QB,NA,NA,9.25,27,NA,NA
+"Ridder, Desmond",6033,211,32 3/4,10,36.0,"10'7""",QB,NA,NA,10,36,NA,NA
+"Strong, Carson",6033,226,32,9 1/8,NA,NA,QB,NA,NA,9.125,NA,NA,NA
+"Thompson, Skylar",6017,217,31,8 5/8,31.0,"9'4""",QB,NA,NA,8.625,31,NA,NA
+"Willis, Malik",6004,219,31 3/4,9 1/2,NA,NA,QB,NA,NA,9.5,NA,NA,NA
+"Zappe, Bailey",6004,215,31 1/4,9 3/4,30.0,"9'1""",QB,NA,NA,9.75,30,NA,NA
+"Austin, Calvin",5076,170,30,9 1/4,39.0,"11'3""",WO,NA,NA,9.25,39,NA,NA
+"Austin Jr., Kevin",6023,200,32 7/8,9,39.0,"11'0""",WO,NA,NA,9,39,NA,NA
+"Bell, David",6007,212,31 7/8,9 1/4,33.0,"9'10""",WO,NA,NA,9.25,33,NA,NA
+"Bolden, Slade",5105,193,29 3/8,9 3/4,32.0,"9'8""",WO,NA,NA,9.75,32,NA,NA
+"Burks, Treylon",6020,225,33 1/2,9 7/8,33.0,"10'2""",WO,NA,NA,9.875,33,NA,NA
+"Dixon, Dai’Jean",6025,205,32 5/8,9 5/8,34.0,"10'5""",WO,NA,NA,9.625,34,NA,NA
+"Dotson, Jahan",5015,178,30 3/4,9 1/2,36.0,"10'1""",WO,NA,NA,9.5,36,NA,NA
+"Doubs, Romeo",6017,201,32 1/4,10,NA,NA,WO,NA,NA,10,NA,NA,NA
+"Drummond, Dontario",6017,215,31 1/2,9 1/4,34.0,"10'2""",WO,NA,NA,9.25,34,NA,NA
+"Ezukanma, Erik",6017,209,33 1/2,9 3/8,36.5,"10'6""",WO,NA,NA,9.375,36.5,NA,NA
+"Fryfogle, Ty",6011,204,30 3/4,9 3/4,39.0,"10'7""",WO,NA,NA,9.75,39,NA,NA
+"Gray, Danny",5117,186,31 7/8,9 5/8,34.0,"10'6""",WO,NA,NA,9.625,34,NA,NA
+"Johnson, Josh",5104,183,31 7/8,8 5/8,NA,NA,WO,NA,NA,8.625,NA,NA,NA
+"Johnson III, Johnny",5117,197,30 1/2,9 3/4,32.0,"10'1""",WO,NA,NA,9.75,32,NA,NA
+"Jones, Velus",5116,204,30 7/8,9 3/4,33.0,"10'1""",WO,NA,NA,9.75,33,NA,NA
+"London, Drake",6037,219,33,9 3/8,NA,NA,WO,NA,NA,9.375,NA,NA,NA
+"Melton, Bo",5110,189,31 1/4,9,38.0,"10'1""",WO,NA,NA,9,38,NA,NA
+"Metchie, John",5112,187,30 5/8,9 1/4,NA,NA,WO,NA,NA,9.25,NA,NA,NA
+"Moore, Skyy",5095,195,31,10 1/4,34.5,"10'5""",WO,NA,NA,10.25,34.5,NA,NA
+"Nailor, Jalen",5112,186,30 1/4,9 1/8,38.0,"10'8""",WO,NA,NA,9.125,38,NA,NA
+"Olave, Chris",6003,187,31 1/8,9 1/2,32.0,"10'4""",WO,NA,NA,9.5,32,NA,NA
+"Philips, Kyle",5112,189,29 5/8,8 5/8,33.5,"10'4""",WO,NA,NA,8.625,33.5,NA,NA
+"Pickens, George",6032,195,32 3/8,8 3/4,33.0,"10'5""",WO,NA,NA,8.75,33,NA,NA
+"Pierce, Alec",6031,211,33,9,40.5,"10'9""",WO,NA,NA,9,40.5,NA,NA
+"Polk, Makai",6031,195,32 1/4,9 1/2,31.0,"9'11""",WO,NA,NA,9.5,31,NA,NA
+"Rambo, Charleston",6005,177,32,9 3/4,33.5,"9'10""",WO,NA,NA,9.75,33.5,NA,NA
+"Roberson Jr., Reggie",5110,192,32 5/8,9 1/2,29.0,"9'6""",WO,NA,NA,9.5,29,NA,NA
+"Robinson, Wan’Dale",5080,178,27 5/8,9,34.5,"9'10""",WO,NA,NA,9,34.5,NA,NA
+"Ross, Justyn",6035,205,32 1/8,9 5/8,NA,NA,WO,NA,NA,9.625,NA,NA,NA
+"Sanders, Braylon",6001,194,31 1/2,10,34.5,"10'1""",WO,NA,NA,10,34.5,NA,NA
+"Shakir, Khalil",5117,196,29,9 1/2,34.5,"10'4""",WO,NA,NA,9.5,34.5,NA,NA
+"Thornton, Tyquan",6023,181,33 1/4,8 1/4,36.5,"10'10""",WO,NA,NA,8.25,36.5,NA,NA
+"Tolbert, Jalen",6011,194,32 1/4,10,36.0,"10'3""",WO,NA,NA,10,36,NA,NA
+"Turner, Tré",6013,184,30 3/4,8 1/2,30.0,"9'5""",WO,NA,NA,8.5,30,NA,NA
+"Watson, Christian",6041,208,32 1/2,10 1/8,38.5,"11'4""",WO,NA,NA,10.125,38.5,NA,NA
+"Weston, Isaiah",6034,214,32 1/2,9 1/2,40.0,"11'3""",WO,NA,NA,9.5,40,NA,NA
+"Williams, Devon",6050,210,34 1/8,9 7/8,33.0,"11'1""",WO,NA,NA,9.875,33,NA,NA
+"Williams, Jameson",6014,179,32 1/8,9 1/4,NA,NA,WO,NA,NA,9.25,NA,NA,NA
+"Wilson, Garrett",5116,183,32,9 7/8,34.0,"10'3""",WO,NA,NA,9.875,34,NA,NA
+"Woods, Mike",6011,204,33,9 5/8,36.0,"10'5""",WO,NA,NA,9.625,36,NA,NA
+"Allgeier, Tyler",5106,224,31 1/2,9 5/8,33.0,"10'0""",RB,NA,NA,9.625,33,NA,NA
+"Badie, Tyler",5080,197,29 3/8,9 1/8,33.5,"10'1""",RB,NA,NA,9.125,33.5,NA,NA
+"Bell, Greg",5104,201,30 7/8,9 3/8,31.0,"10'0""",RB,NA,NA,9.375,31,NA,NA
+"Borghi, Max",5093,210,29 5/8,9 1/8,NA,NA,RB,NA,NA,9.125,NA,NA,NA
+"Brooks, Kennedy",5105,209,30 1/4,7 5/8,31.0,"10'0""",RB,NA,NA,7.625,31,NA,NA
+"Brown, Leddie",6001,213,31 3/8,9 3/4,30.0,"9'10""",RB,NA,NA,9.75,30,NA,NA
+"Chandler, Ty",5112,204,32 1/8,9,31.0,"10'1""",RB,NA,NA,9,31,NA,NA
+"Conner, Snoop",5101,222,30 1/4,9 1/4,29.5,"9'10""",RB,NA,NA,9.25,29.5,NA,NA
+"Cook, James",5110,199,30 3/4,9 3/8,33.0,"10'4""",RB,NA,NA,9.375,33,NA,NA
+"Corbin, Jashaun",5111,202,31 1/2,9 1/2,NA,NA,RB,NA,NA,9.5,NA,NA,NA
+"Davis-Price, Ty",6003,211,30 3/4,9 1/4,30.0,"9'9""",RB,NA,NA,9.25,30,NA,NA
+"Ealy, Jerrion",5081,189,29 1/8,8 1/2,34.5,"10'8""",RB,NA,NA,8.5,34.5,NA,NA
+"Ebner, Trestan",5106,206,29 3/4,8 1/2,30.0,NA,RB,NA,NA,8.5,30,NA,NA
+"Ford, Jerome",5104,210,30 5/8,9 1/8,31.0,"9'10""",RB,NA,NA,9.125,31,NA,NA
+"Goodson, Tyler",5090,197,29 1/2,9,36.5,"10'3""",RB,NA,NA,9,36.5,NA,NA
+"Hall, Breece",5112,217,31 1/4,9 3/4,40.0,"10'6""",RB,NA,NA,9.75,40,NA,NA
+"Harris, Kevin",5097,221,31 1/4,9 1/4,38.5,"10'6""",RB,NA,NA,9.25,38.5,NA,NA
+"Haskins, Hassan",6016,228,31 3/4,9 1/4,NA,NA,RB,NA,NA,9.25,NA,NA,NA
+"Ingram, Keaontay",5116,221,31 1/2,9,34.5,"10'2""",RB,NA,NA,9,34.5,NA,NA
+"Knight, Bam",5107,209,30 1/2,9 1/4,31.0,"9'6""",RB,NA,NA,9.25,31,NA,NA
+"McCormick, Sincere",5081,205,29 7/8,9 1/8,33.5,"9'8""",RB,NA,NA,9.125,33.5,NA,NA
+"Pacheco, Isaih",5103,216,30 1/2,9 1/4,33.0,"9'11""",RB,NA,NA,9.25,33,NA,NA
+"Pierce, Dameon",5095,218,30 3/4,9 3/8,34.5,"9'11""",RB,NA,NA,9.375,34.5,NA,NA
+"Price, D’vonte",6013,210,31 1/2,9 3/8,34.0,"9'11""",RB,NA,NA,9.375,34,NA,NA
+"Rivers, Ronnie",5074,195,28,8 1/2,36.5,"9'11""",RB,NA,NA,8.5,36.5,NA,NA
+"Robinson, Brian",6015,225,31 7/8,9 3/4,30.0,"9'11""",RB,NA,NA,9.75,30,NA,NA
+"Smith, Abram",5115,213,30 1/4,8 1/4,NA,NA,RB,NA,NA,8.25,NA,NA,NA
+"Spiller, Isaiah",6003,217,31 3/4,8 5/8,NA,"9'6""",RB,NA,NA,8.625,NA,NA,NA
+"Strong, Pierre",5113,207,31 7/8,9 1/4,36.0,"10'4""",RB,NA,NA,9.25,36,NA,NA
+"Verdell, CJ",5076,194,29 1/4,9 1/2,29.5,"9'10""",RB,NA,NA,9.5,29.5,NA,NA
+"Walker III, Kenny",5092,211,30 3/8,9 1/2,34.0,"10'2""",RB,NA,NA,9.5,34,NA,NA
+"Warren, Jaylen",5080,204,29 7/8,9 1/4,31.5,"9'11""",RB,NA,NA,9.25,31.5,NA,NA
+"White, Rachaad",6003,214,31 1/4,9 3/4,38.0,"10'5""",RB,NA,NA,9.75,38,NA,NA
+"White, Zamir",5116,214,31 1/2,8 1/2,33.5,"10'8""",RB,NA,NA,8.5,33.5,NA,NA
+"White, ZaQuandre",6001,206,30 3/4,9,NA,NA,RB,NA,NA,9,NA,NA,NA
+"Williams, Kyren",5092,194,28 5/8,9,32.0,"9'8""",RB,NA,NA,9,32,NA,NA
+"Allen, Austin",6075,253,33 5/8,9 1/2,34.0,"10'1""",TE,NA,NA,9.5,34,NA,NA
+"Allen, Chase",6060,251,34 1/8,9 5/8,33.5,"9'9""",TE,NA,NA,9.625,33.5,NA,NA
+"Bellinger, Daniel",6047,253,32 1/2,10 1/8,34.5,"10'5""",TE,NA,NA,10.125,34.5,NA,NA
+"Calcattera, Grant",6037,241,33 1/4,10,NA,NA,TE,NA,NA,10,NA,NA,NA
+"Dulcich, Greg",6040,243,33 3/8,9 7/8,34.0,"10'2""",TE,NA,NA,9.875,34,NA,NA
+"Ferguson, Jake",6047,250,32 5/8,9 1/2,31.5,"9'10""",TE,NA,NA,9.5,31.5,NA,NA
+"Hall, Jeremiah",6014,239,31 5/8,10 1/2,29.0,"9'3""",TE,NA,NA,10.5,29,NA,NA
+"Hendershot, Peyton",6041,250,32 5/8,9,32.5,"9'9""",TE,NA,NA,9,32.5,NA,NA
+"Heyward, Connor",5111,233,31 7/8,9 1/2,32.5,NA,TE,NA,NA,9.5,32.5,NA,NA
+"Hodges, Curtis",6076,257,34 1/2,9 5/8,34.5,"9'9""",TE,NA,NA,9.625,34.5,NA,NA
+"Kolar, Charlie",6064,252,34 1/2,10,NA,NA,TE,NA,NA,10,NA,NA,NA
+"Likely, Isaiah",6044,245,31 7/8,10,36.0,NA,TE,NA,NA,10,36,NA,NA
+"McBride, Trey",6035,246,32 1/2,10 1/8,33.0,"9'9""",TE,NA,NA,10.125,33,NA,NA
+"Mitchell, James",6040,249,32 7/8,9 3/4,NA,NA,TE,NA,NA,9.75,NA,NA,NA
+"Okonkwo, Chig",6024,238,32 3/4,9 3/4,35.5,NA,TE,NA,NA,9.75,35.5,NA,NA
+"Otton, Cade",6050,247,32 3/4,9 1/2,NA,NA,TE,NA,NA,9.5,NA,NA,NA
+"Quitoriano, Teagan",6056,256,33 1/2,9 1/4,NA,NA,TE,NA,NA,9.25,NA,NA,NA
+"Ruckert, Jeremy",6054,252,32 5/8,10 1/8,NA,NA,TE,NA,NA,10.125,NA,NA,NA
+"Turner, Cole",6064,249,33,9 3/4,27.0,"10'0""",TE,NA,NA,9.75,27,NA,NA
+"Woods, Jelani",6071,253,34 1/2,9 1/2,NA,NA,TE,NA,NA,9.5,NA,NA,NA
+"Wydermyer, Jalen",6037,255,33 1/8,9 3/4,NA,NA,TE,NA,NA,9.75,NA,NA,NA
+"Andries, Blaise",6062,308,33 7/8,9 7/8,NA,"8'10""",OL,NA,NA,9.875,NA,NA,NA
+"Brown, Ben",6051,312,34 3/8,10 1/4,NA,NA,OL,NA,NA,10.25,NA,NA,NA
+"Bruss, Logan",6050,309,33 1/8,10 3/4,NA,"9'4""",OL,NA,NA,10.75,NA,NA,NA
+"Burford, Spencer",6041,304,34 3/4,9 1/2,27.5,"8'9""",OL,NA,NA,9.5,27.5,NA,NA
+"Carter, Ja’Tyre",6033,311,33 5/8,10 1/4,30.0,"9'0""",OL,NA,NA,10.25,30,NA,NA
+"Cross, Charles",6046,307,34 1/2,10 3/4,26.0,"9'4""",OL,NA,NA,10.75,26,NA,NA
+"Cunningham, Myron",6052,320,34 1/2,10 3/8,20.0,"8'2""",OL,NA,NA,10.375,20,NA,NA
+"Deaton, Dawson",6054,306,32 7/8,9 5/8,29.0,"9'0""",OL,NA,NA,9.625,29,NA,NA
+"Deculus, Austin",6050,321,34 3/8,9 1/4,28.5,"9'1""",OL,NA,NA,9.25,28.5,NA,NA
+"Diesch, Kellen",6071,301,32 1/4,9 1/2,32.5,"9'2""",OL,NA,NA,9.5,32.5,NA,NA
+"Dunkle, Bill",6047,328,33 5/8,10 1/4,26.0,"7'11""",OL,NA,NA,10.25,26,NA,NA
+"Ekwonu, Ickey",6040,310,34,10 1/4,29.0,"9'0""",OL,NA,NA,10.25,29,NA,NA
+"Eze, Obinna",6064,321,36 1/8,9 7/8,27.5,"8'8""",OL,NA,NA,9.875,27.5,NA,NA
+"Ezeudu, Joshua",6042,308,34,9 1/2,29.0,"8'9""",OL,NA,NA,9.5,29,NA,NA
+"Faalele, Daniel",6080,384,35 1/8,11,NA,NA,OL,NA,NA,11,NA,NA,NA
+"Fortner, Luke",6041,307,33 1/8,10,24.0,"8'6""",OL,NA,NA,10,24,NA,NA
+"Goedeke, Luke",6050,312,32 1/4,9 3/4,NA,NA,OL,NA,NA,9.75,NA,NA,NA
+"Green, Kenyon",6037,323,34 1/8,10 3/8,26.0,"8'6""",OL,NA,NA,10.375,26,NA,NA
+"Hayes, Marquis",6047,318,34 7/8,8 7/8,23.5,"8'6""",OL,NA,NA,8.875,23.5,NA,NA
+"Hines, Chasen",6026,327,33 7/8,9 7/8,30.5,"9'0""",OL,NA,NA,9.875,30.5,NA,NA
+"Ingram, Ed",6032,307,33 5/8,10,28.5,"8'6""",OL,NA,NA,10,28.5,NA,NA
+"Johnson, Zion",6025,312,34,10 5/8,32.0,"9'4""",OL,NA,NA,10.625,32,NA,NA
+"Jones, Braxton",6052,310,35 3/8,10 1/4,25.5,"9'0""",OL,NA,NA,10.25,25.5,NA,NA
+"Jurgens, Cam",6027,303,33 3/8,10,NA,"8'9""",OL,NA,NA,10,NA,NA,NA
+"Kinnard, Darian",6053,322,35,11 1/4,25.0,"8'3""",OL,NA,NA,11.25,25,NA,NA
+"Linderbaum, Tyler",6021,296,31 1/8,10,NA,NA,OL,NA,NA,10,NA,NA,NA
+"Lindstrom, Alec",6033,296,32 5/8,9 1/4,29.0,"9'3""",OL,NA,NA,9.25,29,NA,NA
+"Lowe, Vederian",6045,314,35 3/8,10 3/8,25.5,"8'3""",OL,NA,NA,10.375,25.5,NA,NA
+"Lucas, Abraham",6063,315,33 7/8,10 1/2,NA,"8'11""",OL,NA,NA,10.5,NA,NA,NA
+"Mays, Cade",6046,311,34 1/8,10,26.0,"8'6""",OL,NA,NA,10,26,NA,NA
+"McKethan, Marcus",6064,340,35 1/2,10 1/2,27.5,"9'2""",OL,NA,NA,10.5,27.5,NA,NA
+"Mitchell, Max",6062,307,33 1/2,10,25.0,"8'10""",OL,NA,NA,10,25,NA,NA
+"Munford Jr., Thayer",6056,328,35 1/8,10 1/8,22.0,"8'8""",OL,NA,NA,10.125,22,NA,NA
+"Neal, Evan",6074,337,34,10 1/8,NA,NA,OL,NA,NA,10.125,NA,NA,NA
+"Parham, Dylan",6025,311,33 1/8,10 1/4,26.5,"9'0""",OL,NA,NA,10.25,26.5,NA,NA
+"Paul, Chris",6037,323,33 5/8,9 3/8,27.0,"9'1""",OL,NA,NA,9.375,27,NA,NA
+"Penning, Trevor",6071,325,34 1/4,10 1/8,28.0,"9'3""",OL,NA,NA,10.125,28,NA,NA
+"Petit-Frere, Nick",6051,316,33 5/8,10 3/4,24.5,"8'7""",OL,NA,NA,10.75,24.5,NA,NA
+"Raimann, Bernhard",6061,303,32 7/8,10 1/4,30.5,"9'9""",OL,NA,NA,10.25,30.5,NA,NA
+"Rhyan, Sean",6045,321,32 3/8,11 1/8,33.5,"9'2""",OL,NA,NA,11.125,33.5,NA,NA
+"Robinson, Tyrese",6027,317,33 1/8,9 3/4,22.5,"8'4""",OL,NA,NA,9.75,22.5,NA,NA
+"Rosenthal, Dare",6066,290,33 1/2,9,NA,NA,Ol,NA,NA,9,NA,NA,NA
+"Rupcich, Andrew",6060,318,32 7/8,9 1/2,27.5,"9'0""",OL,NA,NA,9.5,27.5,NA,NA
+"Salyer, Jamaree",6030,321,33 5/8,10,NA,NA,OL,NA,NA,10,NA,NA,NA
+"Shaffer, Justin",6037,314,33 1/4,10,25.5,"8'11""",OL,NA,NA,10,25.5,NA,NA
+"Smith, Lecitus",6032,314,31 7/8,9 5/8,NA,"8'3""",OL,NA,NA,9.625,NA,NA,NA
+"Smith, Tyler",6045,324,34,10 3/4,27.5,"8'9""",OL,NA,NA,10.75,27.5,NA,NA
+"Strange, Cole",6047,307,33,10 1/8,28.0,"10'0""",OL,NA,NA,10.125,28,NA,NA
+"Stueber, Andrew",6065,325,34 1/8,10,NA,"8'5""",OL,NA,NA,10,NA,NA,NA
+"Tenuta, Luke",6080,319,32 7/8,10 1/8,26.0,"8'8""",OL,NA,NA,10.125,26,NA,NA
+"Thomas, Zach",6047,308,33 7/8,10 1/4,22.5,"8'11""",OL,NA,NA,10.25,22.5,NA,NA
+"Tom, Zach",6042,304,33 1/4,10 3/8,33.0,"9'10""",OL,NA,NA,10.375,33,NA,NA
+"Volson, Cordell",6061,315,33 7/8,10 1/2,25.0,"8'8""",OL,NA,NA,10.5,25,NA,NA
+"Waletzko, Matt",6075,312,36 1/8,10 1/4,30.0,"9'5""",OL,NA,NA,10.25,30,NA,NA
+"Walker, Rasheed",6055,313,33 5/8,10 5/8,NA,NA,OL,NA,NA,10.625,NA,NA,NA
+"Wattenberg, Luke",6040,299,34 1/8,9 3/8,29.5,"9'5""",OL,NA,NA,9.375,29.5,NA,NA
+"West, Dohnovan",6032,296,33,9 1/2,28.0,"9'4""",OL,NA,NA,9.5,28,NA,NA
+"Zakelj, Nick",6061,316,32 1/2,9 7/8,28.5,"9'2""",OL,NA,NA,9.875,28.5,NA,NA
+"Bonitto, Nik",6030,248,32 1/2,9 3/8,35.5,"10'0""",DL,NA,NA,9.375,35.5,NA,NA
+"Butler, Matthew",6037,297,33 1/2,9 1/4,32.0,"9'4""",DL,NA,NA,9.25,32,NA,NA
+"Carter, Zach",6042,282,33 1/2,10 1/4,27.5,"9'2""",DL,NA,NA,10.25,27.5,NA,NA
+"Davidson, DJ",6033,327,33,10 1/8,28.0,NA,DL,NA,NA,10.125,28,NA,NA
+"Davis, Jordan",6063,341,34,10 3/4,32.0,"10'3""",DL,NA,NA,10.75,32,NA,NA
+"Davis, Kalia",6010,302,33 5/8,9 1/2,NA,NA,DL,NA,NA,9.5,NA,NA,NA
+"Elliss, Noah",6042,346,32 1/4,10 3/8,NA,NA,DL,NA,NA,10.375,NA,NA,NA
+"Farrell, Neil",6041,330,32 1/4,10 1/8,21.5,NA,DL,NA,NA,10.125,21.5,NA,NA
+"Ford, Jonathan",6051,333,32 3/4,9 1/4,29.0,"8'6""",DL,NA,NA,9.25,29,NA,NA
+"Garrett, Haskell",6021,300,31 5/8,9 7/8,24.0,NA,DL,NA,NA,9.875,24,NA,NA
+"Hall, Logan",6061,283,32 3/4,9 5/8,30.0,NA,DL,NA,NA,9.625,30,NA,NA
+"Hinton, Chris",6035,305,32 3/8,10 1/2,31.5,"8'10""",DL,NA,NA,10.5,31.5,NA,NA
+"Jackson, Jordan",6044,294,33 3/4,9 3/8,NA,NA,DL,NA,NA,9.375,NA,NA,NA
+"Jones, Travis",6043,325,34 1/4,10 1/4,28.5,"9'2""",DL,NA,NA,10.25,28.5,NA,NA
+"Leal, DeMarvin",6037,283,33 1/4,9 1/2,27.5,"8'10""",DL,NA,NA,9.5,27.5,NA,NA
+"Mathis, Phidarian",6042,310,34 5/8,10 3/8,23.5,"9'1""",DL,NA,NA,10.375,23.5,NA,NA
+"McCall, Marquan",6025,342,33 1/4,11,NA,NA,DL,NA,NA,11,NA,NA,NA
+"Ogbonnia, Otito",6036,324,34 3/8,10,NA,NA,DL,NA,NA,10,NA,NA,NA
+"Peevy, Jayden",6053,308,35 1/2,10 1/2,27.0,"8'4""",DL,NA,NA,10.5,27,NA,NA
+"Ridgeway, John",6051,321,33 3/8,10,NA,"8'5""",DL,NA,NA,10,NA,NA,NA
+"Uwazurike, Eyioma",6061,316,35 1/8,10 1/8,33.0,"8'11""",DL,NA,NA,10.125,33,NA,NA
+"Winfrey, Perrion",6035,290,35 1/4,10 1/4,NA,NA,DL,NA,NA,10.25,NA,NA,NA
+"Wyatt, Devonte",6027,304,32 5/8,9 7/8,29.0,"9'3""",DL,NA,NA,9.875,29,NA,NA
+"Barno, Amaré",6045,246,34,9,37.0,"10'11""",DL,NA,NA,9,37,NA,NA
+"Booker, Thomas",6033,301,33 1/4,10 5/8,NA,"9'2""",DL,NA,NA,10.625,NA,NA,NA
+"Clemons, Micheal",6052,263,34 7/8,10,24.0,"9'8""",DL,NA,NA,10,24,NA,NA
+"Ebiketie, Arnold",6023,250,34 1/8,10 1/4,38.0,"10'8""",DL,NA,NA,10.25,38,NA,NA
+"Enagbare, Kingsley",6036,258,34 3/4,10 5/8,36.5,"9'9""",DL,NA,NA,10.625,36.5,NA,NA
+"Gunter, Jeffrey",6043,258,33,9 1/4,35.5,"10'2""",DL,NA,NA,9.25,35.5,NA,NA
+"Hutchinson, Aidan",6065,260,32 1/8,10 1/4,36.0,"9'9""",DL,NA,NA,10.25,36,NA,NA
+"Johnson, Tyree",6024,248,30 7/8,9 3/4,NA,NA,DL,NA,NA,9.75,NA,NA,NA
+"Karlaftis, George",6036,266,32 5/8,10 1/4,38.0,"10'1""",DL,NA,NA,10.25,38,NA,NA
+"Luketa, Jesse",6027,253,32 5/8,10 3/8,37.5,"9'6""",DL,NA,NA,10.375,37.5,NA,NA
+"Malone, DeAngelo",6032,243,33 1/8,9 7/8,NA,NA,DL,NA,NA,9.875,NA,NA,NA
+"Ojabo, David",6040,250,33 1/2,9,35.0,"10'2""",DL,NA,NA,9,35,NA,NA
+"Otomewo, Esezi",6052,282,34 1/2,9,NA,NA,DL,NA,NA,9,NA,NA,NA
+"Paschal, Joshua",6025,268,32 3/4,9 5/8,37.5,"10'3""",DL,NA,NA,9.625,37.5,NA,NA
+"Ray, LaBryan",6042,283,32 5/8,8 1/2,NA,NA,DL,NA,NA,8.5,NA,NA,NA
+"Robinson, Dominique",6047,253,33 1/4,9 3/4,41.0,"10'1""",DL,NA,NA,9.75,41,NA,NA
+"Sanders, Myjai",6052,228,32 5/8,9 1/4,33.0,"10'0""",DL,NA,NA,9.25,33,NA,NA
+"Smith, Tyreke",6033,254,33 1/4,10 1/4,34.0,"9'9""",DL,NA,NA,10.25,34,NA,NA
+"Tagovailoa-Amosa, Myron",6022,270,32 5/8,9 5/8,29.0,"9'7""",DL,NA,NA,9.625,29,NA,NA
+"Thibodeaux, Kayvon",6040,254,33 1/8,9 3/4,NA,NA,DL,NA,NA,9.75,NA,NA,NA
+"Thomas, Cameron",6041,267,32 1/2,10 1/4,NA,NA,DL,NA,NA,10.25,NA,NA,NA
+"Thomas, Isaiah",6047,266,33 1/4,10 1/4,31.5,"9'9""",DL,NA,NA,10.25,31.5,NA,NA
+"Walker, Travon",6050,272,35 1/2,10 3/4,35.5,"10'3""",DL,NA,NA,10.75,35.5,NA,NA
+"Williams, Sam",6035,261,33 1/8,9 7/8,32.5,"10'3""",DL,NA,NA,9.875,32.5,NA,NA
+"Wright, Alex",6051,271,34,9 1/4,NA,NA,DL,NA,NA,9.25,NA,NA,NA
+"Allen, Christopher",6034,241,33,10,NA,NA,LB,NA,NA,10,NA,NA,NA
+"Andersen, Troy",6034,243,32 1/8,9 1/4,36.0,"10'8""",LB,NA,NA,9.25,36,NA,NA
+"Asamoah, Brian",6002,226,32 5/8,10,36.5,"10'4""",LB,NA,NA,10,36.5,NA,NA
+"Beavers, Darrian",6036,237,32 3/8,9 3/4,36.5,"10'5""",LB,NA,NA,9.75,36.5,NA,NA
+"Bernard, Terrel",6007,224,30 1/4,9 5/8,35.5,"10'3""",LB,NA,NA,9.625,35.5,NA,NA
+"Butler, Darien",5101,221,30 1/8,9 3/8,NA,NA,LB,NA,NA,9.375,NA,NA,NA
+"Campbell, Chance",6023,232,31 1/4,10 1/8,39.5,"10'7""",LB,NA,NA,10.125,39.5,NA,NA
+"Chenal, Leo",6025,250,31,9 3/4,40.5,"10'8""",LB,NA,NA,9.75,40.5,NA,NA
+"Clark, Damone",6024,239,33,9 3/4,36.5,"10'7""",LB,NA,NA,9.75,36.5,NA,NA
+"Dean, Nakobe",5112,229,31 7/8,9 1/8,NA,NA,LB,NA,NA,9.125,NA,NA,NA
+"Domann, JoJo",6012,228,30 3/8,9 1/2,34.5,"9'11""",LB,NA,NA,9.5,34.5,NA,NA
+"Gemmel, Jeremiah",6006,226,31 3/4,9 1/4,NA,NA,LB,NA,NA,9.25,NA,NA,NA
+"Graham-Mobley, Isaiah",6010,230,32,9 1/4,34.5,"10'4""",LB,NA,NA,9.25,34.5,NA,NA
+"Hansen, Jake",6007,238,32 3/8,9 3/4,NA,NA,LB,NA,NA,9.75,NA,NA,NA
+"Hansford, Aaron",6022,239,32 3/8,10 1/8,NA,NA,LB,NA,NA,10.125,NA,NA,NA
+"Harris, Christian",6004,226,32 1/8,9 5/8,34.5,"11'0""",LB,NA,NA,9.625,34.5,NA,NA
+"Jackson, D’Marco",6006,233,32 1/2,9 1/4,33.0,"10'5""",LB,NA,NA,9.25,33,NA,NA
+"Jackson, Drake",6025,254,34,10 1/8,36.5,"10'7""",LB,NA,NA,10.125,36.5,NA,NA
+"Johnson II, Jermaine",6045,254,34,9 7/8,32.0,"10'5""",LB,NA,NA,9.875,32,NA,NA
+"Landman, Nate",6024,238,30 1/2,9 3/8,36.5,"9'11""",LB,NA,NA,9.375,36.5,NA,NA
+"Lloyd, Devin",6026,237,33,9 1/2,35.0,"10'6""",LB,NA,NA,9.5,35,NA,NA
+"Mafe, Boye",6036,261,32 5/8,9 7/8,38.0,"10'5""",LB,NA,NA,9.875,38,NA,NA
+"McClain, Zakoby",5114,228,31 3/4,9 1/4,33.0,"9'9""",LB,NA,NA,9.25,33,NA,NA
+"McFadden, Micah",6010,240,31 1/4,9 1/2,NA,NA,LB,NA,NA,9.5,NA,NA,NA
+"Moon, Jeremiah",6046,249,35,10 1/8,40.5,"11'1""",LB,NA,NA,10.125,40.5,NA,NA
+"Muma, Chad",6030,239,31 5/8,10,40.0,"10'9""",LB,NA,NA,10,40,NA,NA
+"Rodriguez, Malcolm",5110,232,30 1/8,9 5/8,39.5,"10'0""",LB,NA,NA,9.625,39.5,NA,NA
+"Rose, Mike",6040,245,33 1/4,10 1/8,34.0,"10'1""",LB,NA,NA,10.125,34,NA,NA
+"Ross, Josh",6003,227,30 1/2,9 3/4,31.0,"9'1""",LB,NA,NA,9.75,31,NA,NA
+"Sanborn, Jack",6015,234,30 1/2,9 5/8,34.5,"9'6""",LB,NA,NA,9.625,34.5,NA,NA
+"Sewell, Nephi",5114,226,29 3/8,8 1/2,32.0,"10'0""",LB,NA,NA,8.5,32,NA,NA
+"Smith, Brandon",6034,250,34 5/8,10 1/4,37.5,"10'8""",LB,NA,NA,10.25,37.5,NA,NA
+"Spector, Baylon",6011,233,31 1/2,10,36.0,"10'2""",LB,NA,NA,10,36,NA,NA
+"Tindall, Channing",6017,230,32 7/8,10 5/8,42.0,"10'9""",LB,NA,NA,10.625,42,NA,NA
+"Walker, Quay",6036,241,32 5/8,9 1/4,32.0,"10'2""",LB,NA,NA,9.25,32,NA,NA
+"Williams, Tre",6041,252,33 3/4,10,26.5,"8'8""",LB,NA,NA,10,26.5,NA,NA
+"Armour-Davis, Jalyn",6005,197,30 7/8,9 1/4,34.5,NA,DB,NA,NA,9.25,34.5,NA,NA
+"Barnes, Kalon",5114,183,31 3/4,9 7/8,NA,NA,DB,NA,NA,9.875,NA,NA,NA
+"Booth, Andrew",6002,194,31 1/2,9 3/8,NA,NA,DB,NA,NA,9.375,NA,NA,NA
+"Brown, Montaric",6003,196,31 1/4,9 1/2,NA,NA,DB,NA,NA,9.5,NA,NA,NA
+"Bryant, Coby",6013,193,30 5/8,9 3/8,NA,NA,DB,NA,NA,9.375,NA,NA,NA
+"Castro-Fields, Tariq",6005,197,30 3/4,8 3/4,NA,NA,DB,NA,NA,8.75,NA,NA,NA
+"Durant, Cobie",5095,180,30 3/4,8 3/4,NA,NA,DB,NA,NA,8.75,NA,NA,NA
+"Elam, Kaiir",6014,191,30 7/8,8 7/8,NA,NA,DB,NA,NA,8.875,NA,NA,NA
+"Emerson, MJ",6015,201,33 1/2,10 1/8,NA,NA,DB,NA,NA,10.125,NA,NA,NA
+"Evans, Akayleb",6020,197,32,8 3/4,36.0,"10'9""",DB,NA,NA,8.75,36,NA,NA
+"Fields, DaMarcus",5115,193,31 1/4,9 1/8,34.5,NA,DB,NA,NA,9.125,34.5,NA,NA
+"Flott, Cordale",6004,175,30 1/8,8,NA,NA,DB,NA,NA,8,NA,NA,NA
+"Gardner, Sauce",6026,190,33 1/2,9 5/8,NA,NA,DB,NA,NA,9.625,NA,NA,NA
+"Goodrich, Mario",6002,176,30 5/8,9 1/8,NA,NA,DB,NA,NA,9.125,NA,NA,NA
+"Gordon, Kyler",5114,194,31,9 1/4,NA,NA,DB,NA,NA,9.25,NA,NA,NA
+"Gray, Vincent",6022,192,32 3/8,9 1/4,NA,NA,DB,NA,NA,9.25,NA,NA,NA
+"Jobe, Joshua",5114,182,32 5/8,9 1/4,NA,NA,DB,NA,NA,9.25,NA,NA,NA
+"Jones, Jack",5106,171,30 3/4,8 7/8,NA,NA,DB,NA,NA,8.875,NA,NA,NA
+"Jones, Marcus",5080,174,28 7/8,8 7/8,NA,NA,DB,NA,NA,8.875,NA,NA,NA
+"Kendrick, Derion",5117,194,31,9 1/8,NA,NA,DB,NA,NA,9.125,NA,NA,NA
+"Lucas, Chase",5112,180,31 7/8,9 1/4,39.0,"10'8""",DB,NA,NA,9.25,39,NA,NA
+"Mathis, Damarri",5110,196,31 7/8,8 1/4,NA,NA,DB,NA,NA,8.25,NA,NA,NA
+"McCollum, Zyon",6021,199,30 3/4,9,39.5,"11'0""",DB,NA,NA,9,39.5,NA,NA
+"McCreary, Roger",5113,190,28 7/8,9,NA,NA,DB,NA,NA,9,NA,NA,NA
+"McDuffie, Trent",5103,193,29 3/4,8 3/4,NA,NA,DB,NA,NA,8.75,NA,NA,NA
+"Steele, Chris",6003,187,31 1/8,8 3/4,37.5,"10'6""",DB,NA,NA,8.75,37.5,NA,NA
+"Stingley Jr., Derek",6002,190,30 5/8,9 5/8,NA,NA,DB,NA,NA,9.625,NA,NA,NA
+"Taylor, Alontae",6001,199,32 1/4,9 1/8,34.5,"10'8""",DB,NA,NA,9.125,34.5,NA,NA
+"Taylor-Britt, Cam",5105,196,31 1/2,10,NA,NA,DB,NA,NA,10,NA,NA,NA
+"Taylor-Stuart, Isaac",6014,201,31 1/2,9,NA,"10'3""",DB,NA,NA,9,NA,NA,NA
+"Thompson, Josh",5104,194,30 7/8,9 3/8,NA,NA,DB,NA,NA,9.375,NA,NA,NA
+"Waller, Jermaine",6001,180,31 1/8,9,NA,NA,DB,NA,NA,9,NA,NA,NA
+"Watson, Jaylen",6020,197,32 1/4,9 5/8,NA,NA,DB,NA,NA,9.625,NA,NA,NA
+"Webb, Sam",6004,201*,32 1/8,9 1/4,NA,NA,DB,NA,NA,9.25,NA,NA,NA
+"Williams, Joshua",6027,195,32 7/8,9 1/2,36.0,"10'4""",DB,NA,NA,9.5,36,NA,NA
+"Williams, Damarion",5102,182,29 5/8,8 3/4,34.5,"9'10""",DB,NA,NA,8.75,34.5,NA,NA
+"Woolen, Tariq",6041,205,33 5/8,9 1/8,42.0,NA,DB,NA,NA,9.125,42,NA,NA
+"Wright, Mykael",5104,173,30 1/2,9,NA,NA,DB,NA,NA,9,NA,NA,NA
+"Anderson, Tycen",6017,209,33,10 1/8,35.5,"10'3""",DB,NA,NA,10.125,35.5,NA,NA
+"Bell, Markquese",6021,212,32 3/8,9 3/8,36.5,"10'3""",DB,NA,NA,9.375,36.5,NA,NA
+"Belton, Dane",6005,205,31,9 1/8,36.5,"10'3""",DB,NA,NA,9.125,36.5,NA,NA
+"Bolden, Bubba",6021,209,31 3/8,9,NA,"9'8""",DB,NA,NA,9,NA,NA,NA
+"Brisker, Jaquan",6013,199,31 3/4,9 7/8,34.5,"10'4""",DB,NA,NA,9.875,34.5,NA,NA
+"Butler, Percy",6001,194,31 5/8,9 1/8,31.5,"10'3""",DB,NA,NA,9.125,31.5,NA,NA
+"Cine, Lewis",6022,199,32 1/4,9 3/8,36.5,"11'1""",DB,NA,NA,9.375,36.5,NA,NA
+"Cole, Qwynnterrio",5117,206,31 7/8,10 3/8,NA,NA,DB,NA,NA,10.375,NA,NA,NA
+"Cook, Bryan",6006,206,31 7/8,8 1/2,NA,NA,DB,NA,NA,8.5,NA,NA,NA
+"Corker, Yusuf",5114,203,31,9,NA,NA,DB,NA,NA,9,NA,NA,NA
+"Cross, Nick",6001,212,31 1/2,9,37.0,"10'10""",DB,NA,NA,9,37,NA,NA
+"Hamilton, Kyle",6041,220,33,9 1/8,38.0,"10'11""",DB,NA,NA,9.125,38,NA,NA
+"Harvell-Peel, Kolby",5114,213,31 1/8,9 3/4,NA,NA,DB,NA,NA,9.75,NA,NA,NA
+"Hill, Dax",6002,191,32 1/4,9 1/2,33.5,"10'1""",DB,NA,NA,9.5,33.5,NA,NA
+"Joseph, Kerby",6005,203,33,10 1/4,38.5,"10'3""",DB,NA,NA,10.25,38.5,NA,NA
+"Lake, Quentin",6011,201,31 1/4,9 1/8,NA,NA,DB,NA,NA,9.125,NA,NA,NA
+"McKinley III, Verone",5105,198,30 5/8,9 1/8,35.0,"10'0""",DB,NA,NA,9.125,35,NA,NA
+"Monday, Smoke",6010,207,32 1/2,9 1/8,NA,"10'4""",DB,NA,NA,9.125,NA,NA,NA
+"O’Neal, Leon",6004,204,31 5/8,10 1/4,35.0,10'5,DB,NA,NA,10.25,35,NA,NA
+"Pitre, Jalen",5110,198,30 5/8,9,35.0,NA,DB,NA,NA,9,35,NA,NA
+"Thomas, Juanyeh",6005,212,32 3/8,9 3/4,34.5,"10'2""",DB,NA,NA,9.75,34.5,NA,NA
+"Turner-Yell, Delarrin",5096,197,31 3/4,10,NA,"10'2""",DB,NA,NA,10,NA,NA,NA
+"Woods, JT",6106,195,32 3/8,8 1/2,39.5,"10'8""",DB,NA,NA,8.5,39.5,NA,NA
+"Adomitis, Cal",6012,234,30 1/4,9 3/4,29.5,"8'11""",ST,NA,NA,9.75,29.5,NA,NA
+"Araiza, Matt",6011,200,30 1/2,9 1/2,32,"10'1""",PK,NA,NA,9.5,32,NA,NA
+"Brkic, Gabe",6010,201,32 1/4,9 1/4,NA,NA,PK,NA,NA,9.25,NA,NA,NA
+"Camarda, Jake",6011,193,30 3/8,9 5/8,NA,NA,PK,NA,NA,9.625,NA,NA,NA
+"Dicker, Cameron",6001,219,30 1/4,8 7/8,NA,NA,PK,NA,NA,8.875,NA,NA,NA
+"Gill, Trenton",6032,220,31 1/4,9 1/4,NA,NA,PK,NA,NA,9.25,NA,NA,NA
+"Hayes, Blake",6044,226,33 7/8,9 3/4,NA,NA,PK,NA,NA,9.75,NA,NA,NA
+"Stout, Jordan",6032,209,31 3/4,9 3/8,NA,NA,PK,NA,NA,9.375,NA,NA,NA
+"York, Cade",6006,206,31 5/8,8 3/4,NA,NA,PK,NA,NA,8.75,NA,NA,NA
+QB,Jake Browning,6-1 7/8,211,32 1/2,9,29,9-4,QB,NA,32.5,9,NA,29
+QB,Ryan Finley,6-4,213,32 7/8,9 1/2,30.5,9-8,QB,NA,32.875,9.5,NA,30.5
+QB,Nick Fitzgerald,6-4 5/8,226,31 7/8,9 3/4,29.5,9-7,QB,NA,31.875,9.75,NA,29.5
+QB,Will Grier,6-2 1/2,217,31 1/2,9 3/8,34,9-4,QB,NA,31.5,9.375,NA,34
+QB,Dwayne Haskins,6-3 3/8,231,33 1/2,9 5/8,28.5,—,QB,NA,33.5,9.625,NA,28.5
+QB,Tyree Jackson,6-7,249,34 1/4,10 1/4,34.5,10-0,QB,NA,34.25,10.25,NA,34.5
+QB,Daniel Jones,6-5 1/8,221,32 1/2,9 3/4,33.5,10-0,QB,NA,32.5,9.75,NA,33.5
+QB,Drew Lock,6-3 3/4,228,32 1/2,9,31,9-4,QB,NA,32.5,9,NA,31
+QB,Trace McSorley,6-0 1/8,202,31,9 1/8,33,9-7,QB,NA,31,9.125,NA,33
+QB,Gardner Minshew,6-0 7/8,225,31 3/4,10 1/8,33.5,9-8,QB,NA,31.75,10.125,NA,33.5
+QB,Kyler Murray,5-10 1/8,207,28 1/2,9 1/2,—,—,QB,NA,28.5,9.5,NA,NA
+QB,Brett Rypien,6-1 5/8,210,30 3/8,9,33,9-8,QB,NA,30.375,9,NA,33
+QB,Kyle Shurmur,6-4,230,32 3/4,8 7/8,29.5,8-10,QB,NA,32.75,8.875,NA,29.5
+QB,Easton Stick,6-1 1/4,224,32 1/8,9 1/4,33.5,9-10,QB,NA,32.125,9.25,NA,33.5
+QB,Jarrett Stidham,6-2 3/8,218,32,9 1/8,31,9-2,QB,NA,32,9.125,NA,31
+QB,Jordan Ta'amu,6-2 5/8,221,32 1/4,9 7/8,27.5,9-1,QB,NA,32.25,9.875,NA,27.5
+QB,Clayton Thorson,6-4,222,31 1/8,9 3/4,—,—,QB,NA,31.125,9.75,NA,NA
+RB,Rodney Anderson,6-0 3/8,224,30 3/4,9 3/4,—,—,RB,NA,30.75,9.75,NA,NA
+RB,Ryquell Armstead,5-11 1/4,220,30 5/8,9 1/8,30,9-6,RB,NA,30.625,9.125,NA,30
+RB,Alex Barnes,6-0 3/8,226,31,10,38.5,10-6,RB,NA,31,10,NA,38.5
+RB,Nick Brossette,5-11 1/8,209,30,8 5/8,35.5,9-10,RB,NA,30,8.625,NA,35.5
+RB,Miles Gaskin,5-9 1/4,205,29 1/2,8 3/4,35.5,9-10,RB,NA,29.5,8.75,NA,35.5
+RB,Damien Harris,5-10 1/8,216,30 3/4,9 3/4,37,10-1,RB,NA,30.75,9.75,NA,37
+RB,Darrell Henderson,5-8 3/8,208,31,8 5/8,33.5,10-1,RB,NA,31,8.625,NA,33.5
+RB,Karan Higdon,5-9 1/8,206,30 3/4,9 5/8,34,10-3,RB,NA,30.75,9.625,NA,34
+RB,Justice Hill,5-9 5/8,198,31 5/8,9 1/2,40,10-10,RB,NA,31.625,9.5,NA,40
+RB,Elijah Holyfield,5-10 3/8,217,30 3/8,9,29.5,9-10,RB,NA,30.375,9,NA,29.5
+RB,Travis Homer,5-10 3/8,201,31 1/2,10,39.5,10-10,RB,NA,31.5,10,NA,39.5
+RB,Alex Ingold,6-0 3/4,242,31 1/2,9 5/8,34,9-8,RB,NA,31.5,9.625,NA,34
+RB,Josh Jacobs,5-10,220,31 5/8,10 1/8,—,—,RB,59,31.625,10.125,NA,NA
+RB,Bryce Love,5-8 7/8,200,29 3/8,9 1/8,—,—,RB,NA,29.375,9.125,NA,NA
+RB,Alexander Mattison,5-10 5/8,221,31,9 1/8,35,10-7,RB,NA,31,9.125,NA,35
+RB,David Montgomery,5-10 1/8,222,31 3/8,9 1/4,28.5,10-1,RB,NA,31.375,9.25,NA,28.5
+RB,Jalin Moore,5-10,212,32 3/8,9 1/4,—,—,RB,59,32.375,9.25,NA,NA
+RB,Qadree Ollison,6-0 5/8,228,31 1/2,9 5/8,29.5,9-6,RB,NA,31.5,9.625,NA,29.5
+RB,Tony Pollard,5-11 5/8,210,30,9 1/2,35,10-1,RB,NA,30,9.5,NA,35
+RB,Miles Sanders,5-10 5/8,211,30 5/8,9 1/4,36,10-4,RB,NA,30.625,9.25,NA,36
+RB,Jordan Scarlett,5-10 5/8,208,30 3/8,8 7/8,30,9-8,RB,NA,30.375,8.875,NA,30
+RB,LJ Scott,6-0 3/8,227,32 1/8,9 3/8,33,10-0,RB,NA,32.125,9.375,NA,33
+RB,Devin Singletary,5-7 1/2,203,28 7/8,8 1/2,35,9-9,RB,NA,28.875,8.5,NA,35
+RB,Benny Snell,5-10 3/8,224,31,9 3/8,29.5,9-11,RB,NA,31,9.375,NA,29.5
+RB,Mike Weber,5-9 5/8,211,29 3/4,9 3/8,33.5,—,RB,NA,29.75,9.375,NA,33.5
+RB,Dexter Williams,5-11,212,32 1/4,9 5/8,36,10-10,RB,59.125,32.25,9.625,NA,36
+RB,James Williams,5-9 1/2,197,30 3/8,9 1/4,36.5,9-10,RB,NA,30.375,9.25,NA,36.5
+RB,Trayveon Williams,5-8 1/8,206,30 3/8,9 1/4,33,10-1,RB,NA,30.375,9.25,NA,33
+WR,JJ Arcega-Whiteside,6-2,225,33 1/4,9 1/2,—,—,WR,NA,33.25,9.5,NA,NA
+WR,Myles Boykin,6-3 3/4,220,33 1/2,9 7/8,43.5,11-8,WR,NA,33.5,9.875,NA,43.5
+WR,Tyre Brady,6-2 7/8,211,33 5/8,9 3/4,32,9-9,WR,NA,33.625,9.75,NA,32
+WR,A.J. Brown,6-0 1/2,226,32 7/8,9 3/4,36.5,10-0,WR,NA,32.875,9.75,NA,36.5
+WR,Marquise Brown,5-9 3/8,166,30 1/2,9,—,—,WR,NA,30.5,9,NA,NA
+WR,Emmanuel Butler,6-3 1/8,217,33,10 1/8,36,9-7,WR,NA,33,10.125,NA,36
+WR,Hakeem Butler,6-5 3/8,227,35 1/4,10 3/4,36,10-8,WR,NA,35.25,10.75,NA,36
+WR,Parris Campbell,5-11 7/8,205,32 1/4,9 1/2,40,11-3,WR,NA,32.25,9.5,NA,40
+WR,Jamal Custis,6-4 1/8,214,33 7/8,10 7/8,34.5,10-4,WR,NA,33.875,10.875,NA,34.5
+WR,Felton Davis III,6-3 1/2,211,32 3/4,10 1/4,—,—,WR,NA,32.75,10.25,NA,NA
+WR,Ryan Davis,5-9 7/8,189,30 7/8,9 1/4,35,10-4,WR,NA,30.875,9.25,NA,35
+WR,Johnnie Dixon,5-10 3/8,201,30 1/4,9 5/8,37.5,10-0,WR,NA,30.25,9.625,NA,37.5
+WR,Greg Dortch,5-7 1/8,173,29 1/4,9 1/4,—,—,WR,NA,29.25,9.25,NA,NA
+WR,Keelan Doss,6-2 1/8,211,31 3/4,9 1/2,—,—,WR,NA,31.75,9.5,NA,NA
+WR,Ashton Dulin,6-1 3/8,215,33 3/8,9,38,10-1,WR,NA,33.375,9,NA,38
+WR,Jovon Durante,5-11 1/8,160,31 1/8,8 3/4,31.5,10-0,WR,NA,31.125,8.75,NA,31.5
+WR,Jazz Ferguson,6-4 5/8,227,34 1/4,9 1/4,37,10-3,WR,NA,34.25,9.25,NA,37
+WR,Travis Fulgham,6-2 1/2,215,33 3/4,9 1/2,36.5,10-6,WR,NA,33.75,9.5,NA,36.5
+WR,Terry Godwin,5-11 3/8,184,30,9 3/8,36.5,9-9,WR,NA,30,9.375,NA,36.5
+WR,Emanuel Hall,6-1 7/8,201,33 1/4,9 3/4,43.5,11-9,WR,NA,33.25,9.75,NA,43.5
+WR,Mecole Hardman,5-10 1/4,187,30 1/4,9,36.5,9-11,WR,NA,30.25,9,NA,36.5
+WR,Kelvin Harmon,6-2 1/2,221,32 1/2,9 1/2,32.5,9-9,WR,NA,32.5,9.5,NA,32.5
+WR,N'Keal Harry,6-2 3/8,228,33,9 1/2,38.5,10-2,WR,NA,33,9.5,NA,38.5
+WR,Lil'Jordan Humphrey,6-3 5/8,210,32 3/4,9 1/2,33.5,9-11,WR,NA,32.75,9.5,NA,33.5
+WR,Jalen Hurd,6-4 3/4,226,32,10 1/4,—,—,WR,NA,32,10.25,NA,NA
+WR,Andy Isabella,5-8 3/4,188,29 3/4,8 3/8,36.5,10-1,WR,NA,29.75,8.375,NA,36.5
+WR,Gary Jennings Jr.,6-1,214,32 1/2,9 5/8,37,10-7,WR,NA,32.5,9.625,NA,37
+WR,Anthony Johnson,6-1 7/8,209,31 3/8,9 3/8,32.5,10-2,WR,NA,31.375,9.375,NA,32.5
+WR,Diontae Johnson,5-10 1/2,183,30 3/4,9,33.5,10-3,WR,NA,30.75,9,NA,33.5
+WR,KeeSean Johnson,6-1 1/8,201,32,9 1/2,30,9-9,WR,NA,32,9.5,NA,30
+WR,Olabisi Johnson,6-0 1/2,204,30 3/4,10 3/8,38,10-4,WR,NA,30.75,10.375,NA,38
+WR,DaMarkus Lodge,6-1 7/8,202,33 1/8,9 1/2,33.5,9-11,WR,NA,33.125,9.5,NA,33.5
+WR,Terry McLaurin,6-0 1/8,208,31 1/2,9 1/8,37.5,10-5,WR,NA,31.5,9.125,NA,37.5
+WR,D.K. Metcalf,6-3 3/8,228,34 7/8,9 7/8,40.5,11-2,WR,NA,34.875,9.875,NA,40.5
+WR,Jakobi Meyers,6-1 5/8,203,32,9 1/2,37,9-10,WR,NA,32,9.5,NA,37
+WR,Dillon Mitchell,6-1 1/4,197,31 1/2,9,36.5,10-2,WR,NA,31.5,9,NA,36.5
+WR,Stanley Morgan Jr.,6-0,202,32 3/8,9 7/8,38.5,10-5,WR,NA,32.375,9.875,NA,38.5
+WR,Nyqwan Murray,5-10 1/4,191,31 1/8,9 3/8,34,9-5,WR,NA,31.125,9.375,NA,34
+WR,Hunter Renfrow,5-10 1/4,184,29 1/8,7 7/8,35,9-8,WR,NA,29.125,7.875,NA,35
+WR,Riley Ridley,6-1 1/4,199,32 5/8,10 1/4,30.5,10-4,WR,NA,32.625,10.25,NA,30.5
+WR,Deebo Samuel,5-11 1/4,214,31 3/8,10,39,10-2,WR,NA,31.375,10,NA,39
+WR,David Sills V,6-3 1/4,211,32,9,37.5,9-9,WR,NA,32,9,NA,37.5
+WR,Darius Slayton,6-1,190,32 3/4,10,40.5,11-3,WR,NA,32.75,10,NA,40.5
+WR,Jaylen Smith,6-2 1/4,219,33 7/8,9 1/2,34.5,10-2,WR,NA,33.875,9.5,NA,34.5
+WR,Cody Thompson,6-1 1/2,205,31,9 3/8,38.5,9-11,WR,NA,31,9.375,NA,38.5
+WR,Jamarius Way,6-3 1/2,215,33,10 1/4,32.5,9-11,WR,NA,33,10.25,NA,32.5
+WR,Alex Wesley,5-11 7/8,190,31 1/4,9,38.5,10-5,WR,NA,31.25,9,NA,38.5
+WR,Antoine Wesley,6-4 1/8,206,34,9 3/4,37,9-9,WR,NA,34,9.75,NA,37
+TE,Kendall Blanton,6-6 1/4,262,33 3/4,10 3/8,31,9-5,TE,NA,33.75,10.375,NA,31
+TE,Keenen Brown,6-2 1/2,250,34 1/2,9 7/8,33,9-9,TE,NA,34.5,9.875,NA,33
+TE,C.J. Conrad,6-4 1/2,249,31,9 1/4,—,—,TE,NA,31,9.25,NA,NA
+TE,Noah Fant,6-4 1/8,249,33 1/2,9 3/4,39.5,10-7,TE,NA,33.5,9.75,NA,39.5
+TE,Zach Gentry,6-8 1/8,265,34 1/8,9 1/2,29.5,9-2,TE,NA,34.125,9.5,NA,29.5
+TE,Daniel Helm,6-4 1/8,249,33 3/8,9 1/2,—,—,TE,NA,33.375,9.5,NA,NA
+TE,T.J. Hockenson,6-4 3/4,251,32 1/4,9 1/2,37.5,10-3,TE,NA,32.25,9.5,NA,37.5
+TE,Dawson Knox,6-4 3/8,254,33 1/2,9 3/4,34.5,—,TE,NA,33.5,9.75,NA,34.5
+TE,Alize Mack,6-4,249,33 3/4,9 3/8,36,10-0,TE,NA,33.75,9.375,NA,36
+TE,Foster Moreau,6-4 1/8,253,33 1/2,9 5/8,36.5,10-1,TE,NA,33.5,9.625,NA,36.5
+TE,Isaac Nauta,6-3 1/4,244,31 7/8,9 3/8,28,—,TE,NA,31.875,9.375,NA,28
+TE,Josh Oliver,6-4 5/8,249,33 1/2,10 3/4,34,9-9,TE,NA,33.5,10.75,NA,34
+TE,Dax Raymond,6-4 3/4,255,32 5/8,10 1/4,32,9-1,TE,NA,32.625,10.25,NA,32
+TE,Drew Sample,6-4 3/4,255,33 3/8,9 5/8,33.5,9-7,TE,NA,33.375,9.625,NA,33.5
+TE,Irv Smith Jr.,6-2 3/8,242,31 1/2,9 1/2,32.5,9-2,TE,NA,31.5,9.5,NA,32.5
+TE,Kaden Smith,6-5,255,32 1/4,9 5/8,32,9-0,TE,NA,32.25,9.625,NA,32
+TE,Jace Sternberger,6-4,251,32 1/8,9 3/4,31.5,9-5,TE,NA,32.125,9.75,NA,31.5
+TE,Tommy Sweeney,6-4 1/2,251,32 3/4,9 3/4,—,—,TE,NA,32.75,9.75,NA,NA
+TE,Kahale Warring,6-5 1/8,252,32 3/4,9 3/4,36.5,10-2,TE,NA,32.75,9.75,NA,36.5
+TE,Trevon Wesco,6-3 1/2,267,34 3/4,9 1/2,31,9-9,TE,NA,34.75,9.5,NA,31
+TE,Caleb Wilson,6-4 1/4,240,33,9 3/4,29,9-5,TE,NA,33,9.75,NA,29
+OL,Paul Adams,6-5 7/8,317,33 1/2,10,27,8-7,OL,NA,33.5,10,NA,27
+OL,Zack Bailey,6-5 1/8,299,33,9 5/8,28,8-7,OL,NA,33,9.625,NA,28
+OL,Alex Bars,6-5 7/8,312,32 3/4,9 3/8,—,—,OL,NA,32.75,9.375,NA,NA
+OL,Jackson Barton,6-7 1/4,310,34,9 1/4,27,9-1,OL,NA,34,9.25,NA,27
+OL,Ryan Bates,6-4 1/2,306,32 1/2,9 1/2,27,8-6,OL,NA,32.5,9.5,NA,27
+OL,Beau Benzschawel,6-6 1/4,309,33 3/8,9 5/8,—,—,OL,NA,33.375,9.625,NA,NA
+OL,Garrett Bradbury,6-2 7/8,306,31 3/4,10 1/2,31,8-8,OL,NA,31.75,10.5,NA,31
+OL,Yodny Cajuste,6-4 7/8,312,34,10,—,—,OL,NA,34,10,NA,NA
+OL,Shaq Calhoun,6-2 1/2,310,33 1/8,10,28.5,8-9,OL,NA,33.125,10,NA,28.5
+OL,Dennis Daley,6-5,317,33 3/8,9 1/2,26.5,8-7,OL,NA,33.375,9.5,NA,26.5
+OL,Nate Davis,6-3 1/4,316,33 1/8,9 1/2,26,8-11,OL,NA,33.125,9.5,NA,26
+OL,Michael Deiter,6-5 1/8,309,33 1/8,10 3/4,28,8-9,OL,NA,33.125,10.75,NA,28
+OL,Andre Dillard,6-5,315,33 1/2,10,29,9-10,OL,NA,33.5,10,NA,29
+OL,Chuma Edoga,6-3 1/2,308,34 3/4,9 5/8,—,—,OL,NA,34.75,9.625,NA,NA
+OL,David Edwards,6-6 1/4,308,33 3/8,9 3/4,25.5,8-3,OL,NA,33.375,9.75,NA,25.5
+OL,Bobby Evans,6-4 3/8,312,34 3/4,9 7/8,—,—,OL,NA,34.75,9.875,NA,NA
+OL,Cody Ford,6-3 3/4,329,34,9 3/4,28.5,8-8,OL,NA,34,9.75,NA,28.5
+OL,Hjalte Froholdt,6-4 5/8,306,31 1/4,9 3/4,27.5,8-9,OL,NA,31.25,9.75,NA,27.5
+OL,Lamont Gaillard,6-2 5/8,305,33 1/2,10 3/8,—,—,OL,NA,33.5,10.375,NA,NA
+OL,Derwin Gray,6-4 1/2,320,34 3/8,9 5/8,—,7-6,OL,NA,34.375,9.625,NA,NA
+OL,Donnell Greene,6-5 1/4,335,35 1/4,9 1/2,—,—,OL,NA,35.25,9.5,NA,NA
+OL,Ethan Greenidge,6-4 3/8,327,34 3/4,10 3/8,—,—,OL,NA,34.75,10.375,NA,NA
+OL,Phil Haynes,6-3 5/8,322,33 1/2,9 1/2,31,9-0,OL,NA,33.5,9.5,NA,31
+OL,Nate Herbig,6-3 1/2,335,32 3/8,10 1/8,24,7-6,OL,NA,32.375,10.125,NA,24
+OL,Tytus Howard,6-5,322,34,10 5/8,29.5,8-7,OL,NA,34,10.625,NA,29.5
+OL,Mitch Hyatt,6-5 3/8,303,34 1/8,10 1/4,25.5,8-6,OL,NA,34.125,10.25,NA,25.5
+OL,Martez Ivey,6-5,315,36 1/4,10 3/8,—,—,OL,NA,36.25,10.375,NA,NA
+OL,Andre James,6-4 1/8,299,32,10,28,8-9,OL,NA,32,10,NA,28
+OL,Elgton Jenkins,6-4 1/2,310,34,10 1/4,28,9-1,OL,NA,34,10.25,NA,28
+OL,Devon Johnson,6-7 1/4,338,34 3/4,9 1/2,27.5,7-5,OL,NA,34.75,9.5,NA,27.5
+OL,Fred Johnson,6-7 1/8,326,34,10 5/8,—,—,OL,NA,34,10.625,NA,NA
+OL,Tyler Jones,6-3,306,33 3/4,9 3/4,31.5,9-3,OL,NA,33.75,9.75,NA,31.5
+OL,Mike Jordan,6-5 7/8,312,34 1/4,10,32.5,9-8,OL,NA,34.25,10,NA,32.5
+OL,Brandon Knight,6-3 3/4,314,34,10,—,—,OL,NA,34,10,NA,NA
+OL,Chris Lindstrom,6-3 3/4,308,34 1/8,9 1/2,30.5,9-9,OL,NA,34.125,9.5,NA,30.5
+OL,Greg Little,6-5 1/4,310,35 1/4,10 1/4,25,9-5,OL,NA,35.25,10.25,NA,25
+OL,Erik McCoy,6-3 7/8,303,33,9 5/8,31,8-11,OL,NA,33,9.625,NA,31
+OL,Kaleb McGary,6-7 1/8,317,32 7/8,10 1/8,33.5,9-3,OL,NA,32.875,10.125,NA,33.5
+OL,Connor McGovern,6-5 3/8,308,34 1/8,9 7/8,—,9-4,OL,NA,34.125,9.875,NA,NA
+OL,Joshua Miles,6-5,314,35 5/8,10 3/4,36,9-1,OL,NA,35.625,10.75,NA,36
+OL,Yosh Nijman,6-6 7/8,324,34,10,—,9-6,OL,NA,34,10,NA,NA
+OL,Iosua Opeta,6-4 1/4,301,33 1/4,9 7/8,33,9-4,OL,NA,33.25,9.875,NA,33
+OL,Javon Patterson,6-2 7/8,307,32 1/2,9,27.5,8-2,OL,NA,32.5,9,NA,27.5
+OL,Ross Pierschbacher,6-3 5/8,307,32 1/8,10,22.5,—,OL,NA,32.125,10,NA,22.5
+OL,Trey Pipkins,6-6 1/8,309,33 7/8,9 5/8,33.5,9-6,OL,NA,33.875,9.625,NA,33.5
+OL,Ryan Pope,6-7,320,34 1/4,11 1/8,—,—,OL,NA,34.25,11.125,NA,NA
+OL,Ben Powers,6-4,307,33 3/4,9 7/8,—,—,OL,NA,33.75,9.875,NA,NA
+OL,Isaiah Prince,6-6 1/2,305,35 1/2,10 1/8,27,9-7,OL,NA,35.5,10.125,NA,27
+OL,Dalton Risner,6-4 3/4,312,34,10 1/4,28.5,9-2,OL,NA,34,10.25,NA,28.5
+OL,Tyler Roemer,6-6 3/8,312,33 7/8,10 1/4,30.5,9-0,OL,NA,33.875,10.25,NA,30.5
+OL,Dru Samia,6-4 3/4,305,33,10 1/8,27.5,8-5,OL,NA,33,10.125,NA,27.5
+OL,Max Scharping,6-5 7/8,327,33 5/8,10,28,9-0,OL,NA,33.625,10,NA,28
+OL,William Sweet,6-6,313,34 3/8,10 1/8,30.5,9-3,OL,NA,34.375,10.125,NA,30.5
+OL,Trevon Tate,6-2 1/2,293,32 3/8,9 5/8,—,—,OL,NA,32.375,9.625,NA,NA
+OL,Jawaan Taylor,6-5,312,35 1/8,10,—,—,OL,NA,35.125,10,NA,NA
+OL,Oli Udoh,6-5 1/2,323,35 3/8,10,28.5,8-9,OL,NA,35.375,10,NA,28.5
+OL,Jonah Williams,6-4 1/2,302,33 5/8,10 1/8,28,8-4,OL,NA,33.625,10.125,NA,28
+DL,Zach Allen,6-4 1/8,281,34 3/4,10 1/8,32,9-4,DL,NA,34.75,10.125,NA,32
+DL,Ben Banogu,6-3 1/2,250,33 5/8,9,40,11-2,DL,NA,33.625,9,NA,40
+DL,Terry Beckner Jr.,6-3 5/8,296,32 1/4,8 5/8,24.5,8-2,DL,NA,32.25,8.625,NA,24.5
+DL,Nick Bosa,6-3 3/4,266,33,10 3/4,33.5,9-8,DL,NA,33,10.75,NA,33.5
+DL,Jordan Brailford,6-2 5/8,252,32 1/2,9 1/8,37.5,10-6,DL,NA,32.5,9.125,NA,37.5
+DL,Austin Bryant,6-3 7/8,271,34 5/8,9 5/8,—,—,DL,NA,34.625,9.625,NA,NA
+DL,Isaiah Buggs,6-3 1/8,306,31 1/4,9 1/4,24.5,8-0,DL,NA,31.25,9.25,NA,24.5
+DL,Brian Burns,6-4 3/4,249,33 7/8,10,36,10-9,DL,NA,33.875,10,NA,36
+DL,Malik Carney,6-2,251,33 3/8,9 7/8,33,9-5,DL,NA,33.375,9.875,NA,33
+DL,Demarcus Christmas,6-3 3/8,294,32 3/4,9 1/8,25.5,8-5,DL,NA,32.75,9.125,NA,25.5
+DL,L.J. Collier,6-2 1/4,283,34,10,30,9-10,DL,NA,34,10,NA,30
+DL,John Cominsky,6-5 1/4,286,33 1/2,9 3/4,33.5,9-8,DL,NA,33.5,9.75,NA,33.5
+DL,Byron Cowart,6-3,298,33 3/4,10,30,9-3,DL,NA,33.75,10,NA,30
+DL,Maxx Crosby,6-4 7/8,255,32 7/8,9 3/4,36,10-2,DL,NA,32.875,9.75,NA,36
+DL,Jamal Davis,6-3 1/8,243,34 1/4,9 1/4,39,10-2,DL,NA,34.25,9.25,NA,39
+DL,Clelin Ferrell,6-4 3/8,264,34 1/8,10 1/2,—,—,DL,NA,34.125,10.5,NA,NA
+DL,Greg Gaines,6-1,312,31 1/4,9 5/8,31,9-1,DL,NA,31.25,9.625,NA,31
+DL,Rashan Gary,6-4 3/8,277,34 1/8,9 5/8,38,10-0,DL,NA,34.125,9.625,NA,38
+DL,Kevin Givens,6-1 1/4,285,32 1/8,9 5/8,31,9-7,DL,NA,32.125,9.625,NA,31
+DL,Carl Granderson,6-4 3/4,254,34,9 5/8,35,9-11,DL,NA,34,9.625,NA,35
+DL,Gerri Green,6-4,252,33,10,35,9-6,DL,NA,33,10,NA,35
+DL,Trysten Hill,6-2 3/4,308,33 3/8,10 1/4,35,9-7,DL,NA,33.375,10.25,NA,35
+DL,Albert Huggins,6-2 7/8,305,33 1/2,10 5/8,25.5,8-5,DL,NA,33.5,10.625,NA,25.5
+DL,Joe Jackson,6-4 1/4,275,34 1/8,10,27,9-1,DL,NA,34.125,10,NA,27
+DL,CeCe Jefferson,6-1 1/2,266,33 5/8,9 5/8,30.5,9-0,DL,NA,33.625,9.625,NA,30.5
+DL,Jalen Jelks,6-5 3/8,256,34 5/8,9 5/8,32.5,9-5,DL,NA,34.625,9.625,NA,32.5
+DL,Darryl Johnson,6-6,253,33 7/8,10,—,—,DL,NA,33.875,10,NA,NA
+DL,Dre'Mont Jones,6-2 3/4,281,33 3/4,9 5/8,31.5,9-2,DL,NA,33.75,9.625,NA,31.5
+DL,Kingsley Keke,6-2 5/8,288,34 1/2,9 3/4,31.5,9-3,DL,NA,34.5,9.75,NA,31.5
+DL,Dexter Lawrence,6-4 1/2,342,34 3/4,10 1/2,—,—,DL,NA,34.75,10.5,NA,NA
+DL,Jonathan Ledbetter,6-3 3/4,280,34 1/2,9 7/8,26.5,9-0,DL,NA,34.5,9.875,NA,26.5
+DL,Daylon Mack,6-1,336,31 1/4,10 1/4,27,8-6,DL,NA,31.25,10.25,NA,27
+DL,Shareef Miller,6-4 1/2,254,33 5/8,10 1/8,29.5,—,DL,NA,33.625,10.125,NA,29.5
+DL,Anthony Nelson,6-7,271,34 7/8,9 7/8,35.5,9-10,DL,NA,34.875,9.875,NA,35.5
+DL,Ed Oliver,6-1 7/8,287,31 3/4,9 1/4,36,10-0,DL,NA,31.75,9.25,NA,36
+DL,Charles Omenihu,6-5 3/8,280,36,9 3/8,36.5,9-7,DL,NA,36,9.375,NA,36.5
+DL,Jachai Polite,6-2 5/8,258,32 5/8,9 3/4,32,—,DL,NA,32.625,9.75,NA,32
+DL,Wyatt Ray,6-3 1/4,257,32 1/2,9 3/8,34,9-10,DL,NA,32.5,9.375,NA,34
+DL,Dontavius Russell,6-2 3/4,319,32,9 1/2,—,—,DL,NA,32,9.5,NA,NA
+DL,Khalen Saunders,6-0 3/8,324,32 1/4,9 1/8,30.5,8-5,DL,NA,32.25,9.125,NA,30.5
+DL,Chris Slayton,6-3 5/8,307,33 1/2,10 5/8,29,8-5,DL,NA,33.5,10.625,NA,29
+DL,Sutton Smith,6-0 3/8,233,30 3/4,8 1/2,31.5,9-10,DL,NA,30.75,8.5,NA,31.5
+DL,Montez Sweat,6-5 3/4,260,35 3/4,10 1/2,36,10-5,DL,NA,35.75,10.5,NA,36
+DL,Jerry Tillery,6-6 1/2,295,34 1/4,10 5/8,32,9-7,DL,NA,34.25,10.625,NA,32
+DL,Armon Watts,6-4 5/8,300,33 3/8,9 5/8,—,—,DL,NA,33.375,9.625,NA,NA
+DL,Christian Wilkins,6-3 1/4,315,32 1/2,9 3/4,29.5,8-11,DL,NA,32.5,9.75,NA,29.5
+DL,Quinnen Williams,6-3,303,33 1/4,9 5/8,30.5,9-4,DL,NA,33.25,9.625,NA,30.5
+DL,Gerald Willis,6-1 3/4,302,33,8 1/2,—,—,DL,NA,33,8.5,NA,NA
+DL,Chase Winovich,6-2 3/4,256,32 3/4,10,30.5,9-8,DL,NA,32.75,10,NA,30.5
+DL,Daniel Wise,6-2 5/8,281,33,10,27.5,9-4,DL,NA,33,10,NA,27.5
+DL,Renell Wren,6-4 7/8,318,33 7/8,10,32,9-10,DL,NA,33.875,10,NA,32
+DL,Oshane Ximines,6-3 1/2,253,33,9 7/8,34,9-10,DL,NA,33,9.875,NA,34
+LB,Otaro Alaka,6-3,239,33,9 3/4,36,10-11,LB,NA,33,9.75,NA,36
+LB,Dakota Allen,6-0 3/4,232,31 1/4,9 1/4,31.5,9-8,LB,NA,31.25,9.25,NA,31.5
+LB,Josh Allen,6-4 7/8,262,33 1/2,8 3/4,—,9-10,LB,NA,33.5,8.75,NA,NA
+LB,Bryson Allen-Williams,6-0 5/8,236,31 1/2,9 3/4,—,—,LB,NA,31.5,9.75,NA,NA
+LB,Jeff Allison,5-11 1/4,228,32 1/4,10,31,9-7,LB,NA,32.25,10,NA,31
+LB,Azeez Al-Shaair,6-0 5/8,234,32 3/8,9 1/2,—,—,LB,NA,32.375,9.5,NA,NA
+LB,Cody Barton,6-2 1/2,237,31 7/8,9 1/4,32.5,9-8,LB,NA,31.875,9.25,NA,32.5
+LB,Ben Burr-Kirven,6-0,230,31 7/8,8 7/8,34.5,10-1,LB,NA,31.875,8.875,NA,34.5
+LB,Devin Bush,5-11,234,32,9 5/8,40.5,10-4,LB,59.125,32,9.625,NA,40.5
+LB,Blake Cashman,6-1 1/8,237,30 1/8,8 3/4,37.5,10-4,LB,NA,30.125,8.75,NA,37.5
+LB,Te'von Coney,6-0 7/8,234,32 7/8,9 1/2,—,—,LB,NA,32.875,9.5,NA,NA
+LB,Ryan Connelly,6-2 1/8,242,30 7/8,9 3/8,34.5,9-10,LB,NA,30.875,9.375,NA,34.5
+LB,Deshaun Davis,5-11 3/8,234,31 1/4,10,31,9-3,LB,NA,31.25,10,NA,31
+LB,Tyrel Dodson,6-0 3/8,237,31 3/4,9 1/8,—,9-10,LB,NA,31.75,9.125,NA,NA
+LB,T.J. Edwards,6-0 3/8,230,31 1/4,9 3/8,—,—,LB,NA,31.25,9.375,NA,NA
+LB,Emeke Egbule,6-2,245,33,9 1/4,33,9-11,LB,NA,33,9.25,NA,33
+LB,Joe Giles-Harris,6-1 3/4,234,31 1/4,8 1/2,29.5,9-3,LB,NA,31.25,8.5,NA,29.5
+LB,Dre Greenlaw,5-11 1/2,237,32 1/4,9 7/8,33,9-9,LB,NA,32.25,9.875,NA,33
+LB,Porter Gustin,6-4 1/2,255,33,10,35.5,9-11,LB,NA,33,10,NA,35.5
+LB,Nate Hall,6-2 1/4,225,32 1/4,9 3/8,—,—,LB,NA,32.25,9.375,NA,NA
+LB,Terez Hall,6-1 1/8,230,33 1/2,10 3/8,—,—,LB,NA,33.5,10.375,NA,NA
+LB,Terrill Hanks,6-2,242,33 1/2,9 3/4,35.5,9-10,LB,NA,33.5,9.75,NA,35.5
+LB,Chase Hansen,6-2 7/8,222,30 1/2,9 3/8,—,—,LB,NA,30.5,9.375,NA,NA
+LB,Justin Hollins,6-5 1/4,248,33 3/8,10 3/8,36.5,9-11,LB,NA,33.375,10.375,NA,36.5
+LB,Gary Johnson,5-11 7/8,226,31 1/4,10 1/4,33.5,10-1,LB,NA,31.25,10.25,NA,33.5
+LB,Jordan Jones,6-1 3/4,234,31 3/4,9,32.5,10-3,LB,NA,31.75,9,NA,32.5
+LB,Kendall Joseph,5-11 5/8,233,31 5/8,9 3/4,—,—,LB,NA,31.625,9.75,NA,NA
+LB,Vosean Joseph,6-1 1/2,230,31 3/8,9 5/8,—,—,LB,NA,31.375,9.625,NA,NA
+LB,Tre Lamar,6-3 3/8,253,32 1/4,9 1/2,—,—,LB,NA,32.25,9.5,NA,NA
+LB,David Long Jr.,5-11 1/4,227,30 3/4,10,—,—,LB,NA,30.75,10,NA,NA
+LB,Christian Miller,6-3 3/8,247,35 1/8,9 3/4,38.5,9-10,LB,NA,35.125,9.75,NA,38.5
+LB,Bobby Okereke,6-1 3/8,239,34 1/2,10 1/8,33.5,10-2,LB,NA,34.5,10.125,NA,33.5
+LB,Germaine Pratt,6-2 1/2,240,31 5/8,9 1/8,32.5,9-8,LB,NA,31.625,9.125,NA,32.5
+LB,Cameron Smith,6-2,238,32,9 5/8,39,10-3,LB,NA,32,9.625,NA,39
+LB,Ty Summers,6-1 3/8,241,31 1/2,10,36,10-3,LB,NA,31.5,10,NA,36
+LB,Sione Takitaki,6-1 1/8,238,32,9 5/8,37,10-5,LB,NA,32,9.625,NA,37
+LB,Jahlani Tavai,6-2 3/8,250,31 7/8,9,—,—,LB,NA,31.875,9,NA,NA
+LB,Drue Tranquill,6-2,234,31 1/2,9 3/4,37.5,10-2,LB,NA,31.5,9.75,NA,37.5
+LB,Andrew Van Ginkel,6-3 1/2,241,32 1/2,9 3/8,38,10-3,LB,NA,32.5,9.375,NA,38
+LB,D'Andre Walker,6-2 3/8,251,34 3/8,9 7/8,—,—,LB,NA,34.375,9.875,NA,NA
+LB,Devin White,6-0,237,32 1/8,9 3/4,39.5,9-10,LB,NA,32.125,9.75,NA,39.5
+LB,Mack Wilson,6-1 1/8,240,32 3/8,9 1/4,32,9-9,LB,NA,32.375,9.25,NA,32
+DB,Johnathan Abram,5-11 3/8,205,31 3/8,9 5/8,—,9-8,DB,NA,31.375,9.625,NA,NA
+DB,Nasir Adderley,5-11 3/4,206,31,9,—,—,DB,NA,31,9,NA,NA
+DB,Ugo Imadi,5-9 3/8,199,31 3/4,9 1/2,32.5,9-7,DB,NA,31.75,9.5,NA,32.5
+DB,Blessuan Austin,6-0 5/8,198,32 1/2,10,—,—,DB,NA,32.5,10,NA,NA
+DB,Derrick Baity,6-2 1/8,197,31 1/2,8 5/8,38.5,10-7,DB,NA,31.5,8.625,NA,38.5
+DB,Deandre Baker,5-11,193,32,9,—,9-10,DB,59.125,32,9,NA,NA
+DB,Corey Ballentine,5-11,196,31 5/8,9 1/2,39.5,11-3,DB,59.125,31.625,9.5,NA,39.5
+DB,John Battle,6-0 1/2,201,31 3/4,9 5/8,29.5,10-0,DB,NA,31.75,9.625,NA,29.5
+DB,Mike Bell,6-2 3/4,210,32 3/8,9 1/4,30,9-10,DB,NA,32.375,9.25,NA,30
+DB,Marquise Blair,6-1 1/4,195,30 3/4,8 1/4,35,10-5,DB,NA,30.75,8.25,NA,35
+DB,Kris Boyd,5-11 1/2,201,30 3/4,9,36.5,10-7,DB,NA,30.75,9,NA,36.5
+DB,Blace Brown,6-0 3/8,194,32,9 3/4,—,10-6,DB,NA,32,9.75,NA,NA
+DB,Jordan Brown,6-0 3/8,201,30 1/2,9 5/8,39.5,10-8,DB,NA,30.5,9.625,NA,39.5
+DB,Sean Bunting,6-0 3/8,195,31 3/4,9 5/8,41.5,10-6,DB,NA,31.75,9.625,NA,41.5
+DB,Hamp Cheevers,5-9 3/8,169,30 1/2,8 5/8,39,10-2,DB,NA,30.5,8.625,NA,39
+DB,Jonathan Crawford,6-1,205,31 1/2,9 1/4,31.5,9-7,DB,NA,31.5,9.25,NA,31.5
+DB,Xavier Crawford,5-10 7/8,187,29 1/8,9,37.5,—,DB,NA,29.125,9,NA,37.5
+DB,Davante Davis,6-2 1/8,202,31 3/8,9 3/4,37,10-5,DB,NA,31.375,9.75,NA,37
+DB,Jamel Dean,6-1,206,31 3/4,9 1/8,41,10-10,DB,NA,31.75,9.125,NA,41
+DB,Lukas Denis,5-11 1/4,190,31 1/4,9 1/2,33.5,9-8,DB,NA,31.25,9.5,NA,33.5
+DB,D'Cota Dixon,5-9 5/8,204,29 1/4,9 1/8,33.5,9-11,DB,NA,29.25,9.125,NA,33.5
+DB,Mike Edwards,5-10 1/2,205,30 7/8,9 3/8,—,—,DB,NA,30.875,9.375,NA,NA
+DB,Rashad Fenton,5-11,193,30 3/8,8 3/4,34,9-9,DB,59.125,30.375,8.75,NA,34
+DB,Mark Fields,5-9 7/8,192,30 1/2,9 1/8,—,—,DB,NA,30.5,9.125,NA,NA
+DB,Malik Gant,5-11 5/8,209,30 1/2,8 7/8,34.5,9-6,DB,NA,30.5,8.875,NA,34.5
+DB,Chauncey Gardner-Johnson,5-10 7/8,210,30 7/8,9 1/4,36,9-9,DB,NA,30.875,9.25,NA,36
+DB,Saquan Hampton,6-1 1/4,206,31 5/8,8 5/8,—,10-5,DB,NA,31.625,8.625,NA,NA
+DB,Will Harris,6-1,207,31 1/4,9,36.5,10-3,DB,NA,31.25,9,NA,36.5
+DB,Montre Hartage,5-11 3/8,190,31 3/4,9,34.5,10-3,DB,NA,31.75,9,NA,34.5
+DB,Alijah Holder,6-0 3/4,191,32 1/2,9 1/2,36,10-1,DB,NA,32.5,9.5,NA,36
+DB,Amani Hooker,5-11 3/8,210,30 1/8,9 1/8,37,10-3,DB,NA,30.125,9.125,NA,37
+DB,Michael Jackson,6-0 5/8,210,32 1/2,9 3/4,40.5,10-10,DB,NA,32.5,9.75,NA,40.5
+DB,Isaiah Johnson,6-2 1/8,208,33,8 3/4,36.5,11-1,DB,NA,33,8.75,NA,36.5
+DB,Jaquan Johnson,5-10 1/8,191,29 5/8,8 3/4,33,10-1,DB,NA,29.625,8.75,NA,33
+DB,Lonnie Johnson,6-1 7/8,213,32 5/8,9 1/8,38,10-9,DB,NA,32.625,9.125,NA,38
+DB,Justin Layne,6-1 3/4,192,33,9 1/4,37.5,11-2,DB,NA,33,9.25,NA,37.5
+DB,Iman Lewis-Marshall,6-0 5/8,207,30 3/8,9 1/2,—,—,DB,NA,30.375,9.5,NA,NA
+DB,David Long,5-10 5/8,196,30 7/8,9 5/8,39.5,10-0,DB,NA,30.875,9.625,NA,39.5
+DB,Julian Love,5-10 3/4,195,31 3/4,9,36,10-1,DB,NA,31.75,9,NA,36
+DB,Mark McLaurin,6-1 1/2,212,31 5/8,9 5/8,36,—,DB,NA,31.625,9.625,NA,36
+DB,Jordan Miller,6-0 5/8,186,32 7/8,9 5/8,37,10-5,DB,NA,32.875,9.625,NA,37
+DB,Trayvon Mullen,6-1 1/2,199,31,9 1/8,34.5,10-3,DB,NA,31,9.125,NA,34.5
+DB,Byron Murphy,5-10 3/4,190,30 1/8,8 7/8,36.5,10-0,DB,NA,30.125,8.875,NA,36.5
+DB,Amani Oruwariye,6-1 5/8,205,31 3/8,9,36.5,10-0,DB,NA,31.375,9,NA,36.5
+DB,Jamal Peters,6-1 3/4,218,32 3/8,9 3/4,—,—,DB,NA,32.375,9.75,NA,NA
+DB,Ryan Pulley,5-10 5/8,209,32 3/4,9 1/4,31,9-3,DB,NA,32.75,9.25,NA,31
+DB,Taylor Rapp,5-11 3/4,208,30 3/4,9,35,9-7,DB,NA,30.75,9,NA,35
+DB,Sheldrick Redwine,6-0,196,31 3/4,9 3/8,39,10-10,DB,NA,31.75,9.375,NA,39
+DB,Darnell Savage Jr.,5-10 3/4,198,31,9 1/8,39.5,10-6,DB,NA,31,9.125,NA,39.5
+DB,Kendall Sheffield,5-11 3/8,193,31 1/2,9 1/4,—,—,DB,NA,31.5,9.25,NA,NA
+DB,Saivion Smith,6-0 7/8,199,33 1/4,9 1/2,33,10-1,DB,NA,33.25,9.5,NA,33
+DB,Marvell Tell III,6-2,198,33 1/8,9 3/4,42,11-4,DB,NA,33.125,9.75,NA,42
+DB,Derrek Thomas,6-2 7/8,189,33 3/4,10,39.5,10-11,DB,NA,33.75,10,NA,39.5
+DB,Deionte Thompson,6-1,195,32 1/8,9 7/8,—,—,DB,NA,32.125,9.875,NA,NA
+DB,Juan Thornhill,6-0 1/4,205,31 1/8,8 3/4,44,11-9,DB,NA,31.125,8.75,NA,44
+DB,Ken Webster,5-10 7/8,203,32,8 7/8,43,11-1,DB,NA,32,8.875,NA,43
+DB,Darius West,5-10 7/8,208,31 3/8,9 1/8,33.5,9-5,DB,NA,31.375,9.125,NA,33.5
+DB,Greedy Williams,6-1 7/8,185,31 1/2,9 1/4,—,—,DB,NA,31.5,9.25,NA,NA
+DB,Joejuan Williams,6-3 5/8,211,32 1/2,9 3/4,—,—,DB,NA,32.5,9.75,NA,NA
+DB,Khari Willis,5-10 7/8,213,31,9 1/2,34.5,9-10,DB,NA,31,9.5,NA,34.5
+DB,Donovan Wilson,6-0,199,33 3/8,9 3/4,36,10-7,DB,NA,33.375,9.75,NA,36
+DB,Andrew Wingard,6-0 1/8,209,30 1/2,8 5/8,36.5,10-1,DB,NA,30.5,8.625,NA,36.5
+DB,Zedrick Woods,5-11,205,31 5/8,9 1/8,34.5,10-2,DB,59.125,31.625,9.125,NA,34.5
+DB,Evan Worthington,6-1 7/8,212,32 3/4,9 1/2,33.5,10-1,DB,NA,32.75,9.5,NA,33.5
+DB,Rock Ya-Sin,5-11 3/4,192,32,9 7/8,39.5,10-0,DB,NA,32,9.875,NA,39.5
