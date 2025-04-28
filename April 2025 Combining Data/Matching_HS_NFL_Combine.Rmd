@@ -1,0 +1,45 @@
+---
+title: "Finding Matching Combine Info"
+author: "James Joyce - 205765421"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r}
+converted_2014_2018_combine_data <- read_csv("RecruitingUCLA/converted_2014_2018_combine_data.csv")
+converted_2019_2022_combine_data <- read_csv("RecruitingUCLA/converted_2019_2022_combine_data.csv")
+HS_combine_data <- read_csv("RecruitingUCLA/HS_combine_data.csv")
+```
+
+### Combining NFL Combine Data and Removing Commas
+
+```{r}
+cleaned_2014_2018_combine_data <- converted_2014_2018_combine_data %>% select(Position_Group,Name,Converted_Height,Weight,Converted_Arm,Converted_Hand,Converted_Vertical,Converted_Broad)
+cleaned_2019_2022_combine_data <- converted_2019_2022_combine_data %>% select(Position_Group,Name,Converted_Height,Weight,Converted_Arm,Converted_Hand,Converted_Vertical,Converted_Broad)
+
+
+combine_2014_2022 <- rbind(cleaned_2014_2018_combine_data,cleaned_2019_2022_combine_data)
+
+combine_data <- combine_2014_2022 %>%
+  mutate(Name = sapply(Name, function(x) {
+    name <- unlist(strsplit(x, ", "))
+    if (length(name) == 2) {
+      paste(name[2], name[1])
+    } else {
+      x
+    }
+  }))
+```
+
+
+
+
+###
+
+```{r}
+joined_combine <- inner_join(HS_combine_data,combine_data, by = "Name")
+
+
+```
+
+
