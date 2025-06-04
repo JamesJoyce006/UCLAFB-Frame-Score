@@ -7,7 +7,7 @@ output: html_document
 
 
 ```{r}
-dataset <- read_csv("RecruitingUCLA/complete_HS_NFL_data_May19th.csv")
+dataset <- read_csv("complete_HS_NFL_data_May19th.csv")
 
 #dataset <- dataset %>% select(-c(Name,Source_File,Link,SPARQ,Power_Throw,Position,Converted_Vertical,Converted_Broad))
 
@@ -74,7 +74,7 @@ print(table(Original = dataset$Position.x, New = dataset$Position_Group))
 
 
 ```{r}
-dataset <- dataset %>% select(-c(Name,Source_File,Link,SPARQ,Power_Throw,Position.x,Position.y))
+dataset <- dataset %>% select(-c(Name,Source_File,Link,SPARQ,Power_Throw,Position.x,Position.y,Converted_Broad,Converted_Vertical,Converted_Height))
 ```
 
 
@@ -151,65 +151,22 @@ wrap_plots(resid_density_plots) + plot_layout(ncol = 2)
 
 
 
-### Random Forest
+
+### Predict
 
 ```{r}
-library(tidymodels)
-
-# Split the data
-set.seed(123)
-data_split <- initial_split(data_imputed, prop = 0.8)
-train_data <- training(data_split)
-test_data  <- testing(data_split)
-
-# Cross-validation
-cv_folds <- vfold_cv(train_data, v = 5)
-
-# Recipe
-rec <- recipe(Weight.x ~ ., data = data_imputed) %>% # Exclude non-predictive variables
-  step_dummy(all_nominal_predictors()) %>%
-  step_zv(all_predictors()) %>%
-  step_rm(Shuttle20, Vertical,Dash40)
-
-# Random forest model
-rf_spec <- rand_forest(
-  mtry = tune(),
-  trees = 500,
-  min_n = tune()
-) %>%
-  set_mode("regression") %>%
-  set_engine("ranger")
-
-# Workflow
-rf_wf <- workflow() %>%
-  add_recipe(rec) %>%
-  add_model(rf_spec)
-
-# Tuning
-rf_grid <- grid_regular(
-  mtry(range = c(1, 5)),
-  min_n(range = c(2, 10)),
-  levels = 5
+input <- data_frame(
+  Converted_Arm = 32.6,
+  Converted_Hand = 10.4,
+  Height = 73,
+  Weight.y = 224,
+  Dash40 = 4.8,
+  Shuttle20 = 4.5,
+  Vertical = 28,
+  Position_Group = "OL" 
 )
 
-rf_results <- tune_grid(
-  rf_wf,
-  resamples = cv_folds,
-  grid = rf_grid,
-  metrics = metric_set(rmse, rsq)
-)
-
-# Select best model
-best_rf <- select_best(rf_results, metric = "rmse")
-
-# Finalize and fit
-final_rf <- finalize_workflow(rf_wf, best_rf)
-rf_fit <- fit(final_rf, data = train_data)
-
-# Evaluate on test data
-predict(rf_fit, test_data) %>%
-  bind_cols(test_data) %>%
-  metrics(truth = Weight.x, estimate = .pred)
+predict(lm_fit,input)
 
 ```
 
