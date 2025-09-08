@@ -1,0 +1,170 @@
+---
+title: "HS_NFL_Linear_Reg"
+author: "James Joyce - 205765421"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r}
+library(dplyr)
+library(tidyverse)
+```
+
+
+
+```{r}
+dataset <- read_csv("complete_HS_NFL_data_May19th.csv")
+
+#dataset <- dataset %>% select(-c(Name,Source_File,Link,SPARQ,Power_Throw,Position,Converted_Vertical,Converted_Broad))
+
+dataset[which(dataset$Name == "Isaiah Simmons"),1] <- "LB"
+```
+
+```{r}
+# Assuming your dataframe is named 'dataset'
+
+# Create a mapping list for the positions
+position_map <- list(
+  "QB" = "QB",
+  "RB" = "RB",
+  "WO" = "WR", # Wide Out, similar to WR
+  "TE" = "TE",
+  "FB" = "RB", # Fullback
+  "WR" = "WR",
+  "OL" = "OL",
+  "OT" = "OL", # Offensive Tackle
+  "OG" = "OL", # Offensive Guard
+  "OC" = "OL", # Offensive Center
+  "C"  = "OL",  # Center (often used interchangeably with OC)
+  "DL" = "DL",
+  "DT" = "DL", # Defensive Tackle
+  "DE" = "EDGE", # Defensive End
+  "NT" = "DL", # Nose Tackle
+  "EDGE" = "EDGE", # EDGE rushers are often grouped with DL or sometimes LB depending on scheme
+  "LB" = "LB",
+  "ILB" = "LB", # Inside Linebacker
+  "OLB" = "EDGE", # Outside Linebacker
+  "DB" = "DB",
+  "CB" = "DB", # Cornerback
+  "FS" = "DB", # Free Safety
+  "SS" = "DB"  # Strong Safety
+)
+
+# Create the new column by mapping the existing positions
+# We'll use a function to apply the mapping.
+# If a position isn't in our map (which shouldn't happen with your list),
+# it will result in NA. You can add handling for this if necessary.
+dataset$Position_Group <- sapply(dataset$Position.x, function(pos) {
+  # Find which group the current position belongs to
+  new_pos <- position_map[[pos]]
+  # If a position is not found in the map (it's NULL), you might want to keep the original or assign a default
+  if (is.null(new_pos)) {
+    return(NA) # Or return(pos) to keep the original if not mapped
+  }
+  return(new_pos)
+})
+
+# Verify the new unique position groups
+print(unique(dataset$Position_Group))
+
+# You can also see a frequency table of the new groups
+print(table(dataset$Position_Group))
+
+# And a table of the original vs new groups to check the mapping
+print(table(Original = dataset$Position.x, New = dataset$Position_Group))
+```
+```{r}
+dataset <- dataset %>% select(-c(Name,Source_File,Link,SPARQ,Power_Throw,Position.x,Position.y,Converted_Broad,Converted_Vertical,Converted_Height))
+```
+
+
+```{r}
+library(tidymodels)
+library(dplyr)
+
+data_imputed <- dataset %>%
+  filter(!Position_Group %in% c("OL", "DL")) %>%
+  group_by(Position_Group) %>%
+  mutate(across(where(is.numeric) & !Weight.x, ~ifelse(is.na(.x), mean(.x, na.rm = TRUE), .x))) %>%
+  ungroup()
+
+# Create recipe (excluding unnecessary columns like Name, Link)
+impute_recipe <- recipe(Weight.x ~ ., data = data_imputed) %>% # Exclude non-predictive variables
+  step_dummy(all_nominal_predictors()) %>%
+  step_zv(all_predictors()) %>%
+  step_rm(Shuttle20, Vertical,Dash40)
+
+# Define the linear regression model
+lm_model <- linear_reg() %>% 
+  set_engine("lm")
+
+# Workflow creation and fitting
+lm_workflow <- workflow() %>%
+  add_recipe(impute_recipe) %>%
+  add_model(lm_model)
+
+# Fit the model
+lm_fit <- lm_workflow %>% fit(data_imputed)
+
+# View results
+tidy(lm_fit) %>% print(n = Inf)
+glance(lm_fit)
+
+```
+
+```{r}
+library(patchwork)
+predictions <- augment(lm_fit, data_imputed)
+
+# Plot residuals by Position_Group
+ggplot(predictions, aes(x = Position_Group, y = .resid)) +
+  geom_boxplot(fill = "skyblue") +
+  labs(title = "Residuals by Position Group", x = "Position Group", y = "Residuals") +
+  theme_minimal()
+
+# Plot observed vs predicted values
+ggplot(predictions, aes(x = .pred, y = Weight.x)) +
+  geom_point(alpha = 0.6, color = "darkblue") +
+  geom_abline(intercept = 0, slope = 1, color = "red", linetype = "dashed") +
+  labs(title = "Observed vs Predicted Values", x = "Predicted Weight", y = "Observed Weight") +
+  theme_minimal()
+
+
+```
+
+
+
+```{r}
+resid_density_plots <- predictions %>%
+  filter(!is.na(Position_Group)) %>%
+  split(.$Position_Group) %>%
+  map(~ggplot(.x, aes(x = .resid)) +
+        geom_density(fill = "steelblue", alpha = 0.7) +
+        labs(title = unique(.x$Position_Group), x = "Residuals", y = "Density") +
+        theme_minimal())
+
+walk(resid_density_plots, print)
+# Arrange plots in 3x3 grid
+wrap_plots(resid_density_plots) + plot_layout(ncol = 2)
+```
+
+
+
+
+### Predict
+
+```{r}
+input <- data_frame(
+  Converted_Arm = 32.6,
+  Converted_Hand = 10.4,
+  Height = 73,
+  Weight.y = 224,
+  Dash40 = 4.8,
+  Shuttle20 = 4.5,
+  Vertical = 28,
+  Position_Group = "RB" 
+)
+
+predict(lm_fit,input)
+```
+
